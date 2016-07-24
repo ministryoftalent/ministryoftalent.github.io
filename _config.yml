@@ -1,0 +1,24 @@
+# Site settings
+title:
+header-img: img/min_background_bulb.jpg
+email: Aga@ministryoftalent.co.uk
+copyright_name: MinistryofTalent
+description: "Blog o rozwoju, karierze i pracy w brażny rekruratycyjnej w Londynie"
+baseurl:
+url: "http://ministryoftalent.co.uk"
+twitter_username: AgaDeszczka
+facebook_username: "https://www.facebook.com/ministryoftalent/"
+email_username:  Aga@ministryoftalent.co.uk
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+google_tracking_id: UA-77735576-1
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
