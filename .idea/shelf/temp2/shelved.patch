@@ -1,0 +1,120 @@
+Index: _site/2016/06/23/erasmus/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _site/2016/06/23/erasmus/index.html	(date 1469482623000)
++++ _site/2016/06/23/erasmus/index.html	(revision )
+@@ -182,7 +182,7 @@
+                     
+                     
+                     <li>
+-                        <a href="https://www.facebook.com/ministryoftalent">
++                        <a href="https://www.facebook.com/ministryoftalent/">
+                             <span class="fa-stack fa-lg">
+                                 <i class="fa fa-circle fa-stack-2x"></i>
+                                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+Index: _site/2016/06/24/wojna-o-brexit/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _site/2016/06/24/wojna-o-brexit/index.html	(date 1469482623000)
++++ _site/2016/06/24/wojna-o-brexit/index.html	(revision )
+@@ -173,7 +173,7 @@
+                     
+                     
+                     <li>
+-                        <a href="https://www.facebook.com/ministryoftalent">
++                        <a href="https://www.facebook.com/ministryoftalent/">
+                             <span class="fa-stack fa-lg">
+                                 <i class="fa fa-circle fa-stack-2x"></i>
+                                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+Index: _site/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _site/index.html	(date 1469482623000)
++++ _site/index.html	(revision )
+@@ -193,7 +193,7 @@
+                     
+                     
+                     <li>
+-                        <a href="https://www.facebook.com/ministryoftalent">
++                        <a href="https://www.facebook.com/ministryoftalent/">
+                             <span class="fa-stack fa-lg">
+                                 <i class="fa fa-circle fa-stack-2x"></i>
+                                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+Index: _site/contact/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _site/contact/index.html	(date 1469482623000)
++++ _site/contact/index.html	(revision )
+@@ -174,7 +174,7 @@
+                     
+                     
+                     <li>
+-                        <a href="https://www.facebook.com/ministryoftalent">
++                        <a href="https://www.facebook.com/ministryoftalent/">
+                             <span class="fa-stack fa-lg">
+                                 <i class="fa fa-circle fa-stack-2x"></i>
+                                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+Index: _site/feed.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _site/feed.xml	(date 1469482623000)
++++ _site/feed.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: _site/2016/07/24/wakacje/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _site/2016/07/24/wakacje/index.html	(date 1469482623000)
++++ _site/2016/07/24/wakacje/index.html	(revision )
+@@ -244,7 +244,7 @@
+                     
+                     
+                     <li>
+-                        <a href="https://www.facebook.com/ministryoftalent">
++                        <a href="https://www.facebook.com/ministryoftalent/">
+                             <span class="fa-stack fa-lg">
+                                 <i class="fa fa-circle fa-stack-2x"></i>
+                                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+Index: _site/about/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _site/about/index.html	(date 1469482623000)
++++ _site/about/index.html	(revision )
+@@ -144,7 +144,7 @@
+                     
+                     
+                     <li>
+-                        <a href="https://www.facebook.com/ministryoftalent">
++                        <a href="https://www.facebook.com/ministryoftalent/">
+                             <span class="fa-stack fa-lg">
+                                 <i class="fa fa-circle fa-stack-2x"></i>
+                                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+Index: _site/2016/07/20/ksiazki-dla-rekrutera/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _site/2016/07/20/ksiazki-dla-rekrutera/index.html	(date 1469482623000)
++++ _site/2016/07/20/ksiazki-dla-rekrutera/index.html	(revision )
+@@ -233,7 +233,7 @@
+                     
+                     
+                     <li>
+-                        <a href="https://www.facebook.com/ministryoftalent">
++                        <a href="https://www.facebook.com/ministryoftalent/">
+                             <span class="fa-stack fa-lg">
+                                 <i class="fa fa-circle fa-stack-2x"></i>
+                                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>

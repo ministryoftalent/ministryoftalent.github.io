@@ -1,0 +1,1237 @@
+Index: _site/2016/06/23/erasmus/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _site/2016/06/23/erasmus/index.html	(date 1469482623000)
++++ _site/2016/06/23/erasmus/index.html	(revision )
+@@ -182,7 +182,7 @@
+                     
+                     
+                     <li>
+-                        <a href="https://www.facebook.com/ministryoftalent">
++                        <a href="https://www.facebook.com/ministryoftalent/">
+                             <span class="fa-stack fa-lg">
+                                 <i class="fa fa-circle fa-stack-2x"></i>
+                                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+Index: _site/2016/06/24/wojna-o-brexit/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _site/2016/06/24/wojna-o-brexit/index.html	(date 1469482623000)
++++ _site/2016/06/24/wojna-o-brexit/index.html	(revision )
+@@ -173,7 +173,7 @@
+                     
+                     
+                     <li>
+-                        <a href="https://www.facebook.com/ministryoftalent">
++                        <a href="https://www.facebook.com/ministryoftalent/">
+                             <span class="fa-stack fa-lg">
+                                 <i class="fa fa-circle fa-stack-2x"></i>
+                                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+Index: _site/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _site/index.html	(date 1469482623000)
++++ _site/index.html	(revision )
+@@ -193,7 +193,7 @@
+                     
+                     
+                     <li>
+-                        <a href="https://www.facebook.com/ministryoftalent">
++                        <a href="https://www.facebook.com/ministryoftalent/">
+                             <span class="fa-stack fa-lg">
+                                 <i class="fa fa-circle fa-stack-2x"></i>
+                                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+Index: _site/contact/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _site/contact/index.html	(date 1469482623000)
++++ _site/contact/index.html	(revision )
+@@ -174,7 +174,7 @@
+                     
+                     
+                     <li>
+-                        <a href="https://www.facebook.com/ministryoftalent">
++                        <a href="https://www.facebook.com/ministryoftalent/">
+                             <span class="fa-stack fa-lg">
+                                 <i class="fa fa-circle fa-stack-2x"></i>
+                                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+Index: _site/feed.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _site/feed.xml	(date 1469482623000)
++++ _site/feed.xml	(revision )
+@@ -1,4 +1,4 @@
+-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://ministryoftalent.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="http://ministryoftalent.co.uk/" rel="alternate" type="text/html" /><updated>2016-07-25T22:36:15+01:00</updated><id>http://ministryoftalent.co.uk/</id><subtitle>Blog o rozwoju, karierze i pracy w brażny rekruratycyjnej w Londynie</subtitle><entry><title>Czy wakacje uczynią Cię szczęśliwszą?</title><link href="http://ministryoftalent.co.uk/2016/07/24/wakacje/" rel="alternate" type="text/html" title="Czy wakacje uczynią Cię szczęśliwszą?" /><published>2016-07-24T12:00:00+01:00</published><updated>2016-07-24T12:00:00+01:00</updated><id>http://ministryoftalent.co.uk/2016/07/24/wakacje</id><content type="html" xml:base="http://ministryoftalent.co.uk/2016/07/24/wakacje/">&lt;p&gt;Ostatnio w Ministerstwie Talentu plaża. Postanowiłam spędzić kilka dni z dala od cyfrowego
++<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://ministryoftalent.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="http://ministryoftalent.co.uk/" rel="alternate" type="text/html" /><updated>2016-07-26T19:54:28+01:00</updated><id>http://ministryoftalent.co.uk/</id><subtitle>Blog o rozwoju, karierze i pracy w brażny rekruratycyjnej w Londynie</subtitle><entry><title>Czy wakacje uczynią Cię szczęśliwszą?</title><link href="http://ministryoftalent.co.uk/2016/07/24/wakacje/" rel="alternate" type="text/html" title="Czy wakacje uczynią Cię szczęśliwszą?" /><published>2016-07-24T12:00:00+01:00</published><updated>2016-07-24T12:00:00+01:00</updated><id>http://ministryoftalent.co.uk/2016/07/24/wakacje</id><content type="html" xml:base="http://ministryoftalent.co.uk/2016/07/24/wakacje/">&lt;p&gt;Ostatnio w Ministerstwie Talentu plaża. Postanowiłam spędzić kilka dni z dala od cyfrowego
+                          świata i ku mojemu zdziwieniu powrót do rzeczywistości okazał się
+                          boleśniejszy niż przewidywałam. Kiedy tak sobie radośnie celebrowałam odpoczynek po odpoczynku i bezskutecznie walczyłam z prokrastynacją,
+                          wpadło mi do głowy jedno fundamentalne pytanie: czy urlop rzeczywiście czyni nas szczęśliwymi
+@@ -32,6 +32,13 @@
+                          &lt;p&gt;Wakacje może nie uczynią cię szczęśliwszą, może dorzucą trochę stresu do Twojego życia, może
+                          pozwolą zapomnieć o codzienności, ale na pewno pozostawią barwne wspomnienia, które ocieplą nie
+                          jeden zimowy wieczór.&lt;/p&gt;
++                         &lt;p&gt;Źródła:&lt;/p&gt;
++                                             &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2837207/&quot;&gt;http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2837207/&lt;/a&gt;
++                                             &lt;a href=&quot;http://www.huffingtonpost.com/shawn-achor/do-vacations-make-us-happ_b_5022511.html&quot;&gt;http://www.huffingtonpost.com/shawn-achor/do-vacations-make-us-happ_b_5022511.html&lt;/a&gt;
++                                             &lt;a href=&quot;https://thepsychologist.bps.org.uk/volume-28/august-2015/making-holidays-work&quot;&gt;https://thepsychologist.bps.org.uk/volume-28/august-2015/making-holidays-work&lt;/a&gt;
++                                             &lt;a href=&quot;https://hbr.org/2014/02/when-a-vacation-reduces-stress-and-when-it-doesnt/&quot;&gt;https://hbr.org/2014/02/when-a-vacation-reduces-stress-and-when-it-doesnt/&lt;/a&gt;
++                                            
++                         
+                          &lt;div class=&quot;fb-like&quot; data-href=&quot;https://www.facebook.com/ministryoftalent&quot; data-layout=&quot;button_count&quot; data-action=&quot;like&quot; data-show-faces=&quot;true&quot; data-share=&quot;true&quot;&gt;&lt;/div&gt;
+                          &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+                                                                       &lt;script&gt;
+@@ -122,6 +129,13 @@
+                          Wakacje może nie uczynią cię szczęśliwszą, może dorzucą trochę stresu do Twojego życia, może
+                          pozwolą zapomnieć o codzienności, ale na pewno pozostawią barwne wspomnienia, które ocieplą nie
+                          jeden zimowy wieczór.
++                         Źródła:
++                                             http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2837207/
++                                             http://www.huffingtonpost.com/shawn-achor/do-vacations-make-us-happ_b_5022511.html
++                                             https://thepsychologist.bps.org.uk/volume-28/august-2015/making-holidays-work
++                                             https://hbr.org/2014/02/when-a-vacation-reduces-stress-and-when-it-doesnt/
++                                            
++                         
+                          
+                          
+                                                                       
+Index: _site/2016/07/24/wakacje/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _site/2016/07/24/wakacje/index.html	(date 1469482623000)
++++ _site/2016/07/24/wakacje/index.html	(revision )
+@@ -138,6 +138,13 @@
+                          <p>Wakacje może nie uczynią cię szczęśliwszą, może dorzucą trochę stresu do Twojego życia, może
+                          pozwolą zapomnieć o codzienności, ale na pewno pozostawią barwne wspomnienia, które ocieplą nie
+                          jeden zimowy wieczór.</p>
++                         <p>Źródła:</p>
++                                             <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2837207/">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2837207/</a>
++                                             <a href="http://www.huffingtonpost.com/shawn-achor/do-vacations-make-us-happ_b_5022511.html">http://www.huffingtonpost.com/shawn-achor/do-vacations-make-us-happ_b_5022511.html</a>
++                                             <a href="https://thepsychologist.bps.org.uk/volume-28/august-2015/making-holidays-work">https://thepsychologist.bps.org.uk/volume-28/august-2015/making-holidays-work</a>
++                                             <a href="https://hbr.org/2014/02/when-a-vacation-reduces-stress-and-when-it-doesnt/">https://hbr.org/2014/02/when-a-vacation-reduces-stress-and-when-it-doesnt/</a>
++                                            
++                         
+                          <div class="fb-like" data-href="https://www.facebook.com/ministryoftalent" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+                          <div id="disqus_thread"></div>
+                                                                       <script>
+@@ -244,7 +251,7 @@
+                     
+                     
+                     <li>
+-                        <a href="https://www.facebook.com/ministryoftalent">
++                        <a href="https://www.facebook.com/ministryoftalent/">
+                             <span class="fa-stack fa-lg">
+                                 <i class="fa fa-circle fa-stack-2x"></i>
+                                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+Index: _site/about/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _site/about/index.html	(date 1469482623000)
++++ _site/about/index.html	(revision )
+@@ -144,7 +144,7 @@
+                     
+                     
+                     <li>
+-                        <a href="https://www.facebook.com/ministryoftalent">
++                        <a href="https://www.facebook.com/ministryoftalent/">
+                             <span class="fa-stack fa-lg">
+                                 <i class="fa fa-circle fa-stack-2x"></i>
+                                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+Index: _site/2016/07/20/ksiazki-dla-rekrutera/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _site/2016/07/20/ksiazki-dla-rekrutera/index.html	(date 1469482623000)
++++ _site/2016/07/20/ksiazki-dla-rekrutera/index.html	(revision )
+@@ -233,7 +233,7 @@
+                     
+                     
+                     <li>
+-                        <a href="https://www.facebook.com/ministryoftalent">
++                        <a href="https://www.facebook.com/ministryoftalent/">
+                             <span class="fa-stack fa-lg">
+                                 <i class="fa fa-circle fa-stack-2x"></i>
+                                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(date 1469482623000)
++++ .idea/workspace.xml	(revision )
+@@ -1,8 +1,18 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="02726334-ec22-4a4b-861f-fb730d59a8da" name="Default" comment="">
+-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
++    <list default="true" id="fbfbd9a9-796e-4f35-98c9-4b67aac5ec65" name="Default" comment="">
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-07-24-wakacje.markdown" afterPath="$PROJECT_DIR$/_posts/2016-07-24-wakacje.markdown" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/06/23/erasmus/index.html" afterPath="$PROJECT_DIR$/_site/2016/06/23/erasmus/index.html" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/06/24/wojna-o-brexit/index.html" afterPath="$PROJECT_DIR$/_site/2016/06/24/wojna-o-brexit/index.html" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/07/20/ksiazki-dla-rekrutera/index.html" afterPath="$PROJECT_DIR$/_site/2016/07/20/ksiazki-dla-rekrutera/index.html" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/07/24/wakacje/index.html" afterPath="$PROJECT_DIR$/_site/2016/07/24/wakacje/index.html" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about/index.html" afterPath="$PROJECT_DIR$/_site/about/index.html" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/contact/index.html" afterPath="$PROJECT_DIR$/_site/contact/index.html" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+     </list>
+     <ignored path="ministryoftalent.github.io.iws" />
+     <ignored path=".idea/workspace.xml" />
+@@ -23,118 +33,22 @@
+   </component>
+   <component name="FileEditorManager">
+     <leaf>
+-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="510">
+-              <caret line="34" column="30" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="30" />
+-              <folding />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/_config.yml">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="270">
+-              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+-              <folding />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/about.html">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="270">
+-              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+-              <folding />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/contact.html">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="285">
+-              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+-              <folding />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+       <file leaf-file-name="2016-07-24-wakacje.markdown" pinned="false" current-in-tab="true">
+         <entry file="file://$PROJECT_DIR$/_posts/2016-07-24-wakacje.markdown">
+-          <provider editor-type-id="MarkdownFxPreviewEditor">
+-            <state />
+-          </provider>
+           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+             <state split_layout="FIRST">
+-              <first_editor relative-caret-position="195">
+-                <caret line="59" column="143" selection-start-line="59" selection-start-column="143" selection-end-line="59" selection-end-column="143" />
++              <first_editor relative-caret-position="198">
++                <caret line="45" column="45" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+                 <folding />
+               </first_editor>
+               <second_editor />
+             </state>
+           </provider>
+-        </entry>
+-      </file>
+-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/index.html">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="0">
+-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-              <folding />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file leaf-file-name="LICENSE" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/LICENSE">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="120">
+-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+-              <folding />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/.gitignore">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="0">
+-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-              <folding />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file leaf-file-name="2016-07-20-ksiazki-dla-rekrutera.markdown" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/_posts/2016-07-20-ksiazki-dla-rekrutera.markdown">
+           <provider editor-type-id="MarkdownFxPreviewEditor">
+             <state />
+           </provider>
+-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+-            <state split_layout="FIRST">
+-              <first_editor relative-caret-position="682">
+-                <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+-                <folding />
+-              </first_editor>
+-              <second_editor />
+-            </state>
+-          </provider>
+         </entry>
+       </file>
+-      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="75">
+-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+-              <folding />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+     </leaf>
+   </component>
+   <component name="Git.Settings">
+@@ -148,19 +62,13 @@
+   <component name="IdeDocumentHistory">
+     <option name="CHANGED_PATHS">
+       <list>
+-        <option value="$PROJECT_DIR$/.gitignore" />
+-        <option value="$PROJECT_DIR$/_posts/2016-05-24-erasmus.markdown" />
+-        <option value="$PROJECT_DIR$/_posts/2016-04-23-erasmus.markdown" />
+-        <option value="$PROJECT_DIR$/about.html" />
+         <option value="$PROJECT_DIR$/_posts/2016-07-24-wakacje.markdown" />
+-        <option value="$PROJECT_DIR$/_config.yml" />
+       </list>
+     </option>
+   </component>
+   <component name="ProjectFrameBounds">
+-    <option name="y" value="23" />
+     <option name="width" value="1440" />
+-    <option name="height" value="817" />
++    <option name="height" value="900" />
+   </component>
+   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+     <OptionsSetting value="true" id="Add" />
+@@ -169,7 +77,7 @@
+     <OptionsSetting value="true" id="Update" />
+     <OptionsSetting value="true" id="Status" />
+     <OptionsSetting value="true" id="Edit" />
+-    <ConfirmationsSetting value="2" id="Add" />
++    <ConfirmationsSetting value="0" id="Add" />
+     <ConfirmationsSetting value="0" id="Remove" />
+   </component>
+   <component name="ProjectView">
+@@ -184,30 +92,52 @@
+       <autoscrollFromSource />
+       <sortByType />
+       <manualOrder />
+-      <foldersAlwaysOnTop value="false" />
++      <foldersAlwaysOnTop value="true" />
+     </navigator>
+     <panes>
+       <pane id="ProjectPane">
+-        <subPane />
++        <subPane>
++          <PATH>
++            <PATH_ELEMENT>
++              <option name="myItemId" value="ministryoftalent.github.io" />
++              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
++            </PATH_ELEMENT>
++          </PATH>
++          <PATH>
++            <PATH_ELEMENT>
++              <option name="myItemId" value="ministryoftalent.github.io" />
++              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
++            </PATH_ELEMENT>
++            <PATH_ELEMENT>
++              <option name="myItemId" value="ministryoftalent.github.io" />
++              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
++            </PATH_ELEMENT>
++          </PATH>
++          <PATH>
++            <PATH_ELEMENT>
++              <option name="myItemId" value="ministryoftalent.github.io" />
++              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
++            </PATH_ELEMENT>
++            <PATH_ELEMENT>
++              <option name="myItemId" value="ministryoftalent.github.io" />
++              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
++            </PATH_ELEMENT>
++            <PATH_ELEMENT>
++              <option name="myItemId" value="_posts" />
++              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
++            </PATH_ELEMENT>
++          </PATH>
++        </subPane>
+       </pane>
+-      <pane id="Scratches" />
++      <pane id="Scope" />
+       <pane id="PackagesPane" />
+-      <pane id="Scope">
+-        <subPane subId="Project Files" />
+-      </pane>
++      <pane id="Scratches" />
+     </panes>
+   </component>
+   <component name="PropertiesComponent">
+     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+-    <property name="settings.editor.splitter.proportion" value="0.2" />
++    <property name="FullScreen" value="true" />
+   </component>
+-  <component name="RecentsManager">
+-    <key name="CopyFile.RECENT_KEYS">
+-      <recent name="$PROJECT_DIR$/img" />
+-      <recent name="$PROJECT_DIR$/_posts" />
+-    </key>
+-  </component>
+   <component name="RunManager">
+     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+       <module name="" />
+@@ -215,43 +145,6 @@
+       <option name="PROGRAM_PARAMETERS" />
+       <method />
+     </configuration>
+-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+-      <module name="" />
+-      <option name="DEPLOY" value="true" />
+-      <option name="ARTIFACT_NAME" value="" />
+-      <option name="PM_INSTALL_OPTIONS" value="" />
+-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+-      <option name="MODE" value="default_activity" />
+-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+-      <option name="PREFERRED_AVD" value="" />
+-      <option name="CLEAR_LOGCAT" value="false" />
+-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+-      <option name="PREFERRED_AVD" value="" />
+-      <option name="DEEP_LINK" value="" />
+-      <option name="ACTIVITY_CLASS" value="" />
+-      <method />
+-    </configuration>
+-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+-      <module name="" />
+-      <option name="TESTING_TYPE" value="0" />
+-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+-      <option name="METHOD_NAME" value="" />
+-      <option name="CLASS_NAME" value="" />
+-      <option name="PACKAGE_NAME" value="" />
+-      <option name="EXTRA_OPTIONS" value="" />
+-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+-      <option name="PREFERRED_AVD" value="" />
+-      <option name="CLEAR_LOGCAT" value="false" />
+-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+-      <option name="PREFERRED_AVD" value="" />
+-      <method />
+-    </configuration>
+     <configuration default="true" type="Applet" factoryName="Applet">
+       <option name="HTML_USED" value="false" />
+       <option name="WIDTH" value="400" />
+@@ -275,22 +168,6 @@
+       <envs />
+       <method />
+     </configuration>
+-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+-      <ExternalSystemSettings>
+-        <option name="executionName" />
+-        <option name="externalProjectPath" />
+-        <option name="externalSystemIdString" value="GRADLE" />
+-        <option name="scriptParameters" />
+-        <option name="taskDescriptions">
+-          <list />
+-        </option>
+-        <option name="taskNames">
+-          <list />
+-        </option>
+-        <option name="vmOptions" />
+-      </ExternalSystemSettings>
+-      <method />
+-    </configuration>
+     <configuration default="true" type="JUnit" factoryName="JUnit">
+       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+       <module name="" />
+@@ -312,73 +189,6 @@
+       <patterns />
+       <method />
+     </configuration>
+-    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+-      <module name="" />
+-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+-      <option name="ALTERNATIVE_JRE_PATH" />
+-      <option name="PACKAGE_NAME" />
+-      <option name="MAIN_CLASS_NAME" />
+-      <option name="METHOD_NAME" />
+-      <option name="TEST_OBJECT" value="class" />
+-      <option name="VM_PARAMETERS" />
+-      <option name="PARAMETERS" />
+-      <option name="WORKING_DIRECTORY" />
+-      <option name="ENV_VARIABLES" />
+-      <option name="PASS_PARENT_ENVS" value="true" />
+-      <option name="TEST_SEARCH_SCOPE">
+-        <value defaultName="singleModule" />
+-      </option>
+-      <envs />
+-      <patterns />
+-      <method />
+-    </configuration>
+-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+-      <envs />
+-      <method />
+-    </configuration>
+-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+-      <option name="SCRATCH_FILE_ID" value="0" />
+-      <option name="MAIN_CLASS_NAME" />
+-      <option name="VM_PARAMETERS" />
+-      <option name="PROGRAM_PARAMETERS" />
+-      <option name="WORKING_DIRECTORY" />
+-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+-      <option name="ALTERNATIVE_JRE_PATH" />
+-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+-      <option name="ENV_VARIABLES" />
+-      <option name="PASS_PARENT_ENVS" value="true" />
+-      <module name="" />
+-      <envs />
+-      <method />
+-    </configuration>
+-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+-      <option name="MAIN_CLASS_NAME" />
+-      <option name="VM_PARAMETERS" />
+-      <option name="PROGRAM_PARAMETERS" />
+-      <option name="WORKING_DIRECTORY" />
+-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+-      <option name="ALTERNATIVE_JRE_PATH" />
+-      <option name="PASS_PARENT_ENVS" value="true" />
+-      <module name="ministryoftalent.github.io" />
+-      <envs />
+-      <method />
+-    </configuration>
+-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+-      <option name="filePath" />
+-      <option name="vmParameters" />
+-      <option name="alternativeJrePath" />
+-      <option name="programParameters" />
+-      <option name="passParentEnvs" value="true" />
+-      <option name="workingDirectory" />
+-      <option name="isAlternativeJrePathEnabled" value="false" />
+-      <envs />
+-      <method />
+-    </configuration>
+     <configuration default="true" type="Remote" factoryName="Remote">
+       <option name="USE_SOCKET_TRANSPORT" value="true" />
+       <option name="SERVER_MODE" value="false" />
+@@ -415,77 +225,47 @@
+       <listeners />
+       <method />
+     </configuration>
+-    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+-      <module name="" />
+-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+-      <option name="ALTERNATIVE_JRE_PATH" />
+-      <option name="SUITE_NAME" />
+-      <option name="PACKAGE_NAME" />
+-      <option name="MAIN_CLASS_NAME" />
+-      <option name="METHOD_NAME" />
+-      <option name="GROUP_NAME" />
+-      <option name="TEST_OBJECT" value="CLASS" />
+-      <option name="VM_PARAMETERS" />
+-      <option name="PARAMETERS" />
+-      <option name="WORKING_DIRECTORY" />
+-      <option name="OUTPUT_DIRECTORY" />
+-      <option name="ANNOTATION_TYPE" />
+-      <option name="ENV_VARIABLES" />
+-      <option name="PASS_PARENT_ENVS" value="true" />
+-      <option name="TEST_SEARCH_SCOPE">
+-        <value defaultName="singleModule" />
+-      </option>
+-      <option name="USE_DEFAULT_REPORTERS" value="false" />
+-      <option name="PROPERTIES_FILE" />
+-      <envs />
+-      <properties />
+-      <listeners />
+-      <method />
+-    </configuration>
+   </component>
+   <component name="ShelveChangesManager" show_recycled="false">
+     <option name="remove_strategy" value="false" />
+   </component>
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+-      <changelist id="02726334-ec22-4a4b-861f-fb730d59a8da" name="Default" comment="" />
+-      <created>1469400917453</created>
++      <changelist id="fbfbd9a9-796e-4f35-98c9-4b67aac5ec65" name="Default" comment="" />
++      <created>1469559177522</created>
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+-      <updated>1469400917453</updated>
++      <updated>1469559177522</updated>
+     </task>
+     <servers />
+   </component>
+   <component name="ToolWindowManager">
+-    <frame x="0" y="23" width="1440" height="817" extended-state="0" />
+-    <editor active="true" />
++    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
++    <editor active="false" />
+     <layout>
+-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
++      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+-      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904148" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904148" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+-      <window_info id="Project" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
++      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
++      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
++      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
++      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
++      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
++      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
++      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
++      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
++      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
++      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" x="489" y="82" width="461" height="699" />
+-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
++      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
++      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
++      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
++      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
++      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
++      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+     </layout>
+   </component>
+   <component name="VcsContentAnnotationSettings">
+@@ -495,512 +275,19 @@
+     <breakpoint-manager />
+     <watches-manager />
+   </component>
+-  <component name="antWorkspaceConfiguration">
+-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+-    <option name="FILTER_TARGETS" value="false" />
+-  </component>
+   <component name="editorHistoryManager">
+-    <entry file="file://$PROJECT_DIR$/_posts/2016-04-23-erasmus.markdown">
+-      <provider editor-type-id="MarkdownFxPreviewEditor">
+-        <state />
+-      </provider>
+-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+-        <state split_layout="FIRST">
+-          <first_editor relative-caret-position="165">
+-            <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+-            <folding />
+-          </first_editor>
+-          <second_editor />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/Gemfile">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="0">
+-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="75">
+-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_posts/2016-07-20-ksiazki-dla-rekrutera.markdown">
+-      <provider editor-type-id="MarkdownFxPreviewEditor">
+-        <state />
+-      </provider>
+-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+-        <state split_layout="FIRST">
+-          <first_editor relative-caret-position="682">
+-            <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+-            <folding />
+-          </first_editor>
+-          <second_editor />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/.gitignore">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="0">
+-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/LICENSE">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="120">
+-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/index.html">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="0">
+-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/contact.html">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="285">
+-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/about.html">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="270">
+-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_config.yml">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="270">
+-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="510">
+-          <caret line="34" column="30" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="30" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+     <entry file="file://$PROJECT_DIR$/_posts/2016-07-24-wakacje.markdown">
+-      <provider editor-type-id="MarkdownFxPreviewEditor">
+-        <state />
+-      </provider>
+       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+         <state split_layout="FIRST">
+-          <first_editor relative-caret-position="187">
+-            <caret line="47" column="50" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
++          <first_editor relative-caret-position="198">
++            <caret line="45" column="45" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+             <folding />
+           </first_editor>
+           <second_editor />
+         </state>
+       </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="510">
+-          <caret line="34" column="30" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="30" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_config.yml">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="300">
+-          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/about.html">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="270">
+-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/contact.html">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="285">
+-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_posts/2016-07-24-wakacje.markdown">
+       <provider editor-type-id="MarkdownFxPreviewEditor">
+         <state />
+-      </provider>
+-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+-        <state split_layout="FIRST">
+-          <first_editor relative-caret-position="195">
+-            <caret line="13" column="91" selection-start-line="13" selection-start-column="91" selection-end-line="13" selection-end-column="91" />
+-            <folding />
+-          </first_editor>
+-          <second_editor />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/index.html">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="0">
+-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/LICENSE">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="120">
+-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/.gitignore">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="0">
+-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_posts/2016-07-20-ksiazki-dla-rekrutera.markdown">
+-      <provider editor-type-id="MarkdownFxPreviewEditor">
+-        <state />
+-      </provider>
+-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+-        <state split_layout="FIRST">
+-          <first_editor relative-caret-position="0">
+-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-            <folding />
+-          </first_editor>
+-          <second_editor />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="0">
+-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="510">
+-          <caret line="34" column="30" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="30" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_config.yml">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="300">
+-          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/about.html">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="270">
+-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/contact.html">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="285">
+-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_posts/2016-07-24-wakacje.markdown">
+-      <provider editor-type-id="MarkdownFxPreviewEditor">
+-        <state />
+-      </provider>
+-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+-        <state split_layout="FIRST">
+-          <first_editor relative-caret-position="0">
+-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-            <folding />
+-          </first_editor>
+-          <second_editor />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_posts/2016-07-20-ksiazki-dla-rekrutera.markdown">
+-      <provider editor-type-id="MarkdownFxPreviewEditor">
+-        <state />
+-      </provider>
+-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+-        <state split_layout="FIRST">
+-          <first_editor relative-caret-position="0">
+-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-            <folding />
+-          </first_editor>
+-          <second_editor />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_posts/2016-06-24-wojna-o-brexit.markdown">
+-      <provider editor-type-id="MarkdownFxPreviewEditor">
+-        <state />
+-      </provider>
+-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+-        <state split_layout="FIRST">
+-          <first_editor relative-caret-position="0">
+-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-            <folding />
+-          </first_editor>
+-          <second_editor />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_posts/2016-04-23-erasmus.markdown">
+-      <provider editor-type-id="MarkdownFxPreviewEditor">
+-        <state />
+-      </provider>
+-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+-        <state split_layout="FIRST">
+-          <first_editor relative-caret-position="165">
+-            <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+-            <folding />
+-          </first_editor>
+-          <second_editor />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="510">
+-          <caret line="34" column="30" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="30" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_config.yml">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="300">
+-          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/about.html">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="270">
+-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_posts/2016-07-24-wakacje.markdown">
+-      <provider editor-type-id="MarkdownFxPreviewEditor">
+-        <state />
+-      </provider>
+-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+-        <state split_layout="FIRST">
+-          <first_editor relative-caret-position="0">
+-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-            <folding />
+-          </first_editor>
+-          <second_editor />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_posts/2016-07-20-ksiazki-dla-rekrutera.markdown">
+-      <provider editor-type-id="MarkdownFxPreviewEditor">
+-        <state />
+-      </provider>
+-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+-        <state split_layout="FIRST">
+-          <first_editor relative-caret-position="0">
+-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-            <folding />
+-          </first_editor>
+-          <second_editor />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_posts/2016-06-24-wojna-o-brexit.markdown">
+-      <provider editor-type-id="MarkdownFxPreviewEditor">
+-        <state />
+-      </provider>
+-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+-        <state split_layout="FIRST">
+-          <first_editor relative-caret-position="0">
+-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-            <folding />
+-          </first_editor>
+-          <second_editor />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_posts/2016-04-23-erasmus.markdown">
+-      <provider editor-type-id="MarkdownFxPreviewEditor">
+-        <state />
+-      </provider>
+-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+-        <state split_layout="FIRST">
+-          <first_editor relative-caret-position="165">
+-            <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+-            <folding />
+-          </first_editor>
+-          <second_editor />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_posts/2016-05-24-erasmus.markdown" />
+-    <entry file="file://$PROJECT_DIR$/_posts/2016-06-24-wojna-o-brexit.markdown">
+-      <provider editor-type-id="MarkdownFxPreviewEditor">
+-        <state />
+-      </provider>
+-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+-        <state split_layout="FIRST">
+-          <first_editor relative-caret-position="0">
+-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-            <folding />
+-          </first_editor>
+-          <second_editor />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_posts/2016-04-23-erasmus.markdown">
+-      <provider editor-type-id="MarkdownFxPreviewEditor">
+-        <state />
+-      </provider>
+-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+-        <state split_layout="FIRST">
+-          <first_editor relative-caret-position="165">
+-            <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+-            <folding />
+-          </first_editor>
+-          <second_editor />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/Gemfile">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="0">
+-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="510">
+-          <caret line="34" column="30" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="30" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="75">
+-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/.gitignore">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="0">
+-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/LICENSE">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="120">
+-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/index.html">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="0">
+-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/contact.html">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="285">
+-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/about.html">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="270">
+-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_posts/2016-07-20-ksiazki-dla-rekrutera.markdown">
+-      <provider editor-type-id="MarkdownFxPreviewEditor">
+-        <state />
+-      </provider>
+-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+-        <state split_layout="FIRST">
+-          <first_editor relative-caret-position="682">
+-            <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+-            <folding />
+-          </first_editor>
+-          <second_editor />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_posts/2016-07-24-wakacje.markdown">
+-      <provider editor-type-id="MarkdownFxPreviewEditor">
+-        <state />
+-      </provider>
+-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+-        <state split_layout="FIRST">
+-          <first_editor relative-caret-position="195">
+-            <caret line="59" column="143" selection-start-line="59" selection-start-column="143" selection-end-line="59" selection-end-column="143" />
+-            <folding />
+-          </first_editor>
+-          <second_editor />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/_config.yml">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="270">
+-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+-          <folding />
+-        </state>
+       </provider>
+     </entry>
+   </component>
+\ No newline at end of file
+Index: _posts/2016-07-24-wakacje.markdown
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _posts/2016-07-24-wakacje.markdown	(date 1469482623000)
++++ _posts/2016-07-24-wakacje.markdown	(revision )
+@@ -42,6 +42,13 @@
+                          <p>Wakacje może nie uczynią cię szczęśliwszą, może dorzucą trochę stresu do Twojego życia, może
+                          pozwolą zapomnieć o codzienności, ale na pewno pozostawią barwne wspomnienia, które ocieplą nie
+                          jeden zimowy wieczór.</p>
++                         <p>Źródła:</p>
++                                             <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2837207/">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2837207/</a>
++                                             <a href="http://www.huffingtonpost.com/shawn-achor/do-vacations-make-us-happ_b_5022511.html">http://www.huffingtonpost.com/shawn-achor/do-vacations-make-us-happ_b_5022511.html</a>
++                                             <a href="https://thepsychologist.bps.org.uk/volume-28/august-2015/making-holidays-work">https://thepsychologist.bps.org.uk/volume-28/august-2015/making-holidays-work</a>
++                                             <a href="https://hbr.org/2014/02/when-a-vacation-reduces-stress-and-when-it-doesnt/">https://hbr.org/2014/02/when-a-vacation-reduces-stress-and-when-it-doesnt/</a>
++                                            
++                         
+                          <div class="fb-like" data-href="https://www.facebook.com/ministryoftalent"
+                                               data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+                          <div id="disqus_thread"></div>
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(date 1469482623000)
++++ .idea/misc.xml	(revision )
+@@ -1,4 +1,36 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ProjectRootManager" version="2" assert-keyword="false" jdk-15="false" />
++  <component name="MavenImportPreferences">
++    <option name="generalSettings">
++      <MavenGeneralSettings>
++        <option name="mavenHome" value="Bundled (Maven 3)" />
++      </MavenGeneralSettings>
++    </option>
++  </component>
++  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
++    <OptionsSetting value="true" id="Add" />
++    <OptionsSetting value="true" id="Remove" />
++    <OptionsSetting value="true" id="Checkout" />
++    <OptionsSetting value="true" id="Update" />
++    <OptionsSetting value="true" id="Status" />
++    <OptionsSetting value="true" id="Edit" />
++    <ConfirmationsSetting value="0" id="Add" />
++    <ConfirmationsSetting value="0" id="Remove" />
++  </component>
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" assert-keyword="false" jdk-15="false" />
++  <component name="masterDetails">
++    <states>
++      <state key="ProjectJDKs.UI">
++        <settings>
++          <splitter-proportions>
++            <option name="proportions">
++              <list>
++                <option value="0.2" />
++              </list>
++            </option>
++          </splitter-proportions>
++        </settings>
++      </state>
++    </states>
++  </component>
+ </project>
+\ No newline at end of file
