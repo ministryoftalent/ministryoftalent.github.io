@@ -41,12 +41,20 @@ header-img: "img/A14MT3JL1E.jpg"
                          wycieczki z biur podróży zazwyczaj podnoszą mi ciśnienie... </p>
                          <p>Wakacje może nie uczynią cię szczęśliwszą, może dorzucą trochę stresu do Twojego życia, może
                          pozwolą zapomnieć o codzienności, ale na pewno pozostawią barwne wspomnienia, które ocieplą nie
-                         jeden zimowy wieczór.</p>
-                         <div class="fb-like" data-href="https://www.facebook.com/ministryoftalent"
-                                              data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
-                         <div id="disqus_thread"></div>
-                                                                      <script>
-                                                                      /**
+                         jeden zimowy wieczór. 
+                         <p>Źródła:</p>
+                        <p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2837207">NCBI</a></p>
+                        <p><a href="http://www.huffingtonpost.com/shawn-achor/do-vacations-make-us-happ_b_5022511.html">Huffington Post</a>
+                        <p><a href="https://thepsychologist.bps.org.uk/volume-28/august-2015/making-holidays-work">The Psychologist</a></p>
+                        <p><a href="https://hb3r.org/2014/02/when-a-vacation-reduces-stress-and-when-it-doesnt/"> HBR</a></p>
+                        
+                    <div class="fb-like" data-href="https://www.facebook.com/ministryoftalent"
+                                                                  data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+                                             <div id="disqus_thread"></div>
+                                                                                          <script>
+                                                                                          /**
+                    
+                         
                                                                                                * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
                                                                                                * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
                                                                                                */
@@ -62,25 +70,9 @@ header-img: "img/A14MT3JL1E.jpg"
                                                                                                </script>
                                                                                                                                             <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript"
                                                                                                                                                                                               rel="nofollow">comments powered by Disqus.</a>
-                                                                                                                                            </noscript>
-                                                                                                                                            </script>
-                                                                                                                                            </hr>
-                                                                                                                                            <h2>Podobne artykuły:</h2>
-                                                                                                                                            </br>
-                                                                                                                                            <div class="row">
-                                                                                                                                                <div class="col-md-4">
-                                                                                                                                                    <img src="../img/b51fac9a5c.jpg" class="img-responsive" alt="Picture">
-                                                                                                                                                    <h3>Praca w rekrutacji w UK</h3>
-                                                                                                                                                    <p><a class="btn btn-default" href="post2_12_04.html" role="button">Czytaj... »</a></p>
-                                                                                                                         </div>
-                                                                                                                                                                                                                                                                        <div class="col-md-4">
-                                                                                                                                                                                                                                                                            <img src="../img/recruiter.jpg" class="img-responsive" alt="Picture">
-                                                                                                                                                                                                                                                                            <h3> Rekruter nie jedno ma imię</h3>
-                                                                                                                                                                                                                                                                            <p><a class="btn btn-default" href="metodastart.html" role="button">Czytaj... »</a></p>
-                                                                                                                                                                                                                                                                        </div>
-                                                                                                                                                                                                                                                                        s.setAttribute('data-timestamp', +new Date());
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      (d.head || d.body).appendChild(s);
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      })();
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                      
                                                                                                                                                
                                                                                                                                                                                                                                               
                                                                                                                                                                                                                                               
