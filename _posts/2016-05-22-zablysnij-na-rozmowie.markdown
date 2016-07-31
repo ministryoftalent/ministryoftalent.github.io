@@ -30,7 +30,7 @@ Teraz niech Twoja pamięć poprowadzi cię do historii z pracy, praktyk lub stud
 Mój nauczyciel angielskiego dokładał do akronimu jeszcze jedną literkę, tworząc STARE (ujmując mu jednocześnie nieco gwiaździstego blasku).
 **EDUCATION**- (lekcja) Czego nauczyła cię ta historia ? Co byś teraz zrobiła inaczej?
 
-<img src="img/rambo1.png" class="img-responsive" alt="Picture">
+<img src="/img/rambo1.png" class="img-responsive" alt="Picture">
 
 <h2 class="section-heading">Teraz już nic Cię nie zaskoczy</h2>
 
