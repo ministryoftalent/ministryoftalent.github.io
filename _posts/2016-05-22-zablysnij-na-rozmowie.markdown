@@ -4,7 +4,7 @@ title:      "Zabłyśnij na rozmowie"
 subtitle:  "STAR to nic innego niż historia o Tobie i twoich zachowaniach w danej sytuacji. Dobrze opowiedziana historia potrzebuje solidnej ramy. Zaraz otrzymasz ją ode mnie w prezencie. "
 date:       2016-05-22 11:00:00 
 author:     "Aga"
-header-img: "img/rambo1.png"
+header-img: "img/C7MJR7LV7V.jpg"
 ---
 
 Dziś krótko o tym jak zabłysnąć na rozmowie rekrutacyjnej i nie przegwiazdorzyć (wiem, wiem, trzeba zjeść snickersa) :)
