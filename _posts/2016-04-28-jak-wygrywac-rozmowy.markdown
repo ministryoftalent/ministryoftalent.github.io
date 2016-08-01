@@ -3,7 +3,7 @@ layout:     post
 title:      "Jak wygrywać rozmowy rekrutacyjne w UK"
 subtitle:  " Otwierasz nowy rozdział w życiu i pierwszym krokiem będzie znalezienie nowej pracy. Ekscytacja miesza się z lękiem. Co robić, jak żyć? "
 date:       2016-06-23 11:00:00 
-author:     "Aga"
+author:      "Ministry of Talent"
 header-img: "img/7683881689.jpg"
 ---
 

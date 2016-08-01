@@ -3,7 +3,7 @@ layout:     post
 title:      "Czy wakacje uczynią Cię szczęśliwszą?"
 subtitle: "Kiedy tak sobie radośnie celebrowałam odpoczynek po odpoczynku, wpadło mi do głowy jedno fundamentalne pytanie: czy urlop rzeczywiście czyni nas szczęśliwymi ludźmi?"
 date:       2016-07-24 11:00:00
-author:     "Aga"
+author:      "Ministry of Talent"
 header-img: "img/A14MT3JL1E.jpg"
 ---
 
@@ -24,7 +24,7 @@ header-img: "img/A14MT3JL1E.jpg"
                          Pracownicy cierpiący z powodu wypalenia zawodowego wracają do poziomu wyjściowego w ciągu
                          czterech tygodniu od powrotu z wakacji.</p>
                      <h2 class="section-heading">Podróże kształcą</h2>
-                     <p>Znaleziono jednak pewne zależności pomiedzy wakacjami, a umiejętnością spojrzenia na problem z
+                     <p>Znaleziono jednak pewne zależności pomiędzy wakacjami, a umiejętnością spojrzenia na problem z
                          wielu perspektyw. Holenderscy naukowcy przebadalli grupę pracowników tuż przed i po trzy
                          tygodniowym urlopie. Oryginalność pomysłów badanych nie różniła się znacząco po wakacjach, udało
                          się jednak zaobserować większe zróżnicowanie wytworzonych pomysłów (giętkość myślenia). Czyli jeśli planujesz

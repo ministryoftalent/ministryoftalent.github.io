@@ -3,7 +3,7 @@ layout:     post
 title:      "Książki dla rekrutera"
 subtitle:  "Przedstawam  książki, które pomogą odnaleźć Ci się w świecie technologii i programistów."
 date:       2016-07-20 11:00:00
-author:     "Aga"
+author:      "Ministry of Talent"
 header-img: "img/ksiazki.jpg" 
 ---
 
