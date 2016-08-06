@@ -6,6 +6,7 @@ date:       2016-06-23 11:00:00
 author:     "Ministry of Talent"
 header-img: "img/IS09AC9KT_Comp.jpg"
 tags: praca, rozmowa rekrutacyjna, rozwój, UK
+index: true
 ---
 ![first image](img/IS09AC9KT_Comp.jpg)
 Kiedy dwa lata temu padła decyzja o wyjeździe do Wielkiej Brytanii daleka byłam od entuzjazmu. Uwielbiałam moją pracę, z moim zespołem zjadłam beczkę soli, a na horyzoncie rysowały się kolejne, ekscytujące wyzwania zawodowe. Moja decyzja podyktowana była kwestiami osobistymi i na wieść o wyjeździe większość osób zareagowała ze zrozumieniem.
