@@ -4,6 +4,7 @@ title:      "Wojna o Talenty a Brexit"
 subtitle: "Jakie mogą być skutki Brexitu dla HR? Krótko o przyszłości brytyjskiego rynku IT po rozwodzie z Unią."
 date:       2016-06-24 11:00:00
 author:      "Ministry of Talent"
+tags: praca, UK, talent
 header-img: "img/PBTF1NEBCG.jpg"
 ---
 

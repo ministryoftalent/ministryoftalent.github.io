@@ -4,6 +4,7 @@ title:      "Dlaczego (nie) warto jechać na Erasmusa?"
 subtitle:  "Niedługo minie sześć lat od mojego wyjazdu na stypendium Erasmus. Czas na małe podsumowanie"
 date:       2016-06-23          11:00:00
 author:      "Ministry of Talent"
+tags: rozwój, podróże
 header-img: "img/1YE1LLNXGB.jpg"
 ---
 

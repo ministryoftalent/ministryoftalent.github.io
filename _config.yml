@@ -9,6 +9,7 @@ url: "http://ministryoftalent.co.uk"
 twitter_username: AgaDeszczka
 facebook_username: "ministryoftalent/"
 email_username:  Aga@ministryoftalent.co.uk
+tags: [talent, UK, startup, rozwój, rozmowa rekrutacyjna, praca, sourcing]
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
@@ -21,4 +22,5 @@ permalink: pretty
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-gems: [jekyll-paginate, jekyll-feed]
+gems: [jekyll-paginate, jekyll-feed, jekyll-auto-image]
+

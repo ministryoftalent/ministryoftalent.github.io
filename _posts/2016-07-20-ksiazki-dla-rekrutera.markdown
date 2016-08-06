@@ -4,6 +4,7 @@ title:      "Książki dla rekrutera"
 subtitle:  "Przedstawam  książki, które pomogą odnaleźć Ci się w świecie technologii i programistów."
 date:       2016-07-20 11:00:00
 author:      "Ministry of Talent"
+tags: talent, rozwój, UK, sourcing
 header-img: "img/ksiazki.jpg" 
 ---
 

@@ -4,6 +4,7 @@ title:      "Czy wakacje uczynią Cię szczęśliwszą?"
 subtitle: "Kiedy tak sobie radośnie celebrowałam odpoczynek po odpoczynku, wpadło mi do głowy jedno fundamentalne pytanie: czy urlop rzeczywiście czyni nas szczęśliwymi ludźmi?"
 date:       2016-07-24 11:00:00
 author:      "Ministry of Talent"
+tags: praca, rozwój
 header-img: "img/A14MT3JL1E.jpg"
 ---
 
