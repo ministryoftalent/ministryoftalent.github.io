@@ -9,11 +9,11 @@ header-img: "img/dresscode1.jpg"
 ---
 <h2 class="section-heading"> “We are performance driven, through the lens of humanity”</h2>
 
-Kilka tygodni temu gruchnęła wiadomość, że pracownicy kultowego Starbucksa porzucają dress code, czyli dobrze znane fanom marki ciemno-zielone fartuszki z syrenką z Seattle, i już od dziś będą mogli wyrazić się pełniej przez własny ubiór. 
+Kilka tygodni temu gruchnęła wiadomość, że pracownicy kultowego Starbucksa porzucają dobrze znane fanom marki ciemno-zielone fartuszki z syrenką z Seattle, i już od dziś będą mogli wyrazić się pełniej przez własny ubiór. 
 
 Sieć kawiarni znana jest z niestandardowych zabiegów employer brandingowych, począwszy do dość dyskusyjnego na polskim rynku zwracania się *per Ty* do Klienta, po wyróżniające się na tle innych sieciówek wsparcie edukacji baristów. W statucie organizacji można wyczytać, że misją Starbucksa jest dążenie do wyników zachowując przy tym ludzką twarz. 
 
-Rezygnacja z uniformu sieciówki wywołała burzliwą dyskusję. Przeciwnicy zmiany zwracali uwagę, że brak jednakowego ubioru sprawia, że pracownicy tracą identyfikację z firmą, a dla samej marki oznacza to mniejszczą wyrazistość w oczach klientów. O co tyle hałasu z tym *dress codem*?
+Rezygnacja z *dress code* w sieciówce wywołała burzliwą dyskusję. Przeciwnicy zmiany zwracali uwagę, że brak jednakowego ubioru sprawia, że pracownicy tracą identyfikację z firmą, a dla samej marki oznacza to mniejszczą wyrazistość w oczach klientów. O co tyle hałasu?
 
 <h2 class="section-heading">Ubiór narzędziem kontroli</h2>
 
