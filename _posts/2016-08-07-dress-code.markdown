@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "W dżinsach czy pod krawatem? Rzecz o dress code"
-subtitle:  "Dziś więcej o krótkiej historii dress code, moich modowych wpadkach oraz o tym jak ubiór wpływa na Twoje życie.  "
+subtitle:  "Dziś o krótkiej historii dress code, Aloha Friday, moich modowych wpadkach oraz o tym jak ubiór wpływa na Twoje życie.  "
 date:       2016-08-07 11:00:00 
 author:      "Ministry of Talent"
 tags: praca, rozmowa rekrutacyjna, rozwój, UK, talent
@@ -29,7 +29,7 @@ Naukowcy porównywali dwie grupy studentów. Jednej zasugerowali ubiór w który
 
 <h2 class="section-heading">Aloha Friday!</h2>
 
-Nawet i w tych najbardziej wymagających organizacjach można spotkać się z *Casual Friday* czyli w wolnym tłumaczeniu luźnym piątkiem. “Białe kołnierzyki” mogą wówczas mogą na jeden dzień porzucić dress code i wbić się w dżinsy lub trampki. Historia wprowadzenia tej zasady sięga lat sześdziesiątych, kiedy to hawajski przemysł wkłókienniczy usiłował zwiększyć sprzedaż swoich koszul.  Zaproponowano lokalnym przedsiębiorcom wprowadzenie *Aloha Friday* - pracownicy na jeden dzień w tygodniu będą mogli założyć właśnie ich kwieciste koszule. W latach 90 trend ten dotarł do kontynentalnych Stanów Zjednoczonych, gdzie *Casual Friday* przyjął się jako nic nie kosztujący firmę benefit dla pracowników.
+Nawet i w tych najbardziej wymagających organizacjach można spotkać się z *Casual Friday* czyli w wolnym tłumaczeniu luźnym piątkiem. Białe kołnierzyki mogą wówczas mogą na jeden dzień porzucić dress code i wbić się w dżinsy lub trampki. Historia wprowadzenia tej zasady sięga lat sześdziesiątych, kiedy to hawajski przemysł wkłókienniczy usiłował zwiększyć sprzedaż swoich koszul.  Zaproponowano lokalnym przedsiębiorcom wprowadzenie *Aloha Friday* - pracownicy na jeden dzień w tygodniu będą mogli założyć właśnie ich kwieciste koszule. W latach 90 trend ten dotarł do kontynentalnych Stanów Zjednoczonych, gdzie *Casual Friday* przyjął się jako nic nie kosztujący firmę benefit dla pracowników.
 
 <h2 class="section-heading">Moje ubraniowe faux pas</h2>
 
