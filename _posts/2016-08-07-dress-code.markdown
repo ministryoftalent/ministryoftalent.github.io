@@ -19,7 +19,7 @@ Rezygnacja z *dress code* w sieciówce wywołała burzliwą dyskusję. Przeciwni
 
 Wyróżnienie sie ubiorem jako wyraz znaczenia i roli w danej grupie spolecznej jest zachowaniem zaszczepionym gdzieś głęboko w ludzkiej obyczajowości. Przez wieki ubiór stanowił o statusie materialnym i społecznym, i tak o to we współczesnym biznesie pojawia się *dress code*, czyli zbiór zasad dotyczących tego co wypada, a co nie wypada na siebie założyć w danej sytuacji. 
 
-Biała, schludna koszula, krawat, garnitur, lub prosta spódnica w kolano. Żadnej ekstrawagancji. Wybierając się na rozmowę rekrutacyjną czy pracując w korporacji zapewne będziesz trzymać się tego schematu. Taki uniform teoretycznie powinien nieść z sobą poczucie zimnego profesjonalizmu i budować autorytet pracownika. Zastanawiam się jednak ilu z nas nosi się na co dzień jak spod igły z własnej nie przymuszonej woli? Przecież dziesiątki tak samo ubranych pracowników to wyraz poczucia kontroli pracodawcy nad jednym z istotnych aspektów życia pracownika. Ci którzy się nie podporządkują - pac! - szybko dostaną po łapkach. 
+Biała, schludna koszula, krawat, garnitur, lub prosta spódnica w kolano. Żadnej ekstrawagancji. Wybierając się na rozmowę rekrutacyjną czy pracując w korporacji zapewne będziesz trzymać się tego schematu. Taki uniform teoretycznie powinien nieść z sobą poczucie zimnego profesjonalizmu i budować autorytet pracownika. Zastanawiam się jednak ilu z nas nosi się na co dzień jak spod igły z własnej nieprzymuszonej woli? Przecież dziesiątki tak samo ubranych pracowników to wyraz poczucia kontroli pracodawcy nad jednym z istotnych aspektów życia pracownika. Ci którzy się nie podporządkują - pac! - szybko dostaną po łapkach. 
 
 <h2 class="section-heading">Abstrakcja pod krawatem </h2>
 
