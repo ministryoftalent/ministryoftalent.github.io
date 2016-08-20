@@ -36,7 +36,7 @@ Generalnie, staram się nie pracować i nie wysyłać maili w niebiznesowych god
 <img src="/img/rsz_screen_shot_2016-08-18_at_232246.png" class="img-responsive" alt="Picture">
 
 <h2 class="section-heading">Podcast addict</h2> - Od kilku dobrych lat nie wyobrażam sobie tygodnia bez przesłuchania dobrego podcastu. W pracy, jeśli tylko zadanie które wykonuje nie wymaga pełnej koncentracji, uatrakcyjniam sobie czas słuchaniem tego typu nagrań. Po pracy natomiast, myśl o przesłuchaniu nowego odcinka ulubionego autora sprawia, że nogi same ruszają do biegu. Staram się dobierać długość audycji do dystansu - nic tak nie odbiera motywacji jak za krótki podcast.
-Testowałam kilka aplikacji do podcastów na androidzie i ta akurat przypadła mi najbardziej do gusty. Zapewne twórcy mogliby jeszcze popracować nad intuicyjnością PodcastAddict, ale w końcu to darmowa apka i nie ma co narzekać! O wartościowych podcastach można przeczytać tutaj [(link)](http://www.rytmklawiatury.pl/polskie-podcasty-ktore-warto-znac/#).
+Testowałam kilka aplikacji do podcastów na androidzie i ta akurat przypadła mi najbardziej do gustu. Zapewne twórcy mogliby jeszcze popracować nad intuicyjnością PodcastAddict, ale w końcu to darmowa apka i nie ma co narzekać! O wartościowych podcastach można przeczytać tutaj [(link)](http://www.rytmklawiatury.pl/polskie-podcasty-ktore-warto-znac/#).
 
 
 
