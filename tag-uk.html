@@ -1,0 +1,13 @@
+---
+layout: page
+title: Tagi
+description: "#Londyn #UK"
+header-img: "img/min_background.jpg"
+---
+
+{% for post in site.posts %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+</div>
+<hr>
+{% endfor %}
