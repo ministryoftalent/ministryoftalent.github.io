@@ -12,7 +12,7 @@ O produktywności napisano już wiele. Pewnie dlatego, że nie ma też jednego p
 Dzisiaj przedstawiam kilka wtyczek i narzędzi, który czynią moją pracę trochę bardziej uporządkowaną, a przy okazji dają szansę na oddech mojemu wykeksploatowanemu laptopowi (i ulgę moim skołatanym nerwom).
 
 <h2 class="section-heading">Feedly</h2> - Narzędzie, które pozwala mi być na bieżąco z ulubionymi blogami (dawniej nazwalibyśmy to czytnikiem RSS). Dostępne desktopowo i na smartfona. 
-Możesz stworzyć foldery i segregować treści tematycznie. Dzięki temu, kiedy poszukuję branżowych newsów, nie muszę przedzierać się przez blogi stylowe, i odwrotnie. Feedly pełni u mnie także funkcję wartościowego zabijacza czasu, którego korzystam stojąc w kolejce w sklepie czy czekają w przychodni. Gdy nie zaglądam do apki przez tydzień, wręcz nie mogę się doczeką czeka ns prawdziwa blogowa uczta!
+Możesz stworzyć foldery i segregować treści tematycznie. Dzięki temu, kiedy poszukuję branżowych newsów, nie muszę przedzierać się przez blogi stylowe, i odwrotnie. Feedly pełni u mnie także funkcję wartościowego zabijacza czasu, którego korzystam stojąc w kolejce w sklepie czy czekają w przychodni. Gdy nie zaglądam do apki przez tydzień, wtedy czeka na mnie prawdziwa blogowa uczta!
 <img src="/img/rsz_screen_shot_2016-08-18_at_214921.png" class="img-responsive" alt="Picture">
 
 <h2 class="section-heading">The Great Suspender</h2>- Ciekawa jestem czy ktoś potrafi pobić mój rekord w ilości otwartych stron w przeglądarce? U mnie, w tym momencie około 30 i nie jest to szczyt moich możliwości.
