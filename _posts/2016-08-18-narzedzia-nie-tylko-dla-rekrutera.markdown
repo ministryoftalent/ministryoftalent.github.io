@@ -10,7 +10,6 @@ index: true
 ---
 O produktywności napisano już wiele. Pewnie dlatego, że nie ma też jednego przepisu na wbicie się na wyżyny wydajności. 
 Dzisiaj przedstawiam kilka wtyczek i narzędzi, który czynią moją pracę trochę bardziej uporządkowaną, a przy okazji dają szansę na oddech mojemu wykeksploatowanemu laptopowi (i ulgę moim skołatanym nerwom).
-Przed Wami siedem wspaniałych wytrychów na produktyność.
 
 <h2 class="section-heading">Feedly</h2> - Narzędzie, które pozwala mi być na bieżąco z ulubionymi blogami (dawniej nazwalibyśmy to czytnikiem RSS). Dostępne desktopowo i na smartfona. 
 Możesz stworzyć foldery i segregować treści tematycznie. Dzięki temu, kiedy poszukuję branżowych newsów, nie muszę przedzierać się przez blogi stylowe, i odwrotnie. Feedly pełni u mnie także funkcję wartościowego zabijacza czasu, którego korzystam stojąc w kolejce w sklepie czy czekają w przychodni. Gdy nie zaglądam do apki przez tydzień, wręcz nie mogę się doczeką czeka ns prawdziwa blogowa uczta!
