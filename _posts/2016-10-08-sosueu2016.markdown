@@ -20,7 +20,7 @@ Oczywiście, domyślam się, że najlepsze smaczki na pewno nie dostały się na
 Zacznijmy od podstaw czyli tego jak angażujemy kandydatów. [Johnny Campbell](https://twitter.com/johnnycampbell) niezmiennie powtarza złotą zasadę pisania wiadomości do kandydatów: KISS (“keep it simple, silly!”).
 Tak pisze o tym wystąpieniu [Danee Georgiu](https://twitter.com/daneegeorgiou/status/781414774693396480).
 
-W sprawdzeniu czy wasz email jest czytelny dla potencjalnego odbiorcy pomoże Wam natomiast ta strona: [readability-score.com](https://readability-score.com/).
+[Readability-score.com](https://readability-score.com/) pomoże Wam sprawdzić czytelność wiadomości wysyłanej do potencjalnego odbiorcy. 
 
 Johnny wspominał również jak shackować Google Play w poszukiwaniu programistów Androida i mówi o tym kolejny [post](https://twitter.com/daneegeorgiou/status/781416351701303296) Danee Georgiu.
 
