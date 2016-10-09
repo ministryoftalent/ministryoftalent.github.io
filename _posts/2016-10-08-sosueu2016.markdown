@@ -25,7 +25,7 @@ W sprawdzeniu czy wasz email jest czytelny dla potencjalnego odbiorcy pomoże Wa
 Johnny wspominał również jak shackować Google Play w poszukiwaniu programistów Androida i mówi o tym kolejny [post](https://twitter.com/daneegeorgiou/status/781416351701303296) Danee Georgiu.
 
 <h2 class="section-heading">Szewc bez butów chodzi...</h2>
-Był też szok i niedowierzanie, że zespół rekrutacji Facebooka (Graph Search RIP†) korzysta z produktu [Shane McCuskera](https://twitter.com/1ntelligence) do wyszukiwania kandydatów właśnie na Facebooku. 
+Był też szok i niedowierzanie, że zespół rekrutacji Facebooka (Graph Search RIP†) korzysta z produktu [Shane McCuskera](https://twitter.com/1ntelligence) do wyszukiwania kandydatów (nie, nie przesłyszeliście się) na Facebooku. 
 W prezentacji Iriny Sh. znalazłam też odnośnik do tej ciekawej [alternatywy](https://inteltechniques.com/OSINT/facebook.html). 
 
 <h2 class="section-heading">...a sourcer w wielu kapeluszach chadza</h2>
