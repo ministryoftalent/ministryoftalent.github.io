@@ -29,7 +29,7 @@ Był też szok i niedowierzanie, że zespół rekrutacji Facebooka (Graph Search
 W prezentacji Iriny Sh. znalazłam też odnośnik do tej ciekawej [alternatywy](https://inteltechniques.com/OSINT/facebook.html). 
 
 <h2 class="section-heading">...a sourcer w wielu kapeluszach chadza</h2>
-Cesarzowa sourcingu, Irina Shamaeva, mówiła o tym jak zmienia się sourcing i rola sourcera w organizacji.
+Cesarzowa sourcingu, [Irina Shamaeva](twitter.com/braingain), mówiła o tym jak zmienia się sourcing i rola sourcera w organizacji.
 Tutaj znajdziecie [filmik](https://twitter.com/jimstroud/status/781053421831000064) z prezentacji Iriny. A tutaj [link](https://twitter.com/braingain/status/781202992146112512) do całej prezentacji.
 
 <h2 class="section-heading">Wszyscy jesteśmy stalkerami/hackerami (niepotrzebne skreślić)</h2>
