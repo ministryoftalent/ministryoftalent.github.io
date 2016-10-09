@@ -9,7 +9,7 @@ tags: praca, sourcing, rozwój, UK
 index: true
 ---
 
-Po koniec września Amsterdam, po raz kolejny ugościł pasjonatów rekrutacji i sourcingu. 
+Po koniec września Amsterdam po raz kolejny ugościł pasjonatów rekrutacji i sourcingu. 
 
 [SourcingSummit](http://sosueurope.com/) przyciągnął gwiazdy światowego formatu (Irina Shamaeva, Glen Cathley), jak i te z naszego europejskiego podwórka (Jonathan Campbell). 
 
@@ -20,9 +20,9 @@ Oczywiście, domyślam się, że najlepsze smaczki na pewno nie dostały się na
 Zacznijmy od podstaw czyli tego jak angażujemy kandydatów. [Johnny Campbell](https://twitter.com/johnnycampbell) niezmiennie powtarza złotą zasadę pisania wiadomości do kandydatów: KISS (“keep it simple silly!”).
 Tak pisze o tym wystąpieniu [Danee Georgiu](https://twitter.com/daneegeorgiou/status/781414774693396480).
 
-W sprawdzeniu czy wasz email jest czytelny dla potencjalnego odbiorcy pomoże Wam natomiast ta strona: [readability-score.com)](https://readability-score.com/).
+W sprawdzeniu czy wasz email jest czytelny dla potencjalnego odbiorcy pomoże Wam natomiast ta strona: [readability-score.com](https://readability-score.com/).
 
-Johnny wspominał również jak shackować Google Play, mówi o tym kolejny [post](https://twitter.com/daneegeorgiou/status/781416351701303296) od Danee Georgiu.
+Johnny wspominał również jak shackować Google Play w poszukiwaniu programistów Androida i mówi o tym kolejny [post](https://twitter.com/daneegeorgiou/status/781416351701303296) Danee Georgiu.
 
 <h2 class="section-heading">Szewc bez butów chodzi...</h2>
 Był też szok i niedowierzanie, że zespół rekrutacji Facebooka (Graph Search RIP†) korzysta z produktu [Shane McCuskera](https://twitter.com/1ntelligence) do wyszukiwania kandydatów właśnie na Facebooku. 
@@ -30,9 +30,7 @@ W prezentacji Iriny Sh. znalazłam też odnośnik do tej ciekawej [alternatywy](
 
 <h2 class="section-heading">...a sourcer w wielu kapeluszach chadza</h2>
 Cesarzowa sourcingu, Irina Shameva, mówiła o tym jak zmienia się sourcing i rola sourcera w organizacji.
-Tutaj znajdziecie [filmik](https://twitter.com/jimstroud/status/781053421831000064) z prezentacji Iriny. A tutaj [link](
-https://lookaside.fbsbx.com/file/Sosueu2016-Braingain.pdf?token=AWyg6WeVQqPlTU2qOSF37_O_L6os-vxZd5bAhboHEEkuHz86RScySQAMHqphbU-sOVFBYDUTcSvdxCBeGnSKP-JCCW4CwLFMUjZ4MPkyecor8gjrE_fshrT7pLANXClm7pnGM6akqZllBUNQQsB5nQ7r)
-do całej prezentacji.
+Tutaj znajdziecie [filmik](https://twitter.com/jimstroud/status/781053421831000064) z prezentacji Iriny. A tutaj [link](https://twitter.com/braingain/status/781202992146112512) do całej prezentacji.
 
 <h2 class="section-heading">Wszyscy jesteśmy stalkerami/hackerami (niepotrzebne skreślić)</h2>
 [Asaf Yaffe](https://twitter.com/asaf4747/status/781733686211469312) opowiada jak przechytrzyć Facebooka korzystając z [stalkface.com](stalkface.com).
