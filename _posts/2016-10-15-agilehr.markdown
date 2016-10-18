@@ -14,6 +14,7 @@ Powietrze robi się tak gęste, że możnaby powiesić siekierę. Rozbija się o
 
 Po szybie spływają krople deszczu, powoli zapada zmrok. Sytuacja robi się coraz bardziej nerwowa.
 Nagle ktoś rzuca coś o Kanbanie, że wizualizacja, taski, i że u kolegów programistów działa. 
+
 I tak o to zaczęła się się przygoda naszego zespołu rekrutacyjnego z metodą dotąd zarezerwowaną głównie dla świata IT. 
 
 
@@ -62,6 +63,6 @@ Bardziej religijni praktycy zarzucą mi bluźnierstwo, inni skupią się na naiw
 
 Tak, moja interpretacja metod zwinnych nie jest wolna od grzechu. Ale po co wymyślac koło od nowa, jeśli można przetestować sprawdzone praktyki w nowych warunkach? 
 
-We wszystkim jednak zalecany jest umiar, przeszczepianie losowych elementów może zaaowocować stworzeniem metodologicznego Frankensteina. Wszyscy wiemy jak skończyła się jego (i jego bliskich) historia...
+We wszystkim jednak zalecany jest umiar, przeszczepianie losowych elementów może zaaowocować stworzeniem metodologicznego Frankensteina. Wszyscy wiemy jak skończyła się historia tego potwora i jego stwórcy...
 
 Światy IT i HR nieuniknienie się przenikają, więc dlaczego udawać, że się nie zauważamy?
