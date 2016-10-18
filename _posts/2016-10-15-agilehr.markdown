@@ -1,0 +1,67 @@
+---
+layout:     post
+title:      "Agile HR "
+subtitle:  "Ponoć pożyczone nie tuczy. Dziś o tym, co można wykorzystać z doświadczenia tworzenia projektów informatycznych na potrzeby HR"
+date:       2016-10-15 11:00:00 
+author:     "Ministry of Talent"
+header-img: "img/yoga.jpg"
+tags: praca, sourcing, rozwój, UK
+index: true
+---
+
+Listopadowe popołudnie, siedzimy w ciasnej salce i dyskutujemy już drugą godzinę. 
+Powietrze robi się tak gęste, że możnaby powiesić siekierę. Rozbija się o rozdział pracy w naszym zespole.
+
+Po szybie spływają krople deszczu, powoli zapada zmrok. Sytuacja robi się coraz bardziej nerwowa.
+Nagle ktoś rzuca coś o Kanbanie, że wizualizacja, taski, i że u kolegów programistów działa. 
+I tak o to zaczęła się się przygoda naszego zespołu rekrutacyjnego z metodą dotąd zarezerwowaną głównie dla świata IT. 
+
+
+<h2 class="section-heading">Kanban board w zespole rekrutacyjnym</h2>
+
+Nasza adaptacja Kanbana pozwalała nam zwizualizować realną ilość ról do zakmnięcia, kontrolować ile osób przypisanych jest do danego zadania, a także ilość i progress kandydatów w przypadku danego stanowiska. 
+Na tablicy kanbanowej na bieżąco zmienialiśmy status zadania i postęp pracy. Zadania aktualizowaliśmy codziennie podczas standupu.
+
+Na początku zaprzyjaźniliśmy się kolorowymi post-itami, potem jednak przeszliśmy do wersji elektronicznej (można korzystać na przykład z darmowej wersji Trello).
+
+Czy ten system się sprawdził? Na pewno pozwolił usystematyzować ilość pracy do wykonania i jasno rozdzielić zadania. Jednak gdy zespół przekroczył kilkanaście osób coraz trudniej było o przejrzystość procesu.
+
+
+<img src="/img/Simple-kanban-board-.jpg" class="img-responsive" alt="Picture">
+
+Zdjęcie pochodzi z [Wikipedii](https://en.wikipedia.org/wiki/Kanban_board).
+
+
+<h2 class="section-heading">Stand-up</h2>
+
+Codziennie o dziesiątej rano zbieraliśmy się na krótkie spotkanie teamu. Zgodnie z regułami każdy powinien był podzielić się tym co zrobił wczoraj, czy pojawiło się coś co stanowiło dla niego przeszkodę w wykonaniu pracy, i nad czym będzie pracować dzisiaj. 
+Nasz “samozarządzający” się zespół potrzebował jednak sporej dawki autodyscypliny, aby móc zamknąć spotkanie w wyznaczonych trzydziestu minutach...  
+
+<h2 class="section-heading">Open Source HR</h2>
+
+Kolejną ideą ze świata IT przeszczepioną na grunt HR jest [open source](https://pl.wikipedia.org/wiki/Otwarte_oprogramowanie). Temat w sumie nadal raczkuje - od dojrzałości Open Source w klasycznym wydaniu IT dzielą nas lata świetlne. 
+Zasadniczo celem HROS jest udostępnienie wiedzy domenowej, dobryk praktyk i narzędzi za darmo dla społeczności działającej w obszarze HR, po to by budować, jakkolwiek górnolotnie to zabrzmi, lepszy świat.
+Link do manifestu [tutaj](http://hros.co/#what-is-hros).  
+
+<h2 class="section-heading">Pair Sourcing</h2>
+
+A gdyby pójść jeszcze dalej i zapożyczyć co-nieco z idei ["pair programming"](https://en.wikipedia.org/wiki/Pair_programming)? 
+
+W systemie tym programiści pracują w parach i naprzemiennie wchodzą w rolę kodującego/obserwującego. 
+Badania potwierdzają, że owa metoda zapewnia lepszą jakość kodu oraz mniejszą ilość defektów. 
+Programiści nie byliby sobą gdyby nie narzekali. Wymieniają przede wszystkim problemy ze skupieniem, braku możliwości pracy we własnym tempie oraz na zmęczenie zbyt intensywną pracą w parze. 
+Nie zapominajmy jednak o dobrych stronach tej metody. 
+
+W przypadku rekrutacji, praca w parze, szczególnie w zestawie "doświadczony sourcer - junior sourcer" mogłaby wspomóc proces transferu wiedzy, rozbudzić kreatywność, mieć wpływ na zakwestionowanie ustalonych, skotniałych praktyk, a tym samym przetrzeć szlaki dla innowacji. 
+
+Nie sądzę jednak, aby taki sposób pracy wszedł do kanonu praktyk rekrutacyjnych. Na dłużsżą metę praca w parze mogłaby mieć negatywny wpływ na wydajność sourcera. 
+
+<h2 class="section-heading">Zwinny Frankenstein</h2>
+
+Bardziej religijni praktycy zarzucą mi bluźnierstwo, inni skupią się na naiwności opisanych przeze mnie metod. 
+
+Tak, moja interpretacja metod zwinnych nie jest wolna od grzechu. Ale po co wymyślac koło od nowa, jeśli można przetestować sprawdzone praktyki w nowych warunkach? 
+
+We wszystkim jednak zalecany jest umiar, przeszczepianie losowych elementów może zaaowocować stworzeniem metodologicznego Frankensteina. Wszyscy wiemy jak skończyła się jego (i jego bliskich) historia...
+
+Światy IT i HR nieuniknienie się przenikają, więc dlaczego udawać, że się nie zauważamy?
