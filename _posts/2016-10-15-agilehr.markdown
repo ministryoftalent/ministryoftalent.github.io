@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Agile HR "
-subtitle:  "Ponoć pożyczone nie tuczy. Dziś o tym, co można wykorzystać z doświadczenia tworzenia projektów informatycznych na potrzeby HR"
+subtitle:  "Pożyczone nie tuczy czyli co można wykorzystać z metod tworzenia projektów informatycznych na potrzeby HR"
 date:       2016-10-15 11:00:00 
 author:     "Ministry of Talent"
 header-img: "img/yoga.jpg"
