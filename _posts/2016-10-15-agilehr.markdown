@@ -41,7 +41,7 @@ Nasz “samozarządzający” się zespół potrzebował jednak sporej dawki aut
 <h2 class="section-heading">Open Source HR</h2>
 
 Kolejną ideą ze świata IT przeszczepioną na grunt HR jest [open source](https://pl.wikipedia.org/wiki/Otwarte_oprogramowanie). Temat w sumie nadal raczkuje - od dojrzałości Open Source w klasycznym wydaniu IT dzielą nas lata świetlne. 
-Zasadniczo celem HROS jest udostępnienie wiedzy domenowej, dobryk praktyk i narzędzi za darmo dla społeczności działającej w obszarze HR, po to by budować, jakkolwiek górnolotnie to zabrzmi, lepszy świat.
+Zasadniczo celem HROS jest udostępnienie wiedzy domenowej, dobry praktyk i narzędzi za darmo dla społeczności działającej w obszarze HR, po to by budować, jakkolwiek górnolotnie to zabrzmi, lepszy świat.
 Link do manifestu [tutaj](http://hros.co/#what-is-hros).  
 
 <h2 class="section-heading">Pair Sourcing</h2>
