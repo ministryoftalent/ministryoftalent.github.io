@@ -50,12 +50,11 @@ A gdyby pójść jeszcze dalej i zapożyczyć co-nieco z idei ["pair programming
 
 W systemie tym programiści pracują w parach i naprzemiennie wchodzą w rolę kodującego/obserwującego. 
 Badania potwierdzają, że owa metoda zapewnia lepszą jakość kodu oraz mniejszą ilość defektów. 
+
 Programiści nie byliby sobą gdyby nie narzekali. Wymieniają przede wszystkim problemy ze skupieniem, braku możliwości pracy we własnym tempie oraz na zmęczenie zbyt intensywną pracą w parze. 
 Nie zapominajmy jednak o dobrych stronach tej metody. 
 
 W przypadku rekrutacji, praca w parze, szczególnie w zestawie "doświadczony sourcer - junior sourcer" mogłaby wspomóc proces transferu wiedzy, rozbudzić kreatywność, mieć wpływ na zakwestionowanie ustalonych, skotniałych praktyk, a tym samym przetrzeć szlaki dla innowacji. 
-
-Nie sądzę jednak, aby taki sposób pracy wszedł do kanonu praktyk rekrutacyjnych. Na dłużsżą metę praca w parze mogłaby mieć negatywny wpływ na wydajność sourcera. 
 
 <h2 class="section-heading">Zwinny Frankenstein</h2>
 
