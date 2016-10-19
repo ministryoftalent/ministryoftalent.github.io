@@ -35,8 +35,8 @@ Zdjęcie pochodzi z [Wikipedii](https://en.wikipedia.org/wiki/Kanban_board).
 
 <h2 class="section-heading">Stand-up</h2>
 
-Codziennie o dziesiątej rano zbieraliśmy się na krótkie spotkanie teamu. Zgodnie z regułami każdy powinien był podzielić się tym co zrobił wczoraj, czy pojawiło się coś co stanowiło dla niego przeszkodę w wykonaniu pracy, i nad czym będzie pracować dzisiaj. 
-Nasz “samozarządzający” się zespół potrzebował jednak sporej dawki autodyscypliny, aby móc zamknąć spotkanie w wyznaczonych trzydziestu minutach...  
+Codziennie o dziesiątej rano zbieraliśmy się na krótkie spotkanie teamu. Zgodnie z regułami każdy powinien był podzielić się tym co osiągnął wczoraj, czy pojawiło się coś co stanowiło dla niego przeszkodę w wykonaniu pracy, i nad czym będzie pracować dzisiaj. 
+Nasz “samozarządzający” się zespół potrzebował jednak sporej dawki autodyscypliny, aby móc zamknąć spotkanie w wyznaczonych piętnastu minutach...  
 
 <h2 class="section-heading">Open Source HR</h2>
 
