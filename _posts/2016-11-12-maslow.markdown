@@ -9,10 +9,10 @@ tags: praca, sourcing, rozwój, UK
 index: true
 ---
 
-Otwierasz drzwi firmy i rozpoczynasz kolejny tydzień pracy pożywnym śniadaniem w pracowej kawiarni. 
-Dosiada się do ciebie B. i dzielicie się tym co robiliście w weekend. Jeszcze tylko szybka kawa przygotowana specjalnie dla ciebie przez waszego etatowego baristę i możesz zasiąść przy swoim MacBooku. 
-Po lunchu w firmowej kantynie idziesz pograć w playstation z kolegami z zespołu, a potem chwilę wylegujesz się na hamaku w chill roomie. 
-Zastanawiasz się czy wieczorem wyjść razem z zespołem na kręgle czy raczej popracować nad masą w przy firmowej siłowni. 
+Otwierasz drzwi firmy i rozpoczynasz kolejny tydzień pracy pożywnym śniadaniem w pracowniczej kantynie. 
+Dosiada się do ciebie B. i dzielicie się tym co robiliście w weekend. Jeszcze tylko szybka kawa przygotowana specjalnie dla ciebie przez waszego etatowego baristę i możesz rozpoczać pracę przy swoim MacBooku.
+Po lunchu, również w firmowej kantynie, idziesz pograć w playstation z kolegami z zespołu, a potem chwilę wylegujesz się na hamaku w chill roomie. 
+Zastanawiasz się czy wieczorem wyjść razem z zespołem na kręgle czy może raczej popracować nad masą w przy firmowej siłowni. 
  
 <h2 class="section-heading">Po pierwsze, wifi</h2>
 
@@ -40,7 +40,7 @@ Londyńskie biuro Facebooka. Zdjęcie pochodzi z [tego](https://www.reed.co.uk/c
 <h2 class="section-heading">Relaks</h2>
 
 
-Czy tobie także marzą się nielimitowane wakacje? Bez skrępowania przyznam się, że tak. 
+Czy tobie także marzą się nielimitowane wakacje? Bez skrępowania przyznam się, że mi tak. 
 Oferuje je na przykład Twitter, czy krakowski Base CRM. Pytanie tylko jak korzystać z takiego przywileju - czy poczucie obowiązku nie sprawi, że w rzeczywistości wykorzystamy mniej wolnego niż gdybyśmy mieli do dyspozycji standardowe 26 dni?
 
 Estoński Transferwise natomiast raz w roku funduje każdemu pracownikowi wakacje. Kilka miesięcy temu przeczytałam o pomyśle wrocławskiej firmy Droids On Roids, która zabrała całą firmę (sic!) na miesięczny “workation” na Bali. 
