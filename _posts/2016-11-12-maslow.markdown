@@ -18,14 +18,15 @@ Zastanawiasz się czy wieczorem wyjść razem z zespołem na kręgle czy może r
 
 Tak może wyglądać standardowy dzień pracownika firmy jednego z wielu nowoczesnych korporacji lub start-upów. 
 Tym pracownikiem będzie raczej programista niż księgowy, bo właśnie o tych pierwszych toczy się walka na rynku pracy, i to oni wypracowują dla firmy największe przychody. 
-W współczesnej piramidzie Maslova na samym dole znajduje się wifi, a tuż za nim jedzenie. I tym tropem wydają się podążać współczesne firmy.
+W współczesnej piramidzie Maslowa na samym dole znajduje się wifi, a tuż za nim jedzenie. I tym tropem wydają się podążać współczesne firmy.
  
 <h2 class="section-heading">Jedzenie</h2>
 
 
 Wiadomo, że głodny programista to zły programista. 
-Dlatego też międzynarodowi giganci jak Google czy Facebook zapewniają swoim pracownikom codzienne posiłki przygotowane w przy biurowych restauracjach. 
+Dlatego też międzynarodowi giganci, tacy jak Google czy Facebook, zapewniają swoim pracownikom codzienne posiłki przygotowane w przy biurowych restauracjach. 
 W międzyczasie na łakomczuchów czekają zdrowe (lub mniej) przekąski. Do legendy przeszło powiedzenie, że w czasie okresu próbnego każdemu przybywa pięć kilo. 
+
 Mniejsze firmy (np. londyńskie Badoo) zamawiają codziennie posiłki z okolicznych restauracji lub oferują swoim pracownikom talony na obiady.
  
 <img src="/img/London-trip-what-to-do-in-one-day-facebook.jpg" class="img-responsive" alt="Picture">
@@ -35,7 +36,7 @@ Londyńskie biuro Facebooka. Zdjęcie pochodzi z [tego](https://www.reed.co.uk/c
 
  O wynagrodzeniu w branży IT można by pisać bez końca. 
  Finanse to zazwyczaj główny czynnik decydujący o przyjęciu lub odrzuceniu oferty. 
- Poza podstawowym wynagrodzeniem, bonusami i premiami opartymi na wynikach, Amerykańska firma Huddle oferuje każdemu pracownikowi na pomyślne rozpoczęcie pracy bonus w wysokości £5,000, a do tego raz w roku dorzuca upominek w wysokości £500.
+ Ciekawostkę na rynku IT stanowi firma Huddle, która poza podstawowym wynagrodzeniem, bonusami i premiami opartymi na wynikach,  oferuje każdemu pracownikowi na pomyślne rozpoczęcie pracy bonus w wysokości £5,000, a do tego raz w roku dorzuca upominek w wysokości £500.
 
 <h2 class="section-heading">Relaks</h2>
 
@@ -43,19 +44,19 @@ Londyńskie biuro Facebooka. Zdjęcie pochodzi z [tego](https://www.reed.co.uk/c
 Czy tobie także marzą się nielimitowane wakacje? Bez skrępowania przyznam się, że mi tak. 
 Oferuje je na przykład Twitter, czy krakowski Base CRM. Pytanie tylko jak korzystać z takiego przywileju - czy poczucie obowiązku nie sprawi, że w rzeczywistości wykorzystamy mniej wolnego niż gdybyśmy mieli do dyspozycji standardowe 26 dni?
 
-Estoński Transferwise natomiast raz w roku funduje każdemu pracownikowi wakacje. Kilka miesięcy temu przeczytałam o pomyśle wrocławskiej firmy Droids On Roids, która zabrała całą firmę (sic!) na miesięczny “workation” na Bali. 
+Estoński Transferwise natomiast raz w roku funduje każdemu pracownikowi wyjazd na dwutygodniowe wakacje. Kilka miesięcy temu przeczytałam o pomyśle wrocławskiej firmy Droids On Roids, która zabrała całą firmę (sic!) na miesięczny “workation” na Bali. 
 
 Nie mniej rozpieszczani są pracownicy AirAnb, którzy rokrocznie mogą wykorzystać budżet w wysokości 2000 dolarów na poznanie świata.
 
 <img src="/img/workation.jpg" class="img-responsive" alt="Picture">
 
-Jeśli natomiast dopadnie cię wypalenie, lub poczucie, że musisz zrobić sobie dłuższą przerwę, to być może warto pracować w UBS czy Delloitte. 
-Obie firmy oferują pracownikom, którzy przepracowali co najmniej kilka lat na ich pokładzie, roczny urlop tzw. sabbatical.  
+Jeśli natomiast dopadnie cię wypalenie, lub poczucie, że musisz zrobić sobie dłuższą przerwę, to być może warto pracować w banku UBS czy Delloitte. 
+Obie firmy oferują pracownikom którzy przepracowali co najmniej kilka lat na ich pokładzie, roczny urlop tzw. sabbatical.  
 
 
 <h2 class="section-heading">Związki</h2>
 
-Jeśli spędzasz cały dzień w pracy, zapewne najbliższy związek jaki utrzymujesz jest  z Twoim smartfonem. 
+Jeśli spędzasz cały dzień w pracy, zapewne z braku czasu, najbliższy związek jaki utrzymujesz jest z Twoim smartfonem. 
 
 Na przeciw pewnym podstawowym potrzebom utrzymania relacji wychodzą przyjazne psom firmy. 
 W Google czy Nestle widok psa na biurowym korytarzu nie zaskakuje. 
