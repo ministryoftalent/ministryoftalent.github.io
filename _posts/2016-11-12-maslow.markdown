@@ -1,0 +1,82 @@
+---
+layout:     post
+title:      "Piramida potrzeb Maslowa w startupie"
+subtitle:  "czyli jak rozpieszczać pracownika"
+date:       2016-11-12 11:00:00 
+author:     "Ministry of Talent"
+header-img: "img/hammock.jpg"
+tags: praca, sourcing, rozwój, UK
+index: true
+---
+
+Otwierasz drzwi firmy i rozpoczynasz kolejny tydzień pracy pożywnym śniadaniem w pracowej kawiarni. 
+Dosiada się do ciebie B. i dzielicie się tym co robiliście w weekend. Jeszcze tylko szybka kawa przygotowana specjalnie dla ciebie przez waszego etatowego baristę i możesz zasiąść przy swoim MacBooku. 
+Po lunchu w firmowej kantynie idziesz pograć w playstation z kolegami z zespołu, a potem chwilę wylegujesz się na hamaku w chill roomie. 
+Zastanawiasz się czy wieczorem wyjść razem z zespołem na kręgle czy raczej popracować nad masą w przy firmowej siłowni. 
+ 
+<h2 class="section-heading">Po pierwsze, wifi</h2>
+
+Tak może wyglądać standardowy dzień pracownika firmy jednego z wielu nowoczesnych korporacji lub start-upów. 
+Tym pracownikiem będzie raczej programista niż księgowy, bo właśnie o tych pierwszych toczy się walka na rynku pracy, i to oni wypracowują dla firmy największe przychody. 
+W współczesnej piramidzie Maslova na samym dole znajduje się wifi, a tuż za nim jedzenie. I tym tropem wydają się podążać współczesne firmy.
+ 
+<h2 class="section-heading">Jedzenie</h2>
+
+
+Wiadomo, że głodny programista to zły programista. 
+Dlatego też międzynarodowi giganci jak Google czy Facebook zapewniają swoim pracownikom codzienne posiłki przygotowane w przy biurowych restauracjach. 
+W międzyczasie na łakomczuchów czekają zdrowe (lub mniej) przekąski. Do legendy przeszło powiedzenie, że w czasie okresu próbnego każdemu przybywa pięć kilo. 
+Mniejsze firmy (np. londyńskie Badoo) zamawiają codziennie posiłki z okolicznych restauracji lub oferują swoim pracownikom talony na obiady.
+ 
+<img src="/img/London-trip-what-to-do-in-one-day-facebook.jpg" class="img-responsive" alt="Picture">
+Londyńskie biuro Facebooka. Zdjęcie pochodzi z [tego](https://www.reed.co.uk/career-advice/what-its-like-to-work-for-facebook/) artykułu
+
+<h2 class="section-heading">Pieniądze</h2>
+
+ O wynagrodzeniu w branży IT można by pisać bez końca. 
+ Finanse to zazwyczaj główny czynnik decydujący o przyjęciu lub odrzuceniu oferty. 
+ Poza podstawowym wynagrodzeniem, bonusami i premiami opartymi na wynikach, Amerykańska firma Huddle oferuje każdemu pracownikowi na pomyślne rozpoczęcie pracy bonus w wysokości £5,000, a do tego raz w roku dorzuca upominek w wysokości £500.
+
+<h2 class="section-heading">Relaks</h2>
+
+
+Czy tobie także marzą się nielimitowane wakacje? Bez skrępowania przyznam się, że tak. 
+Oferuje je na przykład Twitter, czy krakowski Base CRM. Pytanie tylko jak korzystać z takiego przywileju - czy poczucie obowiązku nie sprawi, że w rzeczywistości wykorzystamy mniej wolnego niż gdybyśmy mieli do dyspozycji standardowe 26 dni?
+
+Estoński Transferwise natomiast raz w roku funduje każdemu pracownikowi wakacje. Kilka miesięcy temu przeczytałam o pomyśle wrocławskiej firmy Droids On Roids, która zabrała całą firmę (sic!) na miesięczny “workation” na Bali. 
+
+Nie mniej rozpieszczani są pracownicy AirAnb, którzy rokrocznie mogą wykorzystać budżet w wysokości 2000 dolarów na poznanie świata.
+
+<img src="/img/workation.jpg" class="img-responsive" alt="Picture">
+
+Jeśli natomiast dopadnie cię wypalenie, lub poczucie, że musisz zrobić sobie dłuższą przerwę, to być może warto pracować w UBS czy Delloitte. 
+Obie firmy oferują pracownikom, którzy przepracowali co najmniej kilka lat na ich pokładzie, roczny urlop tzw. sabbatical.  
+
+
+<h2 class="section-heading">Związki</h2>
+
+Jeśli spędzasz cały dzień w pracy, zapewne najbliższy związek jaki utrzymujesz jest  z Twoim smartfonem. 
+
+Na przeciw pewnym podstawowym potrzebom utrzymania relacji wychodzą przyjazne psom firmy. 
+W Google czy Nestle widok psa na biurowym korytarzu nie zaskakuje. 
+Do pracy możesz zabrać swojego pupila także jeśli pracujesz w polskich 10Clouds czy Kekeme.  
+
+<img src="/img/dog.jpg" class="img-responsive" alt="Picture">
+
+
+Zaangażowanie w pracę zawodową może nie pozwolić na założenie rodziny w odpowiednimi czasie, i tutaj z rozwiązaniem, dość kontrowersyjnym w Europie, przychodzą Facebook i Spotify, które oferują swoim pracownicom refundację zamrożenia jajeczek. 
+Na później, na kiedyś... 
+
+<h2 class="section-heading">Samorealizacja</h2>
+
+Na szczycie piramidy Maslova znajduje się potrzeba samorealizacji. 
+To na ten szczyt wspinamy się mozolnie co dzień. 
+To za obietnicę zmiany oraz większych możliwości rozwoju zmieniamy projekt, stanowisko czy szefa. 
+Nikt nam nie może jednak zagwarantować samorealizacji.
+
+
+Dla jednego pomocą na drodze na szczyt może być zwolnienie z obowiązku myślenia o codziennym przygotowaniu jedzenia, dla innego codzienna rozgrywka przy stole ping-pongowym, a dla trzeciego budżet szkoleniowy, awans lub realny wpływ na rozwój firmy. 
+Dla jeszcze innych praca w takim środowisku to nic innego niż chytra pułapka pracodawcy czyhającego na twoją energię, pomysły i czas. 
+
+
+To od Ciebie będzie zależeć czy dasz się zamknąć w złotej klatce, czy będziesz konsekwentnie dążył do swojego celu korzystając z wszelkich dobrodziejstw organizacji, w której pracę, koniec końców, przecież sam zapewne sobie wybrałeś.
