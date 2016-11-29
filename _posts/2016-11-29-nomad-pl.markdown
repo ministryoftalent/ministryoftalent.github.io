@@ -23,6 +23,7 @@ Mój rozmówca prowadzi swój biznes rekrutacyjny. Najpierw, zatrudniony przez k
 
 Poznajcie historię Artura.
 
+____
 
 <b>Jak rozpoczęła się Twoja przygoda?</b>
 
