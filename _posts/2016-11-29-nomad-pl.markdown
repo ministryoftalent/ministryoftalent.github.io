@@ -15,8 +15,7 @@ A co jeśli chcemy czegoś więcej od życia niż dwa tygodnie urlopu i etat, al
 Niekiedy rozwiązaniem jest cyfrowy nomadyzm. 
 
 
-Jeśli myślimy o typowym przedstawicielu grupy ludzi podążających ścieżką współczesnego koczownika, zazwyczaj przychodzą nam na myśl programiści, graficy czy też osoby zajmujące się social mediami pracujące zdalnie z różnych zakątków globu. O takim doświadczeniu piszą na przykład [zamieszkali.pl](zamieszkali.pl) czy [www.cyfrowinomadzi.pl](cyfrowinomadzi.pl).
-
+Jeśli myślimy o typowym przedstawicielu grupy ludzi podążających ścieżką współczesnego koczownika, zazwyczaj przychodzą nam na myśl programiści, graficy czy też osoby zajmujące się social mediami pracujące zdalnie z różnych zakątków globu. 
 
 Mój rozmówca prowadzi swój biznes rekrutacyjny. Najpierw, zatrudniony przez kilka lat na etacie, doświadczenie zdobywał w różnych częściach Europy, a od ponad roku podróżuje i pracuje w Azji.
 
@@ -31,7 +30,7 @@ ____
 Dosyć nieoczekiwanie.  Z jednej strony ostatnie dziesięć lat spędziłem w Dublinie, Barcelonie i Berlinie,  z drugiej strony termin *digital nomad* usłyszałem dopiero rok temu. Już wtedy jednak pracowałem zdalnie. 
 
 
-Postanowiłem odejść od ówczesnego pracodawcy i dać sobie czas na poznawanie Indii. Jakoś tak się złożyło, że tuż przed wyjazdem skontaktował się ze mną znajomy CTO i poprosił o pomoc. Mimo, że internet w Indiach bywa nieprzewidywalny, podjąłem się zlecenia.  Szczęśliwie udało mi się dokończyć projekt i wtedy właśnie zdałem sobie sprawę, że praca jako freelancer to właśnie coś dla mnie. Po czterech miesiącach w Azji wróciłem do Berlina i oficjalnie wystartowałem jako The Blackbird.  
+Postanowiłem odejść od ówczesnego pracodawcy i dać sobie czas na poznawanie Indii. Jakoś tak się złożyło, że tuż przed wyjazdem skontaktował się ze mną znajomy CTO i poprosił o pomoc. Mimo, że internet w Indiach bywa nieprzewidywalny, podjąłem się zlecenia.  Szczęśliwie udało mi się dokończyć projekt i wtedy właśnie zdałem sobie sprawę, że praca jako freelancer to właśnie coś dla mnie. Po czterech miesiącach w Azji wróciłem do Berlina i oficjalnie wystartowałem jako The Blackbird [red. nazwa firmy Artura]. 
 
 
 <b>Jak zdefiniowałbyś swój obecny styl życia?</b>
@@ -83,7 +82,7 @@ Co raz to dłużej, choć ciągle uważam, że zbyt często się przemieszczam. 
 <b>Gdzie zazwyczaj pracujesz?</b>
 
 
-Z tym bywa różnie.  Pracowałem w kawiarniach, hotelach, homesteyach, ale zdarzało mi się również odwiedzać przestrzenie co-workingowe.
+Z tym bywa różnie.  Pracowałem w kawiarniach, hotelach, wynajętych mieszkaniach, ale zdarzało mi się również odwiedzać przestrzenie coworkingowe.
 
 
 <b>A jak jest z dostępem do internetu w podróży po Azji?</b>
@@ -124,3 +123,11 @@ Jeśli natomiast miałbym się skupić tylko na podróżach, to wciąż czuję p
 ---
 
 Tutaj znajdziecie [link](http://tuktuknogood.com/) do bloga o podróżach Artura i jego partnerki.
+
+
+___
+Polskojęzyczne blogi traktujące o cyfrowych nomadach: 
+
+* [zamieszkali.pl](zamieszkali.pl)  
+* [cyfrowinomadzi.pl](cyfrowinomadzi.pl)
+* [theblondtravels.com](https://www.theblondtravels.com/pl/jak-rzucic-prace-i-zostac-cyfrowym-nomada/)
