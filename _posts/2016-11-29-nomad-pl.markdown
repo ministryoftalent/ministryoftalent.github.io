@@ -27,7 +27,7 @@ ____
 <b>Jak rozpoczęła się Twoja przygoda?</b>
 
 
-Dosyć nieoczekiwanie.  Z jednej strony ostatnie dziesięć lat spędziłem w Dublinie, Barcelonie i Berlinie,  z drugiej strony termin *digital nomad* usłyszałem dopiero rok temu. Już wtedy jednak pracowałem zdalnie. 
+Dosyć nieoczekiwanie.  Z jednej strony ostatnie dziesięć lat spędziłem rekrutując dla mniejszych i większych firm w Dublinie, Barcelonie i Berlinie,  z drugiej strony termin *digital nomad* usłyszałem dopiero rok temu. Już wtedy jednak pracowałem zdalnie. 
 
 
 Postanowiłem odejść od ówczesnego pracodawcy i dać sobie czas na poznawanie Indii. Jakoś tak się złożyło, że tuż przed wyjazdem skontaktował się ze mną znajomy CTO i poprosił o pomoc. Mimo, że internet w Indiach bywa nieprzewidywalny, podjąłem się zlecenia.  Szczęśliwie udało mi się dokończyć projekt i wtedy właśnie zdałem sobie sprawę, że praca jako freelancer to właśnie coś dla mnie. Po czterech miesiącach w Azji wróciłem do Berlina i oficjalnie wystartowałem jako The Blackbird [red. nazwa firmy Artura]. 
