@@ -4,7 +4,7 @@ title:      "Agile HR"
 subtitle:  "Pożyczone nie tuczy czyli o romansie HR z metodykami zwinnymi"
 date:       2016-10-15 11:00:00 
 author:     "Ministry of Talent"
-header-img: "img/yoga.jpg"
+img: yoga.jpg
 tags: praca, sourcing, rozwój, UK
 index: true
 ---
@@ -28,7 +28,7 @@ Na początku zaprzyjaźniliśmy się kolorowymi post-itami, potem jednak przeszl
 Czy ten system się sprawdził? Na pewno pozwolił usystematyzować ilość pracy do wykonania i jasno rozdzielić zadania. Jednak gdy zespół przekroczył kilkanaście osób coraz trudniej było o przejrzystość procesu.
 
 
-<img src="/img/Simple-kanban-board-.jpg" class="img-responsive" alt="Picture">
+<img src="cards/img/Simple-kanban-board-.jpg" class="img-responsive" alt="Picture">
 
 Zdjęcie pochodzi z [Wikipedii](https://en.wikipedia.org/wiki/Kanban_board).
 

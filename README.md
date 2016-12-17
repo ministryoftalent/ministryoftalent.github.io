@@ -1,24 +1,38 @@
-#Clean Blog by Start Bootstrap - Jekyll Version
+# Installation: 
+Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
 
-The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
+Watch my video on instlallation
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/T2nx6tj-ZH4?rel=0" frameborder="0" allowfullscreen></iframe>
 
-###[View Live Demo &rarr;](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/)
+## How to delete old **gh-pages** branch?
+After forking the repository, click on **branches**.
 
-## Before You Begin
+![delete gh-pages branch](/images/delete-github-branch.png)
 
-In the _config.yml file, the base URL is set to /startbootstrap-clean-blog-jekyll which is this themes gh-pages preview. It's recommended that you remove the base URL before working with this theme locally!
+Delete ``gh-pages`` branch.
+![delete gh-pages branch](/images/delete-github-branch-2.png)
 
-It should look like this:
-`baseurl: ""`
+You have to create a new ``gh-pages`` branch using the master branch. Go back to the forked repository and create ``gh-pages`` branch.
 
-## What's Included
+![create gh-pages branch](/images/create-gh-pages-branch.JPG)
 
-A full Jekyll environment is included with this theme. If you have Jekyll installed, simply run `jekyll serve` in your command line and preview the build in your browser. You can use `jekyll serve --watch` to watch for changes in the source files as well.
+Now, go to settings and check the **Github Pages** section. You should see a URL where the blog is hosted.
 
-A Grunt environment is also included. There are a number of tasks it performs like minification of the JavaScript, compiling of the LESS files, adding banners to apply the MIT license, and watching for changes. Run the grunt default task by entering `grunt` into your command line which will build the files. You can use `grunt watch` if you are working on the JavaScript or the LESS.
+This process will host the theme as a **Project Page**. You can also download the files for local development. 
 
-You can run `jekyll serve --watch` and `grunt watch` at the same time to watch for changes and then build them all at once.
+Default theme will look like this
 
-## Support
+![webjeda cards jekyll theme](/images/webjeda-cards-jekyll-theme-1.png)
 
-Visit Clean Blog's template overview page on Start Bootstrap at http://startbootstrap.com/template-overviews/clean-blog/ and leave a comment, email feedback@startbootstrap.com, or open an issue here on GitHub for support.
+This theme is responsive.
+
+![webjeda cards responsive jekyll theme](/images/webjeda-cards-responsive-jekyll-theme-2.png)
+
+
+
+# Development
+Make changes to the **master** branch and create a pull request. Do not use **gh-pages** branch as it is used to host the theme.
+
+
+# License
+MIT License

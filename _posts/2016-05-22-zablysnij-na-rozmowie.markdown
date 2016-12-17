@@ -5,7 +5,7 @@ subtitle:  "STAR to nic innego niż historia o Tobie i twoich zachowaniach w dan
 date:       2016-05-22 11:00:00 
 author:      "Ministry of Talent"
 tags: praca, rozmowa rekrutacyjna, rozwój, UK, talent
-header-img: "img/C7MJR7LV7V.jpg"
+img: C7MJR7LV7V.jpg
 ---
 
 Dziś krótko o tym jak zabłysnąć na rozmowie rekrutacyjnej i nie przegwiazdorzyć (wiem, wiem, trzeba zjeść snickersa) :)

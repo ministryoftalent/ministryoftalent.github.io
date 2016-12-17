@@ -5,7 +5,7 @@ subtitle:  "Dziś o krótkiej historii dress code, Aloha Friday, moich modowych 
 date:       2016-08-07 11:00:00 
 author:      "Ministry of Talent"
 tags: praca, rozmowa rekrutacyjna, rozwój, UK, talent
-header-img: "img/dresscode1.jpg"
+img: dresscode1.jpg
 ---
 <h2 class="section-heading"> “We are performance driven, through the lens of humanity”</h2>
 

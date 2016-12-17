@@ -4,7 +4,7 @@ title:      "Jak wygrywać rozmowy rekrutacyjne w UK"
 subtitle:  " Otwierasz nowy rozdział w życiu i pierwszym krokiem będzie znalezienie nowej pracy. Ekscytacja miesza się z lękiem. Co robić, jak żyć? "
 date:       2016-06-23 11:00:00 
 author:      "Ministry of Talent"
-header-img: "img/7683881689.jpg"
+img: 7683881689.jpg
 ---
 
 No i stało się. Podobnie jak niemal milion innych Polaków wylądowałaś w Zjednoczonym Królestwie. Otwierasz nowy rozdział w życiu i pierwszym krokiem będzie znalezienie nowej pracy. Aktualizujesz CV i wysyłasz je do potencjalnych pracodawców. Mijają tygodnie, ty wysyłasz jeszcze więcej i więcej. A potem... a potem następuje długa frustrująca cisza. Aż któregoś pięknego deszczowego dnia otrzymujesz telefon z zaproszeniem na rozmowę. Ekscytacja miesza się z lękiem. Co robić, jak żyć?

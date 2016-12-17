@@ -5,7 +5,7 @@ subtitle: "Kiedy tak sobie radośnie celebrowałam odpoczynek po odpoczynku, wpa
 date:       2016-07-24 11:00:00
 author:      "Ministry of Talent"
 tags: praca, rozwój
-header-img: "img/A14MT3JL1E.jpg"
+img: A14MT3JL1E.jpg
 ---
 
 

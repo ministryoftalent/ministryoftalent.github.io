@@ -4,7 +4,7 @@ title:      "Praca w rekrutacji w UK"
 subtitle:  "Kiedy dwa lata temu padła decyzja o wyjeździe do Wielkiej Brytanii daleka byłam od entuzjazmu. Nie obyło się jednak od siejących zwątpienie krewnych i znajomych. "
 date:       2016-06-23 11:00:00 
 author:     "Ministry of Talent"
-header-img: "img/IS09AC9KT_Comp.jpg"
+img: IS09AC9KT_Comp.jpg"
 tags: praca, rozmowa rekrutacyjna, rozwój, UK
 index: true
 ---

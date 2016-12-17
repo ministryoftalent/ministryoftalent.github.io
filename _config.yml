@@ -1,25 +1,53 @@
-# Site settings
-title:
-header-img: img/Ministerstwo Talentu (2).jpg
-email: Aga@ministryoftalent.co.uk
-copyright_name: MinistryofTalent
-description: "Blog o rozwoju, karierze i kulturze organizacji | Blog about career, development and organisation culture. "
-baseurl:
-url: "http://ministryoftalent.co.uk"
-twitter_username: AgaDeszczka
-facebook_username: "ministryoftalent/"
-email_username:  Aga@ministryoftalent.co.uk
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Google Analytics
-# To enable google analytics, uncomment below line with a valid Google Tracking ID
-google_tracking_id: UA-77735576-1
+# Site settings
+title: Ministry of Talent
+email: Aga@Ministryoftalent.com
+description: > # this means to ignore newlines until "baseurl:"
+  "Blog o rozwoju, karierze i kulturze organizacji | Blog about career, development and organisation culture. "
+  
+  
+baseurl:
+url: "http://ministryoftalent.co.uk" # the base hostname & protocol for your site
+
+#sidebar
+default-image: Mini_cards_logo.png # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
+
+#footer
+built-by: webjeda
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
-permalink: pretty
-paginate: 8
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+permalink: /:title/
+paginate: 6
+paginate_path: /page:num/
 
-gems: [jekyll-paginate, jekyll-feed]
+# Tracker
+analytics: UA-77735576-1  #changed for ministry
+
+# Comments
+disqus-shortname: Aga
+
+#social
+facebook: facebook.com/ministryoftalent
+twitter: AgaDeszczka
+linkedin:
+
+#facebook like box
+fb-app-id: 2015362445356281
+fb-page-url: https://www.facebook.com/ministryoftalent
+fb-page-title: Ministry of Talent
+
+# Sass style
+sass:
+  style: compressed
+
+# Ruby Gems
+
+gems: [jekyll-paginate, jekyll-seo-tag]
 

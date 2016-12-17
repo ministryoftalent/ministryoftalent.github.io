@@ -4,12 +4,10 @@ title:      "Życie rekrutacyjnego nomady"
 subtitle:  "Co jeśli chcemy czegoś więcej od życia niż dwa tygodnie urlopu raz do roku, ale nie do końca jesteśmy zdecydowani zerwać z naszą karierą? "
 date:       2016-11-29 11:00:00 
 author:     "Ministry of Talent"
-header-img: "img/nomad.jpg"
-tags: praca, sourcing, rozwój, UK
+img: nomad.jpg
+categories: [praca, podróże]
 index: true
 ---
-
-
 Niedawno pisałam o fenomenie [nielimitowanego urlopu](http://ministryoftalent.co.uk/2016/11/12/maslow/) i pracowakacji oferowanych przez niektórych pracodawców. 
 A co jeśli chcemy czegoś więcej od życia niż dwa tygodnie urlopu i etat, ale nie do końca jesteśmy zdecydowani zerwać z naszą dotychczasową karierą? 
 Niekiedy rozwiązaniem jest cyfrowy nomadyzm. 
@@ -22,11 +20,11 @@ Mój rozmówca prowadzi swój <b>biznes rekrutacyjny</b>. Najpierw, zatrudniony 
 
 Poznajcie historię Artura.
 
-____
+<img src="/img/nomad.jpg" class="img-responsive" alt="Picture">
 
 <b>Jak rozpoczęła się Twoja przygoda?</b>
 
-
+3
 Dosyć nieoczekiwanie.  Z jednej strony ostatnie dziesięć lat spędziłem rekrutując dla mniejszych i większych firm w Dublinie, Barcelonie i Berlinie,  z drugiej strony termin *digital nomad* usłyszałem dopiero rok temu. Już wtedy jednak pracowałem zdalnie. 
 
 

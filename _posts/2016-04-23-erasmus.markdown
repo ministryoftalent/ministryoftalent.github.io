@@ -5,7 +5,7 @@ subtitle:  "Niedługo minie sześć lat od mojego wyjazdu na stypendium Erasmus.
 date:       2016-06-23          11:00:00
 author:      "Ministry of Talent"
 tags: rozwój, podróże
-header-img: "img/1YE1LLNXGB.jpg"
+img: 1YE1LLNXGB.jpg
 ---
 
 Niedługo minie sześć lat od mojego wyjazdu na stypendium Erasmus. 
