@@ -28,7 +28,7 @@ Na początku zaprzyjaźniliśmy się kolorowymi post-itami, potem jednak przeszl
 Czy ten system się sprawdził? Na pewno pozwolił usystematyzować ilość pracy do wykonania i jasno rozdzielić zadania. Jednak gdy zespół przekroczył kilkanaście osób coraz trudniej było o przejrzystość procesu.
 
 
-<img src="cards/img/Simple-kanban-board-.jpg" class="img-responsive" alt="Picture">
+<img src="img/Simple-kanban-board-.jpg" class="img-responsive" alt="Picture">
 
 Zdjęcie pochodzi z [Wikipedii](https://en.wikipedia.org/wiki/Kanban_board).
 

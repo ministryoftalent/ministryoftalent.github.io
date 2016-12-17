@@ -33,7 +33,7 @@ Using elements of kanban methodology helped out systematise the workload and hav
 This way of working is perfect for smaller teams, but while the team growth was skyrocketing, this is was not enough for us.
 
 
-<img src="cards/img/Simple-kanban-board-.jpg" class="img-responsive" alt="Picture">
+<img src="img/Simple-kanban-board-.jpg" class="img-responsive" alt="Picture">
 
 Picture comes from [Wikipedia](https://en.wikipedia.org/wiki/Kanban_board).
 
