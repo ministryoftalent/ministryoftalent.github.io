@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-img: me_about.jpg
+img: mof_new_logo.png
 permalink: /English/
 ---
 

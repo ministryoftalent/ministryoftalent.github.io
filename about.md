@@ -1,7 +1,7 @@
 ---
 layout: page
 title: O mnie
-img: me_about.jpg
+img: mof_new_logo.png
 permalink: /about/
 ---
 
@@ -21,12 +21,9 @@ Blog to moje i tylko moje subiektywne spostrzeżenie na branżę rekrutacyjną, 
 
 <br>
 <br>
-<br>
 
     
-Zdjęcia na stronie pochodzą z banków zdjęć: <a href="https://stocksnap.io"> Stocksnap</a> oraz <a href="http://www.freedigitalphotos.net/"> Freedigitalphotos</a>.
-
-
+<p>Zdjęcia na stronie pochodzą z banków zdjęć: <a href="https://stocksnap.io"> Stocksnap</a> oraz <a href="http://www.freedigitalphotos.net/"> Freedigitalphotos</a>.</p>
 
 
 
