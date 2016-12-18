@@ -4,7 +4,7 @@ title:      "Agile HR (in English)"
 subtitle:  "About a romance of Human Resources with Agile metodologies"
 date:       2016-10-15 11:00:00 
 author:     "Ministry of Talent"
-img: yoga.jpg
+img: rsz_yoga.jpg
 tags: praca, sourcing, rozwój, UK
 index: true
 ---

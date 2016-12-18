@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dla Rekrutera i HR
-img: mof_new_logo.png
+img: 
 permalink: /dlahr/
 ---
 

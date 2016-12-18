@@ -4,7 +4,7 @@ title:      "Ha(c)ki na produktywność - nie tylko dla rekrutera"
 subtitle:  "Kilka narzędzi i wtyczek, które usprawnią Twoją pracę. "
 date:       2016-08-18 11:00:00 
 author:     "Ministry of Talent"
-img: ID-100380115.jpg
+img: rsz_id-100380115.jpg
 tags: praca, rozmowa rekrutacyjna, rozwój, UK
 index: true
 ---

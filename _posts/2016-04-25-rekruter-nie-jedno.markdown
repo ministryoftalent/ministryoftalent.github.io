@@ -4,7 +4,7 @@ title:      "Rekruter nie jedno ma imię"
 subtitle:  "Czym różni sę in-house recruiter czy talent manager od headhuntera? Dziś o tym czy tytuł ma znaczenie."
 date:       2016-04-25 11:00:00 
 author:      "Ministry of Talent"
-img: recruiter.jpg
+img: rsz_1rsz_recruiter.jpg
 ---
 O ile na rynku polskim większość osób zajmujących się rekrutacją i selekcją pracowników nosi dumny tytuł rekrutera czy specjalisty ds. rekrutacji to rynek brytyjski obfituje w różnorodność nazw stanowisk i specjalizacji. Przeglądając oferty pracy szybko natkniesz się na zagadkowe role o tytułach takich jak 360 degrees, inhouse czy onsite recruiter.
 

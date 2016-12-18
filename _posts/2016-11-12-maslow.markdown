@@ -4,7 +4,7 @@ title:      "Piramida potrzeb Maslowa w startupie"
 subtitle:  "czyli jak rozpieszczać pracownika"
 date:       2016-11-12 11:00:00 
 author:     "Ministry of Talent"
-img: hammock.jpg
+img: rsz_hammock.jpg
 tags: praca, sourcing, rozwój, UK
 index: true
 ---

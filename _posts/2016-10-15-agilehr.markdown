@@ -4,7 +4,7 @@ title:      "Agile HR"
 subtitle:  "Pożyczone nie tuczy czyli o romansie HR z metodykami zwinnymi"
 date:       2016-10-15 11:00:00 
 author:     "Ministry of Talent"
-img: yoga.jpg
+img: rsz_stocksnap_swrrec0k3a.jpg
 tags: praca, sourcing, rozwój, UK
 index: true
 ---

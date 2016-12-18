@@ -1,7 +1,7 @@
 ---
 layout: page
 title: O mnie
-img: mof_new_logo.png
+img: 
 permalink: /about/
 ---
 

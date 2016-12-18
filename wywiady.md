@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wywiady
-img: mof_new_logo.png
+img: 
 permalink: /wywiady/
 ---
 

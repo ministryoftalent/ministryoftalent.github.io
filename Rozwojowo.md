@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rozwojowo
-img: mof_new_logo.png
+img: 
 permalink: /rozwojowo/
 ---
 
