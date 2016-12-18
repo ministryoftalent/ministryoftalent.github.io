@@ -15,7 +15,7 @@ permalink: /dlahr/
 
 [Rekruter nie jedno ma imię. Krótko o nazewnictwie stanowisk w branży rekrutacyjnej](http://ministryoftalent.co.uk/rekruter-nie-jedno/) 
 
-[O pracy w branży rekrutacji UK](http://ministryoftalent.co.uk/praca-w-rekrutacji/) 
+[O pracy w branży rekrutacji w Wielkiej Brytanii](http://ministryoftalent.co.uk/praca-w-rekrutacji/) 
 
 [O życiu rekrutera-freelancera z podróżami w tle](http://ministryoftalent.co.uk/nomad-pl/) 
 
