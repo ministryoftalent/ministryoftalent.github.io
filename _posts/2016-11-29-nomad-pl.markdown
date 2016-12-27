@@ -4,7 +4,7 @@ title:      "Życie rekrutacyjnego nomady"
 subtitle:  "Co jeśli chcemy czegoś więcej od życia niż dwa tygodnie urlopu raz do roku, ale nie do końca jesteśmy zdecydowani zerwać z naszą karierą? "
 date:       2016-11-29 11:00:00 
 author:     "Ministry of Talent"
-img: rsz_nomad.jpg
+img: rsz_20160820_160657-1.jpg
 categories: [praca, podróże]
 index: true
 ---
@@ -20,11 +20,11 @@ Mój rozmówca prowadzi swój <b>biznes rekrutacyjny</b>. Najpierw, zatrudniony 
 
 Poznajcie historię Artura.
 
-<img src="/img/nomad.jpg" class="img-responsive" alt="Picture">
+<img src="/images/rsz_20160619_145417.jpg" class="img-responsive" alt="Picture">
 
 <b>Jak rozpoczęła się Twoja przygoda?</b>
 
-3
+
 Dosyć nieoczekiwanie.  Z jednej strony ostatnie dziesięć lat spędziłem rekrutując dla mniejszych i większych firm w Dublinie, Barcelonie i Berlinie,  z drugiej strony termin *digital nomad* usłyszałem dopiero rok temu. Już wtedy jednak pracowałem zdalnie. 
 
 
