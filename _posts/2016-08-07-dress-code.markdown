@@ -5,9 +5,8 @@ subtitle:  "Dziś o krótkiej historii dress code, Aloha Friday, moich modowych 
 date:       2016-08-07 11:00:00 
 author:      "Ministry of Talent"
 tags: praca, rozmowa rekrutacyjna, rozwój, UK, talent
-img: dresscode1.jpg
+img: rsz_dresscode1.jpg
 ---
-<h2 class="section-heading"> “We are performance driven, through the lens of humanity”</h2>
 
 Kilka tygodni temu gruchnęła wiadomość, że pracownicy kultowego Starbucksa porzucają dobrze znane fanom marki ciemno-zielone fartuszki z syrenką z Seattle, i już od dziś będą mogli wyrazić się pełniej przez własny ubiór. 
 
