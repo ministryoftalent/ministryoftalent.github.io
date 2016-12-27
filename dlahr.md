@@ -19,7 +19,7 @@ permalink: /dlahr/
 
 [O życiu rekrutera-freelancera z podróżami w tle](http://ministryoftalent.co.uk/2016/11/29/nomad-pl/) 
 
-[Zapis najciekawszych wydarzeń z konferencji SOSUEU 2016](ministryoftalent.co.uk/2016/10/08/sosueu2016/) 
+[Zapis najciekawszych wydarzeń z konferencji SOSUEU 2016](http://ministryoftalent.co.uk/2016/10/08/sosueu2016/) 
 
 
 
