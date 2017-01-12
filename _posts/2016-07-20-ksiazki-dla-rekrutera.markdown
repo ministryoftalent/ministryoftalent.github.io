@@ -41,9 +41,9 @@ img: ksiazki.jpg
 
 <img src="/img/rsz_1tech_simple.jpg" class="img-responsive" alt="Picture">
 
-<p>Link do książki na Amazonie:<a
-        href="https://www.amazon.co.uk/Technology-Made-Simple-Technical-Recruiter-ebook/dp/B004V9HC48/ref=sr_1_2?s=books&ie=UTF8&qid=1467185369&sr=1-2&keywords=technical+recruitment">
-    tutaj.</a></p>
+<p>Link do książki na Amazonie:
+       <a rel="nofollow" href="https://www.amazon.co.uk/gp/product/1450216463/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1450216463&linkCode=as2&tag=ministryoftal-21"> tutaj. </a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=as2&o=2&a=1450216463" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+</p>
 
 <h2 class="section-heading">Smart & gets things done by Joel Spolsky</h2>
 <p>Krótka, napisana lekko, w bardzo amerykański sposób, książka autorstwa Joela Spolskiego. Joel,
@@ -59,9 +59,10 @@ img: ksiazki.jpg
 
 <img src="/img/spolsky.jpeg" class="img-responsive" alt="Picture">
 
-<p>Książkę można kupić <a
-        href="https://www.amazon.co.uk/Smart-Gets-Things-Done-Technical/dp/1590598385">tutaj</a>.
-</p>
+<p>Książkę można kupić
+       <a rel="nofollow" href="https://www.amazon.co.uk/gp/product/1590598385/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1590598385&linkCode=as2&tag=ministryoftal-21"> tutaj. </a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=as2&o=2&a=1590598385" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+       </p>
 
 
 <h2 class="section-heading">Soft Skills: The software developer's life manual by John Sonmez</h2>
@@ -83,8 +84,9 @@ img: ksiazki.jpg
 
 <img src="/img/rsz_softskills.jpg" class="img-responsive" alt="Picture">
 
-<p>Link do książki na Amazonie:
-    <a href="http://www.amazon.co.uk/Soft-Skills-software-developers-manual/dp/1617292397">tutaj.</a>
+<p>Link do książki i audiobooka
+    <a rel="nofollow" href="https://www.amazon.co.uk/gp/product/1617292397/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1617292397&linkCode=as2&tag=ministryoftal-21">tutaj.</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=as2&o=2&a=1617292397" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 </p>
 
 
