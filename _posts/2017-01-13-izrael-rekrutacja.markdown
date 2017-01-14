@@ -72,10 +72,10 @@ Jeśli nawet biznes okazał się być niewypałem, doświadczenie prowadzenia fi
 <br>
 Senor i Singer wspominają jeszcze o zjawisku "Chutzpah". 
 W języku polskim hucpa niesie z sobą pejoratywne zabarwienie (bezczelność i arogancja). Dla nich jednak oznacza ona <b>odwagę, pewność siebie, nieschematyczne myślenie</b>. W oczach twórców książki, ten typowy atrybut współczesnego Izraelity jest przyczynkiem do sukcesu gospodarczego i militarnego kraju.
-Przejawem tej cechy jest także bezśposredniość w komunikacji. Kandydaci z Izraela raczej nie będą owijać w bawełnę :)
+Przejawem tej cechy jest także bezpośredniość w komunikacji. Kandydaci z Izraela raczej nie będą owijać w bawełnę :)
 <br>
 <br>
-Po zakończeniu projektu dostrzegłam, że o sukcesie zadecydowała nie tylko znajomość kultury i specyfiki rynku, ale przede wszystkim wyjście poza schematy standardowego procesu rekrutacji. Nieświadomie przemyciłam elementy "chutpzy" do świata HR!
+Po zakończeniu projektu dostrzegłam, że o sukcesie zadecydowała nie tylko znajomość kultury i specyfiki rynku, ale przede wszystkim wyjście poza schematy standardowego procesu rekrutacji. Nieświadomie przemyciłam elementy "chutzpah" do świata HR!
 <br>
 <br>
 <font size="3"><i>Artykuł napisany w oparciu o moje doświadczenie oraz lekturę książki Dana Senora, Saula Singera: <a rel="nofollow" href="https://www.amazon.co.uk/gp/product/1455502391/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1455502391&linkCode=as2&tag=ministryoftal-21">Start-Up Nation: The Story of Israel's Economic Miracle</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=as2&o=2&a=1455502391" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.</i></font> 
