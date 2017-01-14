@@ -23,7 +23,7 @@ Jednocześnie wiele innowacyjnych, światowych firm technologicznych, wybrało I
 <br>
 Gdy objawiła mi się już owa prawda, poczułam się jakby ktoś przyłożył mi w twarz. 
 W co najlepszego się wpakowałam? W tym biblijnym kraju, cudów nigdy nie brakowało, ale nie byłam wstanie wyobrazić jak w takich warunkach zbudować zespoły składające się z najlepszych specjalistów, nie tylko na Bliskim Wschodzie, ale i na całym świecie? Jak wygrać tę bitwę o talenty? 
-Z pomocą przyszła mi lektura autorstwa duetu: Dan Senor, Saul Singer <font size="3"><i>Artykuł napisany w oparciu o moje doświadczenie oraz lekturę książki Dana Senora, Saula Singera: <a rel="nofollow" href="https://www.amazon.co.uk/gp/product/1455502391/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1455502391&linkCode=as2&tag=ministryoftal-21">"Start-Up Nation: The Story of Israel's Economic Miracle"</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=as2&o=2&a=1455502391" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+Z pomocą przyszła mi lektura autorstwa duetu: Dan Senor, Saul Singer <a rel="nofollow" href="https://www.amazon.co.uk/gp/product/1455502391/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1455502391&linkCode=as2&tag=ministryoftal-21">"Start-Up Nation: The Story of Israel's Economic Miracle"</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=as2&o=2&a=1455502391" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <br>
 <h2 class="section-heading">Armia umysłów</h2>
 <br>
