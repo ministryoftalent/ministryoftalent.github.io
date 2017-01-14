@@ -4,7 +4,7 @@ title:      "Misja: rekrutacja. Jak to się robi w Izraelu?"
 subtitle:  " "
 date:       2017-01-13 11:00:00 
 author:     "Ministry of Talent"
-img: rsz_masada_big.png
+img: rsz_masada.png
 categories: [praca, podróże]
 index: true
 ---
