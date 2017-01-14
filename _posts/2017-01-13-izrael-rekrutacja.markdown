@@ -43,7 +43,7 @@ Poszukując specjalistów z krajów europejskich zwracamy uwagę na wykształcen
 W Izraelu uniwersytety takie jak Technion czy  Instytut Nauki Weizmanna śmiało konkurują z najlepszymi akademiami amerykańskimi, ale gdy rekrutuje się pracownika <b>najistotniejsza jest jednak jednostka armii</b> w której kandydat odbywał służbę. Taką informację powinno zawierać każde izraelskie CV czy profil na LinkedIn.
 <br>
 <br>
-W Izraelu teoria [sześciu stopni oddalenia[(https://pl.wikipedia.org/wiki/Sze%C5%9B%C4%87_stopni_oddalenia) sprawdza się jak nigdzie indziej. Każdy zna tutaj każdego, zatem to referencje przyczyniają się do finalnej decyzji o zatrudnieniu lub odrzuceniu kandydata.
+W Izraelu teoria [sześciu stopni oddalenia](https://pl.wikipedia.org/wiki/Sze%C5%9B%C4%87_stopni_oddalenia) sprawdza się jak nigdzie indziej. Każdy zna tutaj każdego, zatem to referencje przyczyniają się do finalnej decyzji o zatrudnieniu lub odrzuceniu kandydata.
 <br>
 <br>
 <img src="/img/rsz_masada_big.png" class="img-responsive" alt="Picture"><font size="3">Wzgórze z ruinami legendarnej Masady. Na pustynnym horyzoncie morze Czerwone. Zdjęcie wykonane podczas wyprawy do Izraela w 2015 roku.</font>
