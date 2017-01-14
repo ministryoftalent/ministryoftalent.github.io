@@ -23,7 +23,7 @@ Jednocześnie wiele innowacyjnych, światowych firm technologicznych, wybrało I
 <br>
 Gdy objawiła mi się już owa prawda, poczułam się jakby ktoś przyłożył mi w twarz. 
 W co najlepszego się wpakowałam? W tym biblijnym kraju, cudów nigdy nie brakowało, ale nie byłam wstanie wyobrazić jak w takich warunkach zbudować zespoły składające się z najlepszych specjalistów, nie tylko na Bliskim Wschodzie, ale i na całym świecie? Jak wygrać tę bitwę o talenty? 
-Z pomocą przyszła mi lektura autorstwa duetu: Dan Senor, Saul Singer au
+Z pomocą przyszła mi lektura autorstwa duetu: Dan Senor, Saul Singer <font size="3"><i>Artykuł napisany w oparciu o moje doświadczenie oraz lekturę książki Dana Senora, Saula Singera: <a rel="nofollow" href="https://www.amazon.co.uk/gp/product/1455502391/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1455502391&linkCode=as2&tag=ministryoftal-21">"Start-Up Nation: The Story of Israel's Economic Miracle"</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=as2&o=2&a=1455502391" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <br>
 <h2 class="section-heading">Armia umysłów</h2>
 <br>
@@ -43,7 +43,7 @@ Poszukując specjalistów z krajów europejskich zwracamy uwagę na wykształcen
 W Izraelu uniwersytety takie jak Technion czy  Instytut Nauki Weizmanna śmiało konkurują z najlepszymi akademiami amerykańskimi, ale gdy rekrutuje się pracownika <b>najistotniejsza jest jednak jednostka armii</b> w której kandydat odbywał służbę. Taką informację powinno zawierać każde izraelskie CV czy profil na LinkedIn.
 <br>
 <br>
-W Izraelu teoria sześciu stopni oddalenia sprawdza się jak nigdzie indziej. Każdy zna tutaj każdego, zatem to referencje przyczyniają się do finalnej decyzji o zatrudnieniu lub odrzuceniu kandydata.
+W Izraelu teoria [sześciu stopni oddalenia[(https://pl.wikipedia.org/wiki/Sze%C5%9B%C4%87_stopni_oddalenia) sprawdza się jak nigdzie indziej. Każdy zna tutaj każdego, zatem to referencje przyczyniają się do finalnej decyzji o zatrudnieniu lub odrzuceniu kandydata.
 <br>
 <br>
 <img src="/img/rsz_masada_big.png" class="img-responsive" alt="Picture"><font size="3">Wzgórze z ruinami legendarnej Masady. Na pustynnym horyzoncie morze Czerwone. Zdjęcie wykonane podczas wyprawy do Izraela w 2015 roku.</font>
@@ -58,10 +58,10 @@ Według Senora i Singera, w przypadku armii izraelskiej wygląda to zupełnie in
 Każda jednostka posiada sporą niezależność i działa niczym dobrze naoliwiona maszyna. 
 Odpowiedzialność za zarządzanie nią, przy minimum superwizji se strony bardziej doświadczonych oficerów, spoczywa na barkach rekrutów. 
 <b>To co różni młodych mieszkańców Izraela od ich rówieśników z krajów europejskich, to konieczność podejmowania decyzji o życiu i śmierci.</b> 
-W związku z sytuacją geopolityczną większość młodzieży bierze udział w realnych misjach wojkowych. Tych osiemnasto, dwudziestolatków, w warunkach polowych zachęca się przestrzegania przepisów i reguł, ale i do improwizacji jeśli tylko tego wymaga sytuacja. Mają myśleć samodzielnie.
+W związku z sytuacją geopolityczną większość młodzieży bierze udział w realnych misjach wojskowych. Tych osiemnasto-, dwudziestolatków, w warunkach polowych zachęca się przestrzegania przepisów i reguł, ale i do improwizacji jeśli tylko tego wymaga sytuacja. Mają myśleć samodzielnie.
 <br>
 <br>
-Autorzy <a rel="nofollow" href="https://www.amazon.co.uk/gp/product/1455502391/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1455502391&linkCode=as2&tag=ministryoftal-21">"Start-Up Nation"</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=as2&o=2&a=1455502391" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> twierdzą, że Izrael to naród idywidualistów doskonale pracujących w grupie, kierujących się jednym, nadrzędnym motywem, którym jest utrzymanie suwerenności i bezpieczeństwa państwa.
+Autorzy <a rel="nofollow" href="https://www.amazon.co.uk/gp/product/1455502391/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1455502391&linkCode=as2&tag=ministryoftal-21">"Start-Up Nation"</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=as2&o=2&a=1455502391" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> twierdzą, że Izrael to naród indywidualistów doskonale pracujących w grupie, kierujących się jednym, nadrzędnym motywem, którym jest utrzymanie suwerenności i bezpieczeństwa państwa.
 <br>
 <br>
 <h2>Rekrutacyjna hucpa</h2>
@@ -70,12 +70,12 @@ I to właśnie charakter ukształtowany przez wojsko, w połączeniu z umiejętn
 Jeśli nawet biznes okazał się być niewypałem, doświadczenie prowadzenia firmy uważane jest tu za bezcenny wpis w resume.
 <br>
 <br>
-Senor i Singer wspominają jeszcze o zjawisku "Chutzpa". 
+Senor i Singer wspominają jeszcze o zjawisku "Chutzpah". 
 W języku polskim hucpa niesie z sobą pejoratywne zabarwienie (bezczelność i arogancja). Dla nich jednak oznacza ona <b>odwagę, pewność siebie, nieschematyczne myślenie</b>. W oczach twórców książki, ten typowy atrybut współczesnego Izraelity jest przyczynkiem do sukcesu gospodarczego i militarnego kraju.
 Przejawem tej cechy jest także bezśposredniość w komunikacji. Kandydaci z Izraela raczej nie będą owijać w bawełnę :)
 <br>
 <br>
-Po zakończeniu projektu dostrzedłam, że o sukcesie zadecydowała nie tylko znajomość kultury i specyfiki rynku, ale przede wszystkim wyjście poza schematy standardowego procesu rekrutacji. Nieświadomie przemyciłam elementy "chutpzy" do świata HR!
+Po zakończeniu projektu dostrzegłam, że o sukcesie zadecydowała nie tylko znajomość kultury i specyfiki rynku, ale przede wszystkim wyjście poza schematy standardowego procesu rekrutacji. Nieświadomie przemyciłam elementy "chutpzy" do świata HR!
 <br>
 <br>
 <font size="3"><i>Artykuł napisany w oparciu o moje doświadczenie oraz lekturę książki Dana Senora, Saula Singera: <a rel="nofollow" href="https://www.amazon.co.uk/gp/product/1455502391/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1455502391&linkCode=as2&tag=ministryoftal-21">Start-Up Nation: The Story of Israel's Economic Miracle</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=as2&o=2&a=1455502391" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.</i></font> 
