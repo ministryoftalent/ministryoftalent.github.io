@@ -10,7 +10,7 @@ permalink: /dlahr/
 
 <p>Jesteś rekruterem, pracujesz w dziale HR, a może po prostu chcesz nauczyć się czegoś z obszaru zarządzania talentami? Poniżej znajdziesz listę artykułów, które mogą Cię zainteresować.</p>
 
- 
+[Tajniki rekrutacji w Izraelu czyli przez armię do start-upu] (http://ministryoftalent.co.uk/2017/01/13/izrael-rekrutacja/)
 [Branżowe książki dla rekrutera](http://ministryoftalent.co.uk/2016/07/20/ksiazki-dla-rekrutera/) 
 
 [Rekruter nie jedno ma imię. Krótko o nazewnictwie stanowisk w branży rekrutacyjnej](http://ministryoftalent.co.uk/2016/04/25/rekruter-nie-jedno/) 
