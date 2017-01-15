@@ -46,7 +46,7 @@ W Izraelu uniwersytety takie jak Technion czy  Instytut Nauki Weizmanna śmiało
 W Izraelu teoria <a href="https://pl.wikipedia.org/wiki/Sze%C5%9B%C4%87_stopni_oddalenia" target="_blank"> sześciu stopni oddalenia </a> sprawdza się jak nigdzie indziej. Każdy zna tutaj każdego, zatem to referencje przyczyniają się do finalnej decyzji o zatrudnieniu lub odrzuceniu kandydata.
 <br>
 <br>
-<img src="/img/rsz_masada_big.png" class="img-responsive" alt="Picture"><font size="3">Wzgórze z ruinami legendarnej Masady. Na pustynnym horyzoncie morze Czerwone. Zdjęcie wykonane podczas wyprawy do Izraela w 2015 roku.</font>
+<img src="/img/rsz_masada_big.png" class="img-responsive" alt="Picture"><font size="3">Wzgórze z ruinami legendarnej Masady. Na pustynnym horyzoncie morze Martwe. Zdjęcie wykonane podczas wyprawy do Izraela w 2015 roku.</font>
 <br>
 <br>
 <h2>Zespół indywidualistów</h2>
