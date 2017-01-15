@@ -40,7 +40,7 @@ To z niej wywodzą się założyciele firm takich jak Waze, Viber, ICQ, Wix czy 
 <br>
 <h2>CV w rezerwie</h2>
 <br>
-Poszukując specjalistów z krajów europejskich zwracamy uwagę na wykształcenie, uczelnię, firmy w których kandydat zdobywał doświadczenie. 
+Poszukując specjalistów z krajów europejskich zwracamy uwagę na wykształcenie, uczelnię oraz firmy w których kandydat zdobywał doświadczenie. 
 W Izraelu uniwersytety takie jak Technion czy  Instytut Nauki Weizmanna śmiało konkurują z najlepszymi akademiami amerykańskimi, ale gdy rekrutuje się pracownika <b>najistotniejsza jest jednak jednostka armii</b> w której kandydat odbywał służbę. Taką informację powinno zawierać każde izraelskie CV czy profil na LinkedIn.
 <br>
 <br>
