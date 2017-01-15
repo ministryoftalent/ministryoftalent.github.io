@@ -29,7 +29,7 @@ Z pomocą przyszła mi lektura autorstwa duetu: Dan Senor, Saul Singer <a rel="n
 <br>
 W Izraelu słowo “rekrutacja” nabiera militarnego znaczenia. 
 Obowiązkiem każdego obywatela, zarówno chłopców, jak i dziewcząt, jest odsłużenie dwóch lub trzech lat w armii. Selekcja rozpoczyna się wcześnie. 
-Jeśli w szkole wyróżniasz się w danej dziedzinie, choćby matematyce czy fizyce, wysłannicy <b>IDF (Israel Defence Forces) wychwycą taki talent jak najwcześniej</b> i wciągną cię w wir przygotowań do wymagających egzaminów. 
+Jeśli w szkole wyróżniasz się w danej dziedzinie, choćby matematyce czy fizyce, <b>wysłannicy IDF (Israel Defence Forces) wychwycą taki talent jak najwcześniej</b> i wciągną cię w wir przygotowań do wymagających egzaminów. 
 Wojsko w Izraelu to nie tylko przeszkolenie wojskowe, umiejętności posługiwania się bronią czy Krav Maga. Elitarne jednostki nie tylko kształcą w niszowych obszarach, ale dają przede wszystkim solidne podstawy z zakresu informatyki i matematyki. 
 <br>
 <br>
