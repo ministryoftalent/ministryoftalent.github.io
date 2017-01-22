@@ -20,7 +20,7 @@ Sandra opowie dzisiaj o tym co łączy i dzieli świat HR i informatykę, ale ta
 
 <b><font size="5,5">Ministry of Talent: Twoje początki kariery zawodowej przypominają mi nieco moją drogę: absolwentka psychologii trafia do firmy rekrutującej dla branży informatycznej. Jak to się stało, że zainteresowałaś się programowaniem?</font></b>
 
-Sandra Rogalska: Na ostatnim roku studiów rozpoczęłam pracę w międzynarodowej firmie rekrutacyjnej specjalizującej się w projektach dla IT. Moja codziennością były wstępne rozmowy z kandydatami aplikującymi na stanowiska techniczne. Zauważyłam, wraz z koleżankami i kolegami zadajemy pytania o znajomość technologii, o których nie mamy pojęcia, co wpływa na jakość rozmów w kandydatami. Zaczęłam <b>rozszyfrowywać, co kryje się za tymi magicznymi nazwami</b> i skrótami jak JDK, Spring, JS, CSS, PostgreSQL itd. Zrozumiałam na bardzo podstawowym poziomie, że istnieją takie rzeczy jak <a href="https://pl.wikipedia.org/wiki/Framework" target="_blank">frameworki</a>, biblioteki, różne typy baz danych itd. Przełożyło się to pozytywnie na wyniki w pracy i często słyszałam w rozmowie z kandydatami komplementy na temat tego, że przynajmniej wiem, o co pytam, a należało to podobno do rzadkości.
+Sandra Rogalska: Na ostatnim roku studiów rozpoczęłam pracę w międzynarodowej firmie rekrutacyjnej specjalizującej się w projektach dla IT. Moja codziennością były wstępne rozmowy z kandydatami aplikującymi na stanowiska techniczne. Zauważyłam, wraz z koleżankami i kolegami zadajemy pytania o znajomość technologii, o których nie mamy pojęcia, co wpływa na jakość rozmów w kandydatami. Zaczęłam <b>rozszyfrowywać, co kryje się za tymi magicznymi nazwami</b> i skrótami jak JDK, Spring, JS, CSS, PostgreSQL itd. Zrozumiałam na bardzo podstawowym poziomie, że istnieją takie rzeczy jak <a href="https://pl.wikipedia.org/wiki/Framework" target="_blank">frameworki</a>, <a href="https://pl.wikipedia.org/wiki/Biblioteka_programistyczna" target="_blank">biblioteki</a>, różne typy baz danych itd. Przełożyło się to pozytywnie na wyniki w pracy i często słyszałam w rozmowie z kandydatami komplementy na temat tego, że przynajmniej wiem, o co pytam, a należało to podobno do rzadkości.
 
 
 Chwilę później zmieniłam pracodawcę i do moich nowych obowiązków jako pracownika działu HR w firmie IT należało uczestniczenie w technicznych rozmowach kwalifikacyjnych prowadzonych przez starszych programistów i architektów. <b>Po każdej takiej rozmowie uczyłam się czegoś nowego, chciałam wiedzieć i rozumieć więcej.</b> 
@@ -40,7 +40,7 @@ Studia szybko przełożyły się na moją codzienność zawodową.  Zauważyłam
 <img src="/images/rsz_process.jpg" class="img-responsive" alt="Picture">
 
 
-W międzyczasie zdobyłam certyfikat Scrum Mastera, i nagle z HRowca stałam się Product Managerem. Cały projekt spoczywał na moich barkach, od zaprojektowania UX (tworzenie mockapów i wireframów), po zarządzanie zespołem. Pod koniec zajmowałam się 4 projektami jednocześnie. <b>Przez dwa i pół roku prowadziłam bardzo intensywne życie zawodowe.</b> Musiałam przyswoić bardzo dużo nowej wiedzy w krótkim czasie. Studia zmierzały ku końcowi - to był doskonały moment na przejście na stanowisko programistyczne.
+W międzyczasie zdobyłam certyfikat <a href="https://pl.wikipedia.org/wiki/Scrum" target="_blank">Scrum Mastera</a>, i nagle z HRowca stałam się Product Managerem. Cały projekt spoczywał na moich barkach, od zaprojektowania UX (<a href="https://pl.wikipedia.org/wiki/User_experience" target="_blank">User Experience</a>), po zarządzanie zespołem. Pod koniec zajmowałam się 4 projektami jednocześnie. <b>Przez dwa i pół roku prowadziłam bardzo intensywne życie zawodowe.</b> Musiałam przyswoić bardzo dużo nowej wiedzy w krótkim czasie. Studia zmierzały ku końcowi - to był doskonały moment na przejście na stanowisko programistyczne.
 
 Chciałam zacząć od czystej karty. Nie bez żalu pożegnałam się z moją firmą i rozpoczęłam nowy rozdział mojego życia w roli młodszej programistki w Cybercom. 
 
@@ -75,7 +75,7 @@ Kompilator nie jest tak wymagający emocjonalnie.
 <b><font size="5,5">Czy wykorzystujesz doświadczenie i umiejętności z poprzedniej pracy?</font></b>
 
 
-Sandra: Tak, oczywiście. Umiejętności miękkie są nie bez znaczenia w pracy programisty. Bez większych trudności potrafię wydobyć wymagania od product ownera, dobrze je opisać i przekuć je na kod, który odpowiada potrzebom klienta. Umiejętności miękkie są jak znajomość języka angielskiego, przydają się bardzo często i praktycznie do wszystkiego ☺  Wielu programistom ich brakuje i szkolą się z nich na kursach dopiero podczas pracy zawodowej. 
+Sandra: Tak, oczywiście. Umiejętności miękkie są nie bez znaczenia w pracy programisty. Bez większych trudności potrafię wydobyć wymagania od <a href="http://scrum-master.pl/product-owner-czy-pelniacy-obowiazki/" target="_blank">product ownera</a>, dobrze je opisać i przekuć je na kod, który odpowiada potrzebom klienta. Umiejętności miękkie są jak znajomość języka angielskiego, przydają się bardzo często i praktycznie do wszystkiego ☺  Wielu programistom ich brakuje i szkolą się z nich na kursach dopiero podczas pracy zawodowej. 
 
 
 <b><font size="5,5">Środowisko programistyczne jest mocno zmaskulinizowane. Firmy walczą o to by jak najwięcej dziewczyn chciało pracować u nich na stanowiskach technicznych. Jakie są Twoje przemyślenia na temat pozycji kobiet w świecie IT? </font></b>
@@ -92,9 +92,9 @@ Na pewno znasz ten słynny eksperyment <a href="https://pl.wikipedia.org/wiki/Ef
 
 <b><font size="5,5">W czym na co dzień kodujesz?</font></b>
 
-Sandra: Podczas kursu programowania uczyłam się Javy i w tym języku pracuję. Trochę też bawiłam się Angularem. Głównie pracuję na backendzie. 
+Sandra: Podczas kursu programowania uczyłam się <a href="https://pl.wikipedia.org/wiki/Java" target="_blank">Javy</a> i w tym języku pracuję. Trochę też bawiłam się <a href="https://pl.wikipedia.org/wiki/AngularJS" target="_blank">Angularem</a>. Głównie pracuję na backendzie. 
 
-Docelowo chciałabym zostać programistą full-stack. Praca nad całą funkcjonalnością end 2 end, a nie tylko nad jej elementem jest fascynująca. 
+Docelowo chciałabym zostać programistą full-stack. Praca nad całą funkcjonalnością od początku do końca, a nie tylko nad jej elementem jest fascynująca. 
 
 
 <b><font size="5,5">Jak widzisz swoją karierę za 5 lat?</font></b>
@@ -118,7 +118,4 @@ Sandra trzyma za Was kciuki.
 
 <b><font size="5,5"> Bardzo dziękuję za rozmowę! </font></b>
 
-Przypisy:
-1.
-2.
-3.
+
