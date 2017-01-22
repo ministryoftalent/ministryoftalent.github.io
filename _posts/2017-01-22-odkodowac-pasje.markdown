@@ -2,7 +2,7 @@
 layout:     post
 title:      "Odkodować pasję"
 subtitle:  " "
-date:       2017-01-23 11:00:00 
+date:       2017-01-22 11:00:00 
 author:     "Ministry of Talent"
 img: code_san.jpg
 categories: [praca, podróże]
