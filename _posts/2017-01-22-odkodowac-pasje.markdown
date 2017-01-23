@@ -40,7 +40,9 @@ Kurs stanowił dla mnie duże wyzwaniem. Byłam jedyną osobą na kursie bez zap
 Studia szybko przełożyły się na moją codzienność zawodową.  Zauważyłam, że <b>nasze wewnętrzne systemy HR nie są dostosowane do potrzeb działu i warto by było popracować nad ich rozwojem</b>. Zbudowaliśmy więc zespół programistów, złożony z osób, które akurat skończyły swój projekt, ale nie zaczęły jeszcze kolejnego i wzięliśmy się do pracy. Początkowo pełniłam funkcję analityka biznesowego - w końcu miał być produkt z którego sama miałam korzystać.  
 
 
+
 <img src="/images/rsz_process.jpg" class="img-responsive" alt="Picture">
+
 
 
 W międzyczasie zdobyłam certyfikat <a href="https://pl.wikipedia.org/wiki/Scrum" target="_blank">Scrum Mastera</a>, i nagle z HRowca stałam się Product Managerem. Cały projekt spoczywał na moich barkach, od zaprojektowania UX (<a href="https://pl.wikipedia.org/wiki/User_experience" target="_blank">User Experience</a>), po zarządzanie zespołem. Pod koniec tego okresa zajmowałam się czteroma projektami jednocześnie. <b>Przez dwa i pół roku prowadziłam bardzo intensywne życie zawodowe.</b> Musiałam przyswoić sobie dużo nowej wiedzy w krótkim czasie. Studia zmierzały ku końcowi - to był doskonały moment do przejście na stanowisko programistyczne.
