@@ -14,9 +14,9 @@ Po pewnym czasie okazało się, że lepiej czułaby się po "drugiej stronie moc
 
 Sandra opowie dzisiaj o tym co łączy oraz dzieli świat HR i informatykę, a także podzieli się historią o początku swojej drogi do zawodu programisty.
 
+<img src="/images/rsz_sandra_profile_1.jpg" class="img-responsive" alt="Picture"><font size="3">Zdjęcie z prywatnych zbiorów Sylwii Rogalskiej.</font>
 
 
-<img src="/images/code_san.jpg" class="img-responsive" alt="Picture"> <font size="3">Wywiad jest częścią cyklu "Projekt:ZMIANA" o transformacji zawodowej.</font>
 
 <b><font size="5,5">Ministry of Talent:  Początki Twojej kariery przypominają mi nieco moją drogę zawodową: absolwentka psychologii trafia do firmy rekrutującej dla branży informatycznej. Jak to się stało, że zainteresowałaś się programowaniem?</font></b>
 
@@ -41,7 +41,8 @@ Studia szybko przełożyły się na moją codzienność zawodową.  Zauważyłam
 
 
 
-<img src="/images/rsz_process.jpg" class="img-responsive" alt="Picture">
+
+<img src="/images/code_san.jpg" class="img-responsive" alt="Picture"> 
 
 
 
