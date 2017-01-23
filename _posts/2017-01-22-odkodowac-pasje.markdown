@@ -39,6 +39,7 @@ Kurs stanowił dla mnie duże wyzwaniem. Byłam jedyną osobą na kursie bez zap
 
 Studia szybko przełożyły się na moją codzienność zawodową.  Zauważyłam, że <b>nasze wewnętrzne systemy HR nie są dostosowane do potrzeb działu i warto by było popracować nad ich rozwojem</b>. Zbudowaliśmy więc zespół programistów, złożony z osób, które akurat skończyły swój projekt, ale nie zaczęły jeszcze kolejnego i wzięliśmy się do pracy. Początkowo pełniłam funkcję analityka biznesowego - w końcu miał być produkt z którego sama miałam korzystać.  
 
+
 <img src="/images/rsz_process.jpg" class="img-responsive" alt="Picture">
 
 
@@ -88,6 +89,7 @@ Sandra: Szczęśliwie, nigdy nie zderzyłam się z żadną form dyskryminacji w 
 Moim zdaniem, <b>negatywna selekcja następuje wcześniej niż na etapie pracy zawodowej</b>. Wraz z koleżanką byłyśmy jedynymi dziewczynami na roku. Niestety, część kadry pedagogicznej traktowała nas z góry, lekceważąc nasze umiejętności. Nie byłyśmy przygotowane na szowinistyczne uwagi. Po takim doświadczeniu, cześć kobiet ochodzi ze studiów, inne nie będą chciały kodować, ponieważ będzie im się to kojarzyć z traumą z uczelni.
 
 Na pewno znasz ten słynny eksperyment <a href="https://pl.wikipedia.org/wiki/Efekt_Pigmaliona" target="_blank">Rosenthala</a>, gdzie nauczycielom powiedziano, że część uczniów jest zdolniejsza od reszty. Nauczyciele podświadomie wspierali rozwój i edukację właśnie tych pierwszych, ignorując umiejętności drugiej połowy klasy. Dlatego pomimo, że na studiach radziłam sobie dobrze, zdarzało się, że koledzy przekonywali mnie, że przecież sama nie dam rady i potrzebuję ich pomocy. Ot, siła podświadomych stereotypów.
+
 
 <img src="/images/rsz_san_code.jpg" class="img-responsive" alt="Picture">
 
