@@ -70,7 +70,7 @@ Z mojej perspektywy, jest to dużo łatwiejsze, niż zajmowanie zespołami i rek
 
 Lubię większą część dnia spędzić na pracy na konkretnym zadaniem. Możliwość zobaczenia w działaniu wyników swojej pracy i oglądanie jak kolejne funkcjonalności rozszerzają projekt bywa bardzo nagradzające. Trudno osiągnąć taki stan pracując w HR. Zaczynasz kolejny projekt rekrutacyjny, ale nie masz poczucia, że ostatni jest już zakończony. Ciągle za czymś gonisz. Jeśli pojawiają się jakieś problemy, to winnym zawsze jest dział rekrutacji. 
 
-Kompilator nie jest tak wymagający emocjonalnie. 
+<a href="https://pl.wikipedia.org/wiki/Kompilator" target="_blank">Kompilator</a> nie jest tak wymagający emocjonalnie. 
 
 <b><font size="5,5">Czy wykorzystujesz doświadczenie i umiejętności z poprzedniej pracy?</font></b>
 
