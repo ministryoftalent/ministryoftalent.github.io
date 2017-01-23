@@ -114,7 +114,7 @@ Sandra.: Całym sercem polecam warsztaty organizowane przez <a href="http://geek
 Skupiają się na prostych, komercyjnych językach takich jaki Python czy Django. Po takim kursie można śmiało zacząć kodować samodzielnie.  Dla tych mających już jakiekolwiek umiejętności, skarbnicą wiedzy i tricków programistycznych będzie <a href="http://stackoverflow.com/" target="_blank">StackOverflow</a>.
 
 
-Najważniejsze to zrozumieć, że kodowanie nie jest trudne. Dziewczyny, szybko zdobywajcie praktyczne doświadczenie. Wszystkiego nauczycie się w trakcie pracy!
+Najważniejsze to zrozumieć, że kodowanie nie jest trudne. Dziewczyny, szybko zdobywajcie praktyczne umiejętnoście. Reszty nauczycie się w trakcie pracy!
 Sandra trzyma za Was kciuki.
 
 
