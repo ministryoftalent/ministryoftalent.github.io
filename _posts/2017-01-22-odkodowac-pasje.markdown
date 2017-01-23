@@ -25,7 +25,7 @@ Zauważyłam, że my rekruterzy zadajemy pytania o znajomość technologii, o kt
 Zaczęłam <b>rozszyfrowywać, co kryje się za tymi magicznymi nazwami</b> i skrótami jak: JDK, Spring, JS, CSS, PostgreSQL itd. Zrozumiałam na bardzo podstawowym poziomie, że istnieją takie rzeczy jak <a href="https://pl.wikipedia.org/wiki/Framework" target="_blank">frameworki</a>, <a href="https://pl.wikipedia.org/wiki/Biblioteka_programistyczna" target="_blank">biblioteki</a>, i różne typy baz danych itd. Przełożyło się to pozytywnie na wyniki w pracy, i często słyszałam w rozmowie z kandydatami komplementy na temat tego, że przynajmniej wiem, o co pytam, co podobno należało to podobno do rzadkości.
 
 
-Jakiś czas potem  zmieniłam pracodawcę i do moich nowych obowiązków jako pracownika działu HR w firmie IT należało uczestniczenie w technicznych rozmowach kwalifikacyjnych, prowadzonych przez starszych programistów i architektów. <b>W trakciie każdej takiej rozmowie uczyłam się czegoś nowego. Chciałam wiedzieć i rozumieć więcej.</b> 
+Po pewnym czasie zmieniłam pracodawcę i do moich nowych obowiązków jako pracownika działu HR w firmie IT należało uczestniczenie w technicznych rozmowach kwalifikacyjnych, prowadzonych przez starszych programistów i architektów. <b>W trakciie każdej takiej rozmowie uczyłam się czegoś nowego. Chciałam wiedzieć i rozumieć więcej.</b> 
 Pewnego dnia, mój najlepszy przyjaciel z pracy postanowił zapoznać mnie z podstawami programowania. I tak powstało moje pierwsze <a href="https://pl.wikipedia.org/wiki/Hello_world" target="_blank">“hello world”</a>. 
 
 
