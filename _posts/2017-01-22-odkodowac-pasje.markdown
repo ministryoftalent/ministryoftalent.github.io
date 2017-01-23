@@ -58,41 +58,41 @@ Niestety, od liceum nie miałam do czynienia z zaawansowaną matematyką, i to o
 
 Sandra: Prostota i jednoznaczność tego zawodu. 
 
-Praca w HR jest wyczerpująca emocjonalnie. Są rzeczy nad którymi nie jesteśmy w stanie zapanować. Dwoisz się i troisz, żeby zespół był zadowolony a firma rosła w siłę, a tu ktoś się wycofał z procesu rekrutacyjnego, rekrutacja nad którą pracowałaś przez ostatnie miesiące zostaje zawieszona, a hiring manager zmienia zdanie co kilka dni. To wszystko sprawia, że praca w HR i rekrutacji jest bardzo frustrująca. 
+Praca w HR jest wyczerpująca emocjonalnie. Są rzeczy nad którymi nie jesteśmy w stanie zapanować. Dwoisz się i troisz, żeby zespół był zadowolony, a firma rosła w siłę, a tu ktoś się wycofał z procesu rekrutacyjnego, rekrutacja nad którą pracowałaś przez ostatnie miesiące zostaje zawieszona, a hiring manager zmienia zdanie co kilka dni. To wszystko sprawia, że praca w HR jest bardzo frustrująca. 
 
-Programowanie dla mnie jest jak rozwiązywanie rebusów lub budowanie z klocków lego. Nie ma jednego, dobrego rozwiązania. Można zakodować coś na 20 tysięcy różnych sposobów. 
-<b>Kodowanie jest łatwiejsze niż wszyscy myślą.</b> Jeśli już poznasz składnię języka i frameworki, to potem jest już z górki. Żadna to fizyka kwantowa. 
+Programowanie zaś jest dla mnie jak rozwiązywanie rebusów lub budowanie z klocków lego. Nie ma jednego, dobrego rozwiązania. Można zakodować coś na 20 tysięcy różnych sposobów. 
+<b>Kodowanie jest łatwiejsze niż jest powszechnie postrzegane.</b> Jeśli już poznasz składnię języka i frameworki, to potem jest już z górki. Nie jest to żadna to fizyka kwantowa. 
 Z mojej perspektywy, jest to dużo łatwiejsze, niż zajmowanie zespołami i rekrutacja. 
 
 
 <img src="/images/rsz_san_laptop.jpg" class="img-responsive" alt="Picture">
 
 
-<b>W pracy rekrutera co chwilę coś cię odrywa od pracy, a tu możesz usiąść, pomyśleć i na spokojnie rozwiązać problem.</b> I jeszcze mi za to płacą!
+<b>W zawodzie rekrutera co chwilę coś cię odrywa od pracy, a tu możesz usiąść, pomyśleć i na spokojnie rozwiązać problem.</b> I jeszcze ci za to płacą!
 
-Lubię większą część dnia spędzić na pracy na konkretnym zadaniem. Możliwość zobaczenia w działaniu wyników swojej pracy i oglądanie jak kolejne funkcjonalności rozszerzają projekt bywa bardzo nagradzające. Trudno osiągnąć taki stan pracując w HR. Zaczynasz kolejny projekt rekrutacyjny, ale nie masz poczucia, że ostatni jest już zakończony. Ciągle za czymś gonisz. Jeśli pojawiają się jakieś problemy, to winnym zawsze jest dział rekrutacji. 
+Lubię większą część dnia spędzić na pracy nad konkretnym zadaniem. Możliwość zobaczenia w działaniu wyników swojej pracy i oglądanie jak kolejne funkcjonalności rozszerzają projekt bywa bardzo satysfakcjonujące. Trudno osiągnąć taki stan pracując w HR. Ciągle za czymś gonisz. Jeśli pojawiają się jakieś problemy, to winnym zawsze jest dział rekrutacji. 
 
-<a href="https://pl.wikipedia.org/wiki/Kompilator" target="_blank">Kompilator</a> nie jest tak wymagający emocjonalnie. 
+<a href="https://pl.wikipedia.org/wiki/Kompilator" target="_blank">Kompilator</a> nie jest tak emocjonalnie wymagający . 
 
 <b><font size="5,5">Czy wykorzystujesz doświadczenie i umiejętności z poprzedniej pracy?</font></b>
 
 
-Sandra: Tak, oczywiście. Umiejętności miękkie są nie bez znaczenia w pracy programisty. Bez większych trudności potrafię wydobyć wymagania od <a href="http://scrum-master.pl/product-owner-czy-pelniacy-obowiazki/" target="_blank">product ownera</a>, dobrze je opisać i przekuć je na kod, który odpowiada potrzebom klienta. Umiejętności miękkie są jak znajomość języka angielskiego, przydają się bardzo często i praktycznie do wszystkiego ☺  Wielu programistom ich brakuje i szkolą się z nich na kursach dopiero podczas pracy zawodowej. 
+Sandra: Tak, oczywiście. Umiejętności miękkie są nie bez znaczenia w pracy programisty. Bez większych trudności potrafię wydobyć wymagania od <a href="http://scrum-master.pl/product-owner-czy-pelniacy-obowiazki/" target="_blank">product ownera</a>, dobrze je opisać i przekuć je na kod, który odpowiada potrzebom klienta. Umiejętności miękkie są jak znajomość języka angielskiego, przydają się bardzo często i praktycznie do wszystkiego.  Wielu programistom ich brakuje i trenują je dopiero podczas pracy zawodowej. 
 
 
 <b><font size="5,5">Środowisko programistyczne jest mocno zmaskulinizowane. Firmy walczą o to by jak najwięcej dziewczyn chciało pracować u nich na stanowiskach technicznych. Jakie są Twoje przemyślenia na temat pozycji kobiet w świecie IT? </font></b>
 
 
-Sandra: Szczęśliwie, nigdy nie zderzyłam się z żadną form dyskryminacji w pracy jako kobieta-programistka.  Firmy IT bardzo dbają, żeby dziewczyny były równo traktowane.
+Sandra: Szczęśliwie, nigdy nie zderzyłam się z żadną form dyskryminacji w pracy jako kobieta-programistka.  Firmy IT dbają, żeby dziewczyny były równo traktowane.
 
-Moim zdaniem, <b>negatywna selekcja następuje wcześniej niż na etapie pracy zawodowej</b>. Wraz z koleżanką byłyśmy jedynymi dziewczynami na roku. Niestety, część kadry pedagogicznej traktowała nas z góry, lekceważąc nasze umiejętności. Nie byłyśmy przygotowanie na szowinistyczne docinki. Po takim doświadczeniu, cześć kobiet odejdzie ze studiów, inne nie będą chciały kodować, ponieważ będzie im się to kojarzyć z traumą z uczelni.
+Moim zdaniem, <b>negatywna selekcja następuje wcześniej niż na etapie pracy zawodowej</b>. Wraz z koleżanką byłyśmy jedynymi dziewczynami na roku. Niestety, część kadry pedagogicznej traktowała nas z góry, lekceważąc nasze umiejętności. Nie byłyśmy przygotowane na szowinistyczne uwagi. Po takim doświadczeniu, cześć kobiet ochodzi ze studiów, inne nie będą chciały kodować, ponieważ będzie im się to kojarzyć z traumą z uczelni.
 
 Na pewno znasz ten słynny eksperyment <a href="https://pl.wikipedia.org/wiki/Efekt_Pigmaliona" target="_blank">Rosenthala</a>, gdzie nauczycielom powiedziano, że część uczniów jest zdolniejsza od reszty. Nauczyciele podświadomie wspierali rozwój i edukację właśnie tych pierwszych, ignorując umiejętności drugiej połowy klasy. Dlatego pomimo, że na studiach radziłam sobie dobrze, zdarzało się, że koledzy przekonywali mnie, że przecież sama nie dam rady i potrzebuję ich pomocy. Ot, siła podświadomych stereotypów.
 
 <img src="/images/rsz_san_code.jpg" class="img-responsive" alt="Picture">
 
 
-<b><font size="5,5">W czym na co dzień kodujesz?</font></b>
+<b><font size="5,5">W jakim języku na co dzień kodujesz?</font></b>
 
 Sandra: Podczas kursu programowania uczyłam się <a href="https://pl.wikipedia.org/wiki/Java" target="_blank">Javy</a> i w tym języku pracuję. Trochę też bawiłam się <a href="https://pl.wikipedia.org/wiki/AngularJS" target="_blank">Angularem</a>. Głównie pracuję na <a href="https://pl.wikipedia.org/wiki/Front-end_i_back-end" target="_blank">backendzie</a>. 
 
