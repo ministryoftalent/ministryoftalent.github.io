@@ -8,39 +8,41 @@ img: code_san.jpg
 categories: [praca, podróże]
 index: true
 ---
-<b> Moja rozmówczyni rozpoczęła swoją karierę od rekrutacji programistów. 
-Po pewnym czasie okazało się, że chyba lepiej czułaby się po drugiej stronie mocy i rozpoczęła przygodę z kodowaniem.
+<b> Moja rozmówczyni rozpoczęła karierę zawodową od rekrutacji programistów. 
+Po pewnym czasie okazało się, że lepiej czułaby się po "drugiej stronie mocy" i rozpoczęła przygodę z kodowaniem.
 Śmieje się, że pokochała programowanie dlatego, że kompilator nie jest tak wymagający emocjonalnie jak praca w HR. </b>
 
-Sandra opowie dzisiaj o tym co łączy i dzieli świat HR i informatykę, ale także podzieli się historią o swoich początkach w drodze do zawodu programistki.
+Sandra opowie dzisiaj o tym co łączy oraz dzieli świat HR i informatykę, a także podzieli się historią o początku swojej drogi do zawodu programisty.
 
 
 
 <img src="/images/code_san.jpg" class="img-responsive" alt="Picture"> <font size="3">Wywiad jest częścią cyklu "Projekt:ZMIANA" o transformacji zawodowej.</font>
 
-<b><font size="5,5">Ministry of Talent: Twoje początki kariery zawodowej przypominają mi nieco moją drogę: absolwentka psychologii trafia do firmy rekrutującej dla branży informatycznej. Jak to się stało, że zainteresowałaś się programowaniem?</font></b>
+<b><font size="5,5">Ministry of Talent:  Początki Twojej kariery przypominają mi nieco moją drogę zawodową: absolwentka psychologii trafia do firmy rekrutującej dla branży informatycznej. Jak to się stało, że zainteresowałaś się programowaniem?</font></b>
 
-Sandra Rogalska: Na ostatnim roku studiów rozpoczęłam pracę w międzynarodowej firmie rekrutacyjnej specjalizującej się w projektach dla IT. Moja codziennością były wstępne rozmowy z kandydatami aplikującymi na stanowiska techniczne. Zauważyłam, wraz z koleżankami i kolegami zadajemy pytania o znajomość technologii, o których nie mamy pojęcia, co wpływa na jakość rozmów w kandydatami. Zaczęłam <b>rozszyfrowywać, co kryje się za tymi magicznymi nazwami</b> i skrótami jak JDK, Spring, JS, CSS, PostgreSQL itd. Zrozumiałam na bardzo podstawowym poziomie, że istnieją takie rzeczy jak <a href="https://pl.wikipedia.org/wiki/Framework" target="_blank">frameworki</a>, <a href="https://pl.wikipedia.org/wiki/Biblioteka_programistyczna" target="_blank">biblioteki</a>, różne typy baz danych itd. Przełożyło się to pozytywnie na wyniki w pracy i często słyszałam w rozmowie z kandydatami komplementy na temat tego, że przynajmniej wiem, o co pytam, a należało to podobno do rzadkości.
-
-
-Chwilę później zmieniłam pracodawcę i do moich nowych obowiązków jako pracownika działu HR w firmie IT należało uczestniczenie w technicznych rozmowach kwalifikacyjnych prowadzonych przez starszych programistów i architektów. <b>Po każdej takiej rozmowie uczyłam się czegoś nowego, chciałam wiedzieć i rozumieć więcej.</b> 
-Pewnego dnia widząc moje zainteresowanie mój najlepszy przyjaciel z pracy postanowił zapoznać mnie z podstawami programowania. I tak powstało moje pierwsze <a href="https://pl.wikipedia.org/wiki/Hello_world" target="_blank">“hello world”</a>. 
+Sandra Rogalska: Na ostatnim roku studiów rozpoczęłam pracę w międzynarodowej firmie rekrutacyjnej specjalizującej się w projektach dla IT. Moja codziennością były wstępne rozmowy z kandydatami aplikującymi na stanowiska techniczne. 
+Zauważyłam, że my rekruterzy zadajemy pytania o znajomość technologii, o której nie mamy pojęcia, co wpływa na jakość rozmów w kandydatami. 
+Zaczęłam <b>rozszyfrowywać, co kryje się za tymi magicznymi nazwami</b> i skrótami jak: JDK, Spring, JS, CSS, PostgreSQL itd. Zrozumiałam na bardzo podstawowym poziomie, że istnieją takie rzeczy jak <a href="https://pl.wikipedia.org/wiki/Framework" target="_blank">frameworki</a>, <a href="https://pl.wikipedia.org/wiki/Biblioteka_programistyczna" target="_blank">biblioteki</a>, i różne typy baz danych itd. Przełożyło się to pozytywnie na wyniki w pracy, i często słyszałam w rozmowie z kandydatami komplementy na temat tego, że przynajmniej wiem, o co pytam, co podobno należało to podobno do rzadkości.
 
 
-<b><font size="5,5">Od “hello world” do bycia pełnoetatowym programistą, długa droga. Co sprawiło, że postanowiłaś pójść o krok dalej?</font></b>
+Jakiś czaspotem  zmieniłam pracodawcę i do moich nowych obowiązków jako pracownika działu HR w firmie IT należało uczestniczenie w technicznych rozmowach kwalifikacyjnych, prowadzonych przez starszych programistów i architektów. <b>W trakciie każdej takiej rozmowie uczyłam się czegoś nowego. Chciałam wiedzieć i rozumieć więcej.</b> 
+Pewnego dnia, mój najlepszy przyjaciel z pracy postanowił zapoznać mnie z podstawami programowania. I tak powstało moje pierwsze <a href="https://pl.wikipedia.org/wiki/Hello_world" target="_blank">“hello world”</a>. 
 
 
-Sandra: Mój spostrzegawczy szef zauważył, że coraz bardziej pochłania mnie szeroko pojęta informatyka. Jednego popołudnia, niby dla żartu, rzucił na moje biurko wydanie lokalnej gazety. “Sandra,  sprawdź sobie to ogłoszenie o  darmowym kursie programowania. Od zera.“ Wróciłam do domu, i pomyślałam, ale dlaczego by nie spróbować? I tak oto zapisałam się na kurs, który stał się punktem zwrotnym w mojej karierze.   
+<b><font size="5,5">Od “hello world” do bycia pełnoetatowym programistą prowadzi długa droga. Co sprawiło, że postanowiłaś pójść o krok dalej?</font></b>
 
 
-Kurs okazał się być dużym wyzwaniem. Byłam jedyną osobą na kursie bez zaplecza czy edukacji technicznej.  <b>Z prostego “hello world” nagle przeskoczyłam do intensywnego kodowania dwa razy w tygodniu po 5 godzin dziennie.</b> Spodobało mi się do tego stopnia, że gdy zakończyłam kurs, zapisałam się na zaoczne studia informatyczne. 
+Sandra: Mój spostrzegawczy szef zauważył, że coraz bardziej pochłania mnie szeroko pojęta informatyka. Jednego popołudnia, niby dla żartu, rzucił na moje biurko wydanie lokalnej gazety. “Sandra,  sprawdź sobie to ogłoszenie o  darmowym kursie programowania. Od zera.“ Wróciłam do domu, i pomyślałam, dlaczego by nie spróbować? I tak oto zapisałam się na kurs, który stał się punktem zwrotnym w mojej karierze.   
 
-Studia szybko przełożyły się na moją codzienność zawodową.  Zauważyłam, że <b>nasze wewnętrzne systemy HR nie są dostosowane do potrzeb działu i warto by popracować nad ich rozwojem</b>. Zbudowaliśmy zespół programistów, złożony z osób które akurat skończyły swój projekt, ale nie zaczęły jeszcze kolejnego i wzięliśmy się do pracy. Na początku pełniłam funkcję analityka biznesowego - w końcu to miał być produkt z którego sama miałam korzystać.  
+
+Kurs stanowił dla mnie duże wyzwaniem. Byłam jedyną osobą na kursie bez zaplecza w postaci edukacji technicznej.  <b>Z prostego “hello world” nagle przeskoczyłam do intensywnego kodowania dwa razy w tygodniu po 5 godzin dziennie.</b> Spodobało mi się do tego stopnia, że gdy zakończyłam kurs, zapisałam się na zaoczne studia informatyczne. 
+
+Studia szybko przełożyły się na moją codzienność zawodową.  Zauważyłam, że <b>nasze wewnętrzne systemy HR nie są dostosowane do potrzeb działu i warto by było popracować nad ich rozwojem</b>. Zbudowaliśmy więc zespół programistów, złożony z osób, które akurat skończyły swój projekt, ale nie zaczęły jeszcze kolejnego i wzięliśmy się do pracy. Początkowo pełniłam funkcję analityka biznesowego - w końcu miał być produkt z którego sama miałam korzystać.  
 
 <img src="/images/rsz_process.jpg" class="img-responsive" alt="Picture">
 
 
-W międzyczasie zdobyłam certyfikat <a href="https://pl.wikipedia.org/wiki/Scrum" target="_blank">Scrum Mastera</a>, i nagle z HRowca stałam się Product Managerem. Cały projekt spoczywał na moich barkach, od zaprojektowania UX (<a href="https://pl.wikipedia.org/wiki/User_experience" target="_blank">User Experience</a>), po zarządzanie zespołem. Pod koniec zajmowałam się 4 projektami jednocześnie. <b>Przez dwa i pół roku prowadziłam bardzo intensywne życie zawodowe.</b> Musiałam przyswoić bardzo dużo nowej wiedzy w krótkim czasie. Studia zmierzały ku końcowi - to był doskonały moment na przejście na stanowisko programistyczne.
+W międzyczasie zdobyłam certyfikat <a href="https://pl.wikipedia.org/wiki/Scrum" target="_blank">Scrum Mastera</a>, i nagle z HRowca stałam się Product Managerem. Cały projekt spoczywał na moich barkach, od zaprojektowania UX (<a href="https://pl.wikipedia.org/wiki/User_experience" target="_blank">User Experience</a>), po zarządzanie zespołem. Pod koniec tego okresa zajmowałam się czteroma projektami jednocześnie. <b>Przez dwa i pół roku prowadziłam bardzo intensywne życie zawodowe.</b> Musiałam przyswoić sobie dużo nowej wiedzy w krótkim czasie. Studia zmierzały ku końcowi - to był doskonały moment do przejście na stanowisko programistyczne.
 
 Chciałam zacząć od czystej karty. Nie bez żalu pożegnałam się z moją firmą i rozpoczęłam nowy rozdział mojego życia w roli młodszej programistki w Cybercom. 
 
