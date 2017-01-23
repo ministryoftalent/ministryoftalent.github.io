@@ -44,14 +44,14 @@ Studia szybko przełożyły się na moją codzienność zawodową.  Zauważyłam
 
 W międzyczasie zdobyłam certyfikat <a href="https://pl.wikipedia.org/wiki/Scrum" target="_blank">Scrum Mastera</a>, i nagle z HRowca stałam się Product Managerem. Cały projekt spoczywał na moich barkach, od zaprojektowania UX (<a href="https://pl.wikipedia.org/wiki/User_experience" target="_blank">User Experience</a>), po zarządzanie zespołem. Pod koniec tego okresa zajmowałam się czteroma projektami jednocześnie. <b>Przez dwa i pół roku prowadziłam bardzo intensywne życie zawodowe.</b> Musiałam przyswoić sobie dużo nowej wiedzy w krótkim czasie. Studia zmierzały ku końcowi - to był doskonały moment do przejście na stanowisko programistyczne.
 
-Chciałam zacząć od czystej karty. Nie bez żalu pożegnałam się z moją firmą i rozpoczęłam nowy rozdział mojego życia w roli młodszej programistki w Cybercom. 
+Chciałam zacząć od czystej karty. Nie bez żalu pożegnałam się z firmą i rozpoczęłam nowy rozdział mojego życia w roli młodszej programistki w Cybercom. 
 
 
 
-<b><font size="5,5">Niebywałe, że udało ci się tego dokonać raptem w ciągu dwóch lat. Proces zmiany zawodu to nie bywałe skomplikowane przedsięwzięcie życiowe, i czasem trudno tego dokonać bez wsparcia bliskich. Jak było w Twoim przypadku?</font></b>
+<b><font size="5,5">Niebywałe, że udało ci się tego dokonać raptem w ciągu dwóch lat. Proces zmiany zawodu to niezwykle skomplikowane przedsięwzięcie życiowe, i czasem trudno dokonać tego bez wsparcia bliskich. Jak było w Twoim przypadku?</font></b>
 
-Sandra: Moja mama w przeszłości przez pewien czas była programistką, więc tym bardziej mocno mi kibicowała.
-Od liceum nie miałam do czynienia z zaawansowaną matematyką, i to ona okazała się jednym z większych wyzwań w procesie zmiany zawodu. I tu najistotniejsze okazało się być wsparcie moich znajomych programistów. Byłam dla nich takim “małym projektem”. Cierpliwie tłumaczyli, pomagali rozwiązać trudniejsze zadania, dzielili się wiedzą i doświadczeniem. 
+Sandra: Moja mama w przeszłości przez pewien czas była programistką, więc tym mocniej mi kibicowała.
+Niestety, od liceum nie miałam do czynienia z zaawansowaną matematyką, i to ona okazała się jednym z większych wyzwań w procesie zmiany zawodu. Tu najistotniejsze okazało się być wsparcie moich znajomych programistów. Byłam dla nich takim “małym projektem”. Cierpliwie tłumaczyli, pomagali rozwiązać trudniejsze zadania, dzielili się ze mną wiedzą i doświadczeniem. 
 
 
 <b><font size="5,5">Co pociąga cię w byciu programistką?</font></b>
