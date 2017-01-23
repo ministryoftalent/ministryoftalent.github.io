@@ -16,7 +16,7 @@ O życiu rekrutera freelancera w podróży opowiada Artur.
  
 <a href="http://ministryoftalent.co.uk/2017/01/22/odkodowac-pasje/" target="_blank"> Odkodować pasję</a> 
 
-O zmianie zawodowej opowiada Sylwia, która rozpoczęła karierę zawodową od rekrutacji programistów. Po pewnym czasie okazało się, że lepiej czułaby się po “drugiej stronie mocy” i rozpoczęła przygodę z kodowaniem. 
+O zmianie zawodowej opowiada Sylwia, która rozpoczęła karierę od rekrutacji programistów. Po pewnym czasie okazało się, że lepiej czułaby się po “drugiej stronie mocy” i rozpoczęła przygodę z kodowaniem. 
 
 
 
