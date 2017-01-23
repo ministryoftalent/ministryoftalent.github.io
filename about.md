@@ -12,9 +12,11 @@ Cześć! Jestem Aga :-)
 <p>Z zawodu jestem psychologiem, z powołania poławiaczem talentów.
 <p>W listopadzie 2014 roku porzuciłam smog Krakowa dla deszczowego Londynu.
 <p>Od tamtej pory miałam okazję pracować jako rekruter zarówno dla globalnych korporacji jak i startupów.
-Tutaj znajdziesz mnie na <a href="http://www.linkedin.com/in/adeszczka">LinkedIn</a>.</p>
+Tutaj znajdziesz mnie na <a href="http://www.linkedin.com/in/adeszczka" target="_blank">LinkedIn</a>.</p>
 <p>Poza tym trenuję kick-boxing, jestem uzależniona od wyszukiwania tanich lotów na Skyscannerze i lubię żelki.</p>
-<p>Kocham ludzi, technologię i podróże klik na <a href="http://www.airbnb.pl/c/ade2?s=8/">mój link</a> i zgarnij $ na Twoje wyprawy.
+<p>Kocham ludzi, technologię i podróże (<a href="http://www.airbnb.pl/c/ade2?s=8/" target="_blank">zgarnij</a> $ na Twoje wyprawy).
+<br>
+<br>
 Blog to moje i tylko moje subiektywne spostrzeżenie na branżę rekrutacyjną, emigrację i życie w Londynie.
 
 <p>Masz pytania? Napisz do mnie: <b>Aga@Ministryoftalent.co.uk</b></p>
@@ -23,7 +25,7 @@ Blog to moje i tylko moje subiektywne spostrzeżenie na branżę rekrutacyjną, 
 <br>
 
     
-<p>Zdjęcia na stronie pochodzą z banków zdjęć: <a href="https://stocksnap.io"> Stocksnap</a> oraz <a href="http://www.freedigitalphotos.net/"> Freedigitalphotos</a>.</p>
+<p>Zdjęcia na stronie pochodzą z banków zdjęć: <a href="https://stocksnap.io" target="_blank"> Stocksnap</a> oraz <a href="http://www.freedigitalphotos.net/" target="_blank"> Freedigitalphotos</a>.</p>
 
 
 
