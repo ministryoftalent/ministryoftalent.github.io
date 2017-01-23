@@ -94,9 +94,9 @@ Na pewno znasz ten słynny eksperyment <a href="https://pl.wikipedia.org/wiki/Ef
 
 <b><font size="5,5">W jakim języku na co dzień kodujesz?</font></b>
 
-Sandra: Podczas kursu programowania uczyłam się <a href="https://pl.wikipedia.org/wiki/Java" target="_blank">Javy</a> i w tym języku pracuję. Trochę też bawiłam się <a href="https://pl.wikipedia.org/wiki/AngularJS" target="_blank">Angularem</a>. Głównie pracuję na <a href="https://pl.wikipedia.org/wiki/Front-end_i_back-end" target="_blank">backendzie</a>. 
+Sandra: Podczas kursu programowania uczyłam się <a href="https://pl.wikipedia.org/wiki/Java" target="_blank">Javy</a> i w tym języku pracuję. Trochę też bawiłam się <a href="https://pl.wikipedia.org/wiki/AngularJS" target="_blank">Angularem</a>. Głównie zajmuję się <a href="https://pl.wikipedia.org/wiki/Front-end_i_back-end" target="_blank">backendem</a> aplikacji. 
 
-Docelowo chciałabym zostać programistą full-stack [red. praca zarówno na frontendzie jak i backendzie]. Praca nad całą funkcjonalnością od początku do końca, a nie tylko nad jej elementem jest fascynująca. 
+Docelowo chciałabym zostać programistą full-stack [red. praca zarówno nad frontendem jak i backendem aplikacji]. Praca nad całą funkcjonalnością od początku do końca, a nie tylko nad jej elementem jest fascynująca. 
 
 
 <b><font size="5,5">Jak widzisz swoją karierę za 5 lat?</font></b>
