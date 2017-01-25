@@ -76,7 +76,7 @@ Z mojej perspektywy, jest to dużo łatwiejsze, niż zajmowanie zespołami i rek
 
 Lubię większą część dnia spędzić na pracy nad konkretnym zadaniem. Możliwość zobaczenia w działaniu wyników swojej pracy i oglądanie jak kolejne funkcjonalności rozszerzają projekt bywa bardzo satysfakcjonujące. Trudno osiągnąć taki stan pracując w HR. Ciągle za czymś gonisz. Jeśli pojawiają się jakieś problemy, to winnym zawsze jest dział rekrutacji. 
 
-<a href="https://pl.wikipedia.org/wiki/Kompilator" target="_blank">Kompilator</a> nie jest tak emocjonalnie wymagający . 
+<a href="https://pl.wikipedia.org/wiki/Kompilator" target="_blank">Kompilator</a> nie jest tak emocjonalnie wymagający. 
 
 <b><font size="5,5">Czy wykorzystujesz doświadczenie i umiejętności z poprzedniej pracy?</font></b>
 
