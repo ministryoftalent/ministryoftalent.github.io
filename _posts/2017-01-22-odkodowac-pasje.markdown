@@ -14,7 +14,7 @@ Po pewnym czasie okazało się, że lepiej czułaby się po "drugiej stronie moc
 
 Sandra opowie dzisiaj o tym co łączy oraz dzieli świat HR i informatykę, a także podzieli się historią o początku swojej drogi do zawodu programisty.
 
-<img src="/images/rsz_sandra_profile_1.jpg" class="img-responsive" alt="Picture"><font size="3">Zdjęcie z prywatnych zbiorów Sylwii Rogalskiej.</font>
+<img src="/images/rsz_sandra_profile_1.jpg" class="img-responsive" alt="Picture"><font size="3">Zdjęcie z prywatnych zbiorów Sandry Rogalskiej.</font>
 
 
 
@@ -115,7 +115,7 @@ Sandra: Nigdy więcej nie chce pracować jako Product Manager (śmiech). Za pię
 
 
 
-Sandra.: Całym sercem polecam warsztaty organizowane przez <a href="http://geekgirlscarrots.org/" target="_blank">Girl Geek Carrots</a>. 
+Sandra.: Całym sercem polecam warsztaty organizowane przez <a href="http://geekgirlscarrots.org/" target="_blank">Geek Girls Carrots</a>. 
 Skupiają się na prostych, komercyjnych językach takich jaki Python czy Django. Po takim kursie można śmiało zacząć kodować samodzielnie.  Dla tych mających już jakiekolwiek umiejętności, skarbnicą wiedzy i tricków programistycznych będzie <a href="http://stackoverflow.com/" target="_blank">StackOverflow</a>.
 
 
