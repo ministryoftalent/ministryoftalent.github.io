@@ -46,7 +46,7 @@ Studia szybko przełożyły się na moją codzienność zawodową.  Zauważyłam
 
 
 
-W międzyczasie zdobyłam certyfikat <a href="https://pl.wikipedia.org/wiki/Scrum" target="_blank">Scrum Mastera</a>, i nagle z HRowca stałam się Product Managerem. Cały projekt spoczywał na moich barkach, od zaprojektowania UX (<a href="https://pl.wikipedia.org/wiki/User_experience" target="_blank">User Experience</a>), po zarządzanie zespołem. Pod koniec tego okresa zajmowałam się czteroma projektami jednocześnie. <b>Przez dwa i pół roku prowadziłam bardzo intensywne życie zawodowe.</b> Musiałam przyswoić sobie dużo nowej wiedzy w krótkim czasie. Studia zmierzały ku końcowi - to był doskonały moment do przejście na stanowisko programistyczne.
+W międzyczasie zdobyłam certyfikat <a href="https://pl.wikipedia.org/wiki/Scrum" target="_blank">Scrum Mastera</a>, i nagle z HRowca stałam się Product Managerem. Cały projekt spoczywał na moich barkach, od zaprojektowania UX (<a href="https://pl.wikipedia.org/wiki/User_experience" target="_blank">User Experience</a>), po zarządzanie zespołem. Pod koniec tego okresu zajmowałam się czteroma projektami jednocześnie. <b>Przez dwa i pół roku prowadziłam bardzo intensywne życie zawodowe.</b> Musiałam przyswoić sobie dużo nowej wiedzy w krótkim czasie. Studia zmierzały ku końcowi - to był doskonały moment do przejście na stanowisko programistyczne.
 
 Chciałam zacząć od czystej karty. Nie bez żalu pożegnałam się z firmą i rozpoczęłam nowy rozdział mojego życia w roli młodszej programistki w Cybercom. 
 
