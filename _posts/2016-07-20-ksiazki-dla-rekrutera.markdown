@@ -22,7 +22,7 @@ img: ksiazki.jpg
 
 <img src="/img/jstojava.jpg" class="img-responsive" alt="Picture">
 
-<i>Niby suchar, ale zawsze aktualny. Więcej o różnicy między Javą a Javascriptem na <a href="http://stackoverflow.com/questions/245062/whats-the-difference-between-javascript-and-java">Stackoverflow</a>
+<i>Niby suchar, ale zawsze aktualny. Więcej o różnicy między Javą a Javascriptem na <a href="http://stackoverflow.com/questions/245062/whats-the-difference-between-javascript-and-java" target="_blank">Stackoverflow</a>
 </i>
 
 
@@ -30,13 +30,13 @@ img: ksiazki.jpg
 
 Biblia HR napisana przez jednego z ojców kultury organizacyjnej Googla. 
 
-Książkę czyta się ją bardzo przyjemnie, a lekturę dodatkowo umilają liczne anegdoty z historii powstawania Google. Laszlo Bock, do nie dawna [red.pod koniec 2016 roku postanowił skupić się na pracy nad swoim startupem i opuścił Google] przez lata odpowiadał nie tylko za procesy operacyjne, ale też zadowolenie z pracy i rozwój pracowników internetowego giganta.
+Książkę czyta się ją bardzo przyjemnie, a lekturę dodatkowo umilają liczne anegdoty z historii powstawania Google. Laszlo Bock, do nie dawna [red. pod koniec 2016 roku postanowił skupić się na pracy nad swoim startupem i opuścił Google] przez lata odpowiadał nie tylko za procesy operacyjne, ale też zadowolenie z pracy i rozwój pracowników internetowego giganta.
 W książce porusza właściwie każdy aspekt pracy w HR, od budowy zespołów, zatrudniania, procesu rekrutacyjne po wynagrodzenia i budowę kultury organizacyjnej. 
 
 Dla rekruterów książka może być szczególnie ciekawa, bo Laszlo dość szczegółowo opisuje procesy i techniki stosowane przez ich wewnętrzny zespół rekrutacyjny przy zatrudnianiu inżynierów. 
 Jak dla mnie to pozycja obowiązkowa dla każdej osoby budującej organizację (niezależnie od funkcji i roli).
 
-<a rel="nofollow" href="https://www.amazon.co.uk/gp/product/1444792385/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1444792385&linkCode=as2&tag=ministryoftal-21">
+<a rel="nofollow" href="https://www.amazon.co.uk/gp/product/1444792385/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1444792385&linkCode=as2&tag=ministryoftal-21" target="_blank">
 Link do książki.</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=as2&o=2&a=1444792385" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
@@ -57,7 +57,7 @@ Link do książki.</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministry
 <img src="/img/rsz_1tech_simple.jpg" class="img-responsive" alt="Picture">
 
 <p>Link do książki na Amazonie:
-       <a rel="nofollow" href="https://www.amazon.co.uk/gp/product/1450216463/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1450216463&linkCode=as2&tag=ministryoftal-21"> tutaj. </a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=as2&o=2&a=1450216463" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+       <a rel="nofollow" href="https://www.amazon.co.uk/gp/product/1450216463/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1450216463&linkCode=as2&tag=ministryoftal-21" target="_blank"> tutaj. </a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=as2&o=2&a=1450216463" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </p>
 
 <h2 class="section-heading">"Smart & gets things done" by Joel Spolsky</h2>
@@ -69,13 +69,13 @@ Link do książki.</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministry
 
 <p>Na koniec autor proponuje system
     oceniania firm pod kątem jakości pisanego kodu i dogodności pracy dla programisty (<a
-            href="http://www.joelonsoftware.com/articles/fog0000000043.html">"The Joel Test"</a>).
+            href="http://www.joelonsoftware.com/articles/fog0000000043.html" target="_blank">"The Joel Test"</a>).
     System ten można czasem spotkać w ogłoszeniach o pracę.</p>
 
 <img src="/img/spolsky.jpeg" class="img-responsive" alt="Picture">
 
 <p>Książkę można kupić
-       <a rel="nofollow" href="https://www.amazon.co.uk/gp/product/1590598385/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1590598385&linkCode=as2&tag=ministryoftal-21"> tutaj. </a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=as2&o=2&a=1590598385" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+       <a rel="nofollow" href="https://www.amazon.co.uk/gp/product/1590598385/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1590598385&linkCode=as2&tag=ministryoftal-21" target="_blank"> tutaj. </a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=as2&o=2&a=1590598385" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
        </p>
 
@@ -100,7 +100,7 @@ Link do książki.</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministry
 <img src="/img/rsz_softskills.jpg" class="img-responsive" alt="Picture">
 
 <p>Link do książki i audiobooka
-    <a rel="nofollow" href="https://www.amazon.co.uk/gp/product/1617292397/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1617292397&linkCode=as2&tag=ministryoftal-21">tutaj.</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=as2&o=2&a=1617292397" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+    <a rel="nofollow" href="https://www.amazon.co.uk/gp/product/1617292397/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1617292397&linkCode=as2&tag=ministryoftal-21" target="_blank">tutaj.</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=as2&o=2&a=1617292397" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 </p>
 
