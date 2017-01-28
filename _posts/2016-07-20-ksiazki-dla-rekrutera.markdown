@@ -16,8 +16,8 @@ img: ksiazki.jpg
                         swoją niewiedzę na Bogu ducha winnych kandydatach.</p>
 <p>Pojawia się pytanie: gdzie znajdziemy materiały, które dadzą nam wiedzę i narzędzia, aby
     awansować do pierwszej ligi specjalistów rekrutacji w branży technologicznej? Pozwolę sobie
-    przedstawić trzy książki (jak na razie do przeczytania tylko w originale), które pomogą odnaleźć
-    Ci się w świecie technologii i programistów.</p>
+    przedstawić cztery książki (jak na razie do przeczytania tylko w originale), które pomogą odnaleźć
+    Ci się w świecie rekrutacji i technologii.</p>
 
 
 <img src="/img/jstojava.jpg" class="img-responsive" alt="Picture">
