@@ -26,10 +26,24 @@ img: ksiazki.jpg
 </i>
 
 
+<h2 class="section-heading">"Work Rules! Insights from Inside Google That Will Transform How You Live and Lead" by Laszlo Bock</h2>
 
-<h2 class="section-heading">Technology Made Simple for the Technical Recruiter by Obi
+Biblia HR napisana przez jednego z ojców kultury organizacyjnej Googla. 
+
+Książkę czyta się ją bardzo przyjemnie, a lekturę dodatkowo umilają liczne anegdoty z historii powstawania Google. Laszlo Bock, do nie dawna [red.pod koniec 2016 roku postanowił skupić się na pracy nad swoim startupem i opuścił Google] przez lata odpowiadał nie tylko za procesy operacyjne, ale też zadowolenie z pracy i rozwój pracowników internetowego giganta.
+W książce porusza właściwie każdy aspekt działalności firmy, od budowy zespołów, zatrudniania, procesu rekrutacyjne po wynagrodzenia i budowę kultury organizacyjnej. 
+
+Dla rekruterów książka może być szczególnie ciekawa, bo Laszlo dość szczegółowo opisuje procesy i techniki stosowane przez ich wewnętrzny zespół rekrutacyjny. Jak dla mnie to pozycja obowiązkowa dla każdej osoby budującej organizację (niezależnie od funkcji i roli).
+
+<a rel="nofollow" href="https://www.amazon.co.uk/gp/product/1444792385/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1444792385&linkCode=as2&tag=ministryoftal-21">
+Link do książki.</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=as2&o=2&a=1444792385" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+<img src="/img/workrules.jpg" class="img-responsive" alt="Picture">
+
+<h2 class="section-heading">"Technology Made Simple for the Technical Recruiter". by Obi
     Ogbanufe</h2>
-<p>Zacznijmy od książki napisanej stricte pod kątem rekrutacji IT. Autorka wyjaśnia podstawy
+<p> Książka napisana stricte pod kątem rekrutacji IT. Autorka wyjaśnia podstawy
     informatyki, najpopularniejsze technologie, specjalności (od administratora, przez programistę,
     po business analityka) i podpowiada jak właściwie zadawać pytania, aby sprawdzić
     konkretne umiejętności kandydata. Książke dorwałam dwa lata temu kiedy miałam za sobą już kilka
@@ -45,7 +59,7 @@ img: ksiazki.jpg
        <a rel="nofollow" href="https://www.amazon.co.uk/gp/product/1450216463/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1450216463&linkCode=as2&tag=ministryoftal-21"> tutaj. </a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=as2&o=2&a=1450216463" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </p>
 
-<h2 class="section-heading">Smart & gets things done by Joel Spolsky</h2>
+<h2 class="section-heading">"Smart & gets things done" by Joel Spolsky</h2>
 <p>Krótka, napisana lekko, w bardzo amerykański sposób, książka autorstwa Joela Spolskiego. Joel,
     twórca miedzy innymi
     platformy pytań i odpowiedzi dla programistów StackOverflow postanowił podzielić się
@@ -65,7 +79,7 @@ img: ksiazki.jpg
        </p>
 
 
-<h2 class="section-heading">Soft Skills: The software developer's life manual by John Sonmez</h2>
+<h2 class="section-heading">"Soft Skills: The software developer's life manual" by John Sonmez</h2>
 
 <p>Książka z zasady jest poradnikiem dla osób pragnących rozpocząć karierę programistyczną. Autor
     skrupulatnie wyjaśnia tajniki branży. Słuchając książki (wybrałam formę audiobooka) doszłam do
@@ -88,6 +102,7 @@ img: ksiazki.jpg
     <a rel="nofollow" href="https://www.amazon.co.uk/gp/product/1617292397/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1617292397&linkCode=as2&tag=ministryoftal-21">tutaj.</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=as2&o=2&a=1617292397" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 </p>
+
 
 
 <h2 class="section-heading">Co czytać?</h2>
