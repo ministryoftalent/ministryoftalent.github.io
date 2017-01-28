@@ -30,7 +30,7 @@ img: ksiazki.jpg
 
 Biblia HR napisana przez jednego z ojców kultury organizacyjnej Googla. 
 
-Książkę czyta się ją bardzo przyjemnie, a lekturę dodatkowo umilają liczne anegdoty z historii powstawania Google. Laszlo Bock, do nie dawna [red. pod koniec 2016 roku postanowił skupić się na pracy nad swoim startupem i opuścił Google] przez lata odpowiadał nie tylko za procesy operacyjne, ale też zadowolenie z pracy i rozwój pracowników internetowego giganta.
+Książkę czyta się bardzo przyjemnie, a lekturę dodatkowo umilają liczne anegdoty z historii powstawania Google. Laszlo Bock, do nie dawna [red. pod koniec 2016 roku postanowił skupić się na pracy nad swoim startupem i opuścił Google] przez lata odpowiadał nie tylko za procesy operacyjne, ale też zadowolenie z pracy i rozwój pracowników internetowego giganta.
 W książce porusza właściwie każdy aspekt pracy w HR, od budowy zespołów, zatrudniania, procesu rekrutacyjne po wynagrodzenia i budowę kultury organizacyjnej. 
 
 Dla rekruterów książka może być szczególnie ciekawa, bo Laszlo dość szczegółowo opisuje procesy i techniki stosowane przez ich wewnętrzny zespół rekrutacyjny przy zatrudnianiu inżynierów. 
