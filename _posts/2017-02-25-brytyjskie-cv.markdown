@@ -11,11 +11,11 @@ index: true
 <b> Jeśli marzy ci się praca w Wielkiej Brytanii, to lepiej tego nie odwlekaj. Póki co (początek 2017 roku) sytuacja dla obywateli Unii Europejkiej pozostaje bez zmian. Nie ważne, czy już tu jesteś czy dopiero planujesz przyjazd, prędzej czy później, zmierzysz się z lokalnym rynkiem pracy. Jak to tutaj mówią “when in Rome, do as the Roman's do”, więc aby nie upaść z hukiem niczym cesarstwo rzymskie, warto znać zasady pisania CV, którym posługują się Brytyjczycy. 
 </b>
 
-<img src="/images/cv_stock.jpg" class="img-responsive" alt="Picture">
-
 <b><font size="5,5">Tongue twisters</font></b>
 
 Na początek wykreśl tytuł “Cirriculum Vitae”, który tak często widzimy w polskich CV.  Zamiast tego w nagłówku napisz swoje imię i nazwisko. Broń boże nie próbuj przerabiać Jana Kowalskiego na Jonha Smitha - z tego wychodzą zazwyczaj niezłe potworki. Jeśli rzeczywiście Twoje imię jest trudne w wymowie i może odstraszać, posługuj się zdrobnieniem (które w UK używane są powszechnie w sytuacjach oficjalnych np. Tony Blair, a nie Anthony Charles Lynton Blair), lub użyj drugiego imienia. Ja Agnieszkę zamieniłam na Agę, bo nie mogłam znieść bólu tubylców usiłujących wymówić moje imię w połączeniu z równie ambitnym, polskim szeleszczącym nazwiskiem. 
+
+<img src="/images/cv_stock.jpg" class="img-responsive" alt="Picture">
 
 <b><font size="5,5">Długość ma znaczenie</font></b>
 
