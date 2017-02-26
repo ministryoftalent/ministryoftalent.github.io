@@ -8,14 +8,8 @@ img: IS09AC9KT_Comp.jpg
 categories: [praca, podróże]
 index: true
 ---
-<b> Co kraj, to nieco inne oczekiwania w stosunku do CV kandydata. 
-W rosyjskich dokumentach aplikacyjnych standardem jest chwalenie się informacją o byciu niepijącym lub niepalącym, 
-Amerykanie bombardują liczbą osiagnięć oraz tytułów zdobytych w życiu szkolnym i zawodowym, a Francuzi lubią kategoryzować poprzez nagłówek z nazwą zawodu kandydata widniejącym w ich CV, tuż pod imieniem i nazwiskiem. 
-A co na to mieszkańcy zielonej wyspy?
- </b>
-
-Jeśli marzy ci się praca w Wielkiej Brytanii, to lepiej tego nie odwlekaj. Póki co (początek 2017 roku) sytuacja dla obywateli Unii Europejkiej pozostaje bez zmian. Nie ważne, czy już tu jesteś czy dopiero planujesz przyjazd, prędzej czy później, zmierzysz się z lokalnym rynkiem pracy. Jak to tutaj mówią “when in Rome, do as the Roman's do”, więc aby nie upaść z hukiem niczym cesarstwo rzymskie, warto znać zasady pisania CV, którym posługują się Brytyjczycy. 
-
+<b> Jeśli marzy ci się praca w Wielkiej Brytanii, to lepiej tego nie odwlekaj. Póki co (początek 2017 roku) sytuacja dla obywateli Unii Europejkiej pozostaje bez zmian. Nie ważne, czy już tu jesteś czy dopiero planujesz przyjazd, prędzej czy później, zmierzysz się z lokalnym rynkiem pracy. Jak to tutaj mówią “when in Rome, do as the Roman's do”, więc aby nie upaść z hukiem niczym cesarstwo rzymskie, warto znać zasady pisania CV, którym posługują się Brytyjczycy. 
+</b>
 
 <img src="/images/cv_stock.jpg" class="img-responsive" alt="Picture">
 
