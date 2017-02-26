@@ -49,7 +49,7 @@ Na koniec poproś o pomoc kogoś kto może zrobić korektę twojego CV, wychwyci
 
 <b><font size="5,5">Słowo o LinkedIn </font></b>
 
-Jeśli masz własna stronę internetową, dorzuć link do CV. Tam również możesz pochwalić się swoim doświadczeniem, ale przede wszystkim pokazać że masz pasję. 
+Jeśli masz własna stronę internetową, dorzuć link do CV. Tam również możesz pochwalić się swoim doświadczeniem, ale i pokazać trochę więcej twojego prywantego "ja". 
 
 Podobnie z Twoim profilem na <a href="https://www.linkedin.com" target="_blank">LinkedIn</a>.  Postaraj się o dobre, w miarę profesjonalne zdjęcie i stwórz swój profil myśląc o nim o tym jak o twojej internetowej wizytówce. Z czasem także zbudujesz także siatkę kontaktów biznesowych. Ja sama, jeśli nie znajduję wystarczająco informacji w CV z ciekawości zaglądam na LinkedIn. 
 
