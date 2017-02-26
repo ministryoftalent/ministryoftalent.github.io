@@ -41,9 +41,9 @@ Przeczytałam gdzieś, i myślę, że sporo w tym prawdy, że w CV należy wystr
 
 <b><font size="5,5">Fakty i Liczby </font></b>
 
-Wejdź w głowę rekrutera. Co chciałabyś zobaczyć w CV dobrego kandydata? Trochę to smutne, ale wiele rekruterów działa jak bot wychwytujący słowa kluczowe. Zwróć uwagę na słowa kluczowe w ogłoszeniu, sprawdź czy pojawiają się one w Twoim resume. 
+Wejdź w głowę rekrutera. Co chciałabyś zobaczyć w CV dobrego kandydata? Pisząc o swoich osiągnięciach staraj się być jak najbardziej rzeczowa. Skupiaj się na liczbach i procentach, pokazuj swój udział w sukcesie projektu, firmy. Pisz o nagrodach. Nikt nie chce czytać schematycznych opisów doświadczenia.
 
-Pisząc o swoich osiągnięciach staraj się być jak najbardziej rzeczowa. Skupiaj się na liczbach i procentach, pokazuj swój udział w sukcesie projektu, firmy. Pisz o nagrodach. Nikt nie chce czytać schematycznych opisów doświadczenia.
+Trochę to smutne, ale wiele rekruterów działa jak bot wychwytujący słowa kluczowe. Zwróć uwagę na słowa kluczowe w ogłoszeniu, sprawdź czy pojawiają się one w Twoim resume. 
 
 Na koniec poproś o pomoc kogoś kto może zrobić korektę twojego CV, wychwyci literówki i błędy interpunkcyjne. Najlepszą robotę zrobi native speaker, który odnajdzie polonizmy i podpowie w kwestii gramatyki. 
 
