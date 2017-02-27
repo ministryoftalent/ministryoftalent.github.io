@@ -28,7 +28,7 @@ Od zawsze męczyłam się z doborem profesjonalnego zdjęcia mojej facjaty do re
 
 <b><font size="5,5">Numerologia</font></b>
 
-Jeśli mieszkasz w UK podaj swój adres, czasem bliskość miejsca pracy od twojego zamieszkania może być punktem przewagi nad konkurencją. Jeśli nie, pod numerem telefonu i e-mailem napisz informacje o terminie relokacji. Sprawdź czy ewentualnie ktoś z Twoich znajomych nie pozwoliłby użyć swojego adresu na potrzeby rekrutacji. Numer telefonu nie rozpoczynający się na +44 może być nie przeskoczenia dla wielu rekruterów. Możesz wykupić brytyjski numer na Skype i korzystać z niego przed przyjazdem na wyspy.
+Jeśli mieszkasz w UK podaj swój adres, czasem bliskość miejsca pracy od twojego zamieszkania może być punktem przewagi nad konkurencją. Jeśli nie, pod numerem telefonu i e-mailem napisz informacje o terminie relokacji. Sprawdź czy ewentualnie ktoś z Twoich znajomych nie pozwoliłby użyć swojego adresu na potrzeby rekrutacji. Numer telefonu nierozpoczynający się na +44 może być nie przeskoczenia dla wielu angielskich rekruterów. Możesz wykupić brytyjski numer na Skype i korzystać z niego przed przyjazdem na wyspy.
 
 <b><font size="5,5">Personal summary</font></b>
 
@@ -51,9 +51,7 @@ Na koniec poproś o pomoc kogoś kto może zrobić korektę twojego CV, wychwyci
 
 Jeśli masz własna stronę internetową, dorzuć link do CV. Tam również możesz pochwalić się swoim doświadczeniem, ale i pokazać trochę więcej twojego prywatnego "ja". 
 
-Podobnie z Twoim profilem na <a href="https://www.linkedin.com" target="_blank">LinkedIn</a>.  Postaraj się o dobre, w miarę profesjonalne zdjęcie i stwórz swój profil myśląc o nim o tym jak o twojej internetowej wizytówce. Z czasem także zbudujesz także siatkę kontaktów biznesowych. Ja sama, jeśli nie znajduję wystarczająco informacji w CV z ciekawości zaglądam na profil kandydata na LinkedIn. 
-
-Jeśli masz możliwość, sama sprawdź na LinkedIn osoby pracujące na upragnionym stanowisku w firmie do której aplikujesz. Jakie studia, kursy ukończyli? Czy widzisz przewijający się trend w opisie wykonywanych stanowisk? 
+Podobnie z Twoim profilem na <a href="https://www.linkedin.com" target="_blank">LinkedIn</a>.  Postaraj się o dobre, w miarę profesjonalne zdjęcie i stwórz swój profil myśląc o nim o tym jak o twojej internetowej wizytówce. Z czasem także zbudujesz także siatkę kontaktów biznesowych. Ja sama, jeśli nie znajduję wystarczająco informacji w CV z ciekawości zaglądam na profil kandydata na LinkedIn. Jeśli masz możliwość, sama sprawdź na LinkedIn osoby pracujące na upragnionym stanowisku w firmie do której aplikujesz. Jakie studia, kursy ukończyli? Czy widzisz przewijający się trend w opisie wykonywanych stanowisk?
 
 <b><font size="5,5">I ostatnie: hobby </font></b>
 
