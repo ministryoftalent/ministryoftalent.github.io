@@ -8,7 +8,7 @@ img: IS09AC9KT_Comp.jpg
 categories: [praca, podróże]
 index: true
 ---
-<b> Jeśli marzy ci się praca w Wielkiej Brytanii, to lepiej tego nie odwlekaj. Póki co (początek 2017 roku) sytuacja dla obywateli Unii Europejkiej pozostaje bez zmian. Nie ważne, czy już tu jesteś czy dopiero planujesz przyjazd, prędzej czy później, zmierzysz się z lokalnym rynkiem pracy. Jak to tutaj mówią “when in Rome, do as the Roman's do”, więc aby nie upaść z hukiem niczym cesarstwo rzymskie, warto znać zasady pisania CV, którym posługują się Brytyjczycy. 
+<b> Jeśli marzy ci się praca w Wielkiej Brytanii, to lepiej tego nie odwlekaj. Póki co (początek 2017 roku) sytuacja dla obywateli Unii Europejkiej pozostaje bez zmian. Nie ważne, czy już tu jesteś czy dopiero planujesz przyjazd, prędzej czy później, zmierzysz się z lokalnym rynkiem pracy. Jak to tutaj mówią “when in Rome, do as the Roman's do”, więc aby nie upaść z hukiem niczym Cesarstwo Rzymskie, warto znać zasady pisania CV, którym posługują się Brytyjczycy. 
 </b>
 
 <b><font size="5,5">Tongue twisters</font></b>
