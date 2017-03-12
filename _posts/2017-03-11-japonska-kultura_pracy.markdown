@@ -43,7 +43,7 @@ Następnego dnia sytuacja się powtarza. Zaczynamy kalkulować - z pewnością p
 Kiedy rano zaglądamy do sklepu zamiast sprzedawcy za kasą widzimy uśmiechniętą dziewczynę.
 W odróżnieniu od swojego kolegi z pracy mówi po angielsku, więc zagadujemy. 
 Eiko, bo tak jej na imię, codziennie do swojej pracy w combini dojeżdża niemal półtora godziny w jedną stronę. 
-Jej kolega, szczęściarz jak na tutejsze standardy, mieszka w okolicy.  
+Jej kolega, Takeshi, szczęściarz jak na tutejsze standardy, mieszka w okolicy.  
 
 Codziennie pracują po 12-13 godzin, ale w dobrym tonie jest pozostać w pracy jeszcze dłużej. 
 Gdy opowiadała o swoim trybie życia i pracy, biła od niej niekłamana duma. 
@@ -84,7 +84,7 @@ Znajomy cieszy się również z większej liczby dni urlopu niż statystyczny Ja
 Największym szacunkiem cieszą się ci pracownicy, którzy przez przez lata ani jednego z dnia z urlopu. 
 Warto też dodać, że w Japonii nie istnieje chorobowe w europejskim tego słowa znaczeniu. Każdy dzień L4 zabierany jest z puli urlopowej. 
 
-Stąd już o krok do karōshi czyli śmierci z przepracowania. 
+Stąd już o krok do <a href="https://pl.wikipedia.org/wiki/Kar%C5%8Dshi">karōshi</a> czyli śmierci z przepracowania. 
 Rząd japoński wpadł ostatnio na pomysł przymusowego urlopu tzw. “Premium Friday”. 
 Nie, nie jest to dodatkowy dzień dorzucony do puli urlopowej. Pracownicy są zmuszani do zużycia jednego dnia wolnego z ich 11 dni urlopowych w roku. 
 Więcej o tym posłuchacie <a href="https://www.youtube.com/watch?v=wjbj1MKfJ3U" target="_blank">tutaj</a>.
@@ -98,7 +98,7 @@ Więcej o tym posłuchacie <a href="https://www.youtube.com/watch?v=wjbj1MKfJ3U"
 To wydawać by się mogło na wskroś nowoczesne społeczeństwo w rzeczywistości siedzi mocno w przeszłości. 
 Rzeczywistość rysuje przygnębiający obraz japońskiej rodziny. 
 Kobiety po wyjściu za mąż porzucają studia czy pracę i raczej nigdy już do nich już nie wrócą. 
-Mąż, salaryman, spędza w pracy i na dojazdach większość swojego życia.
+Mąż, <a href="https://en.wikipedia.org/wiki/Salaryman">salaryman</a>, spędza w pracy i na dojazdach większość swojego życia.
 Obowiązkowym elementem pracy jest wyjście na sake z szefem (temu nie można odmówić) i kolegami z zespołu. 
 Potem pozostaje przespać się w biurze i poczekać do kolejnej zmiany w pracy. 
 Dzieci wychowywane są właściwie tylko przez kobiety, ojca widując od święta. 
@@ -106,6 +106,6 @@ Te natomiast narzucają na dzieci chorobliwą wręcz presję na jak najlepsze wy
 
 <b><font size="5,5">Powrót</font></b>
 
-Z Japonii wróciliśmy bogatsi o doświadczenie hanami, widoku małp śnieżnych radośnie pływających w górskich ciepłych źródła, o zapach kadzideł z setek świątyń, które przyszło nam zobaczyć w Kioto, ale także ciężsi o kilka kilo w skutek codziennego zajadania się przepysznym ramenem. 
+Z Japonii wróciliśmy bogatsi o doświadczenie <a href="https://pl.wikipedia.org/wiki/Hanami" alt="Picture">hanami</a>, widoku małp śnieżnych radośnie pływających w górskich ciepłych źródła, o zapach kadzideł z setek świątyń, które przyszło nam zobaczyć w Kioto, ale także ciężsi o kilka kilo w skutek codziennego zajadania się przepysznym ramenem. 
 Na naszym obrazie kraju kwitnącej wiśni jest jednak rysa. 
 W dwa tygodnie nie sposób zrozumieć kulturę i kult pracy tego azjatyckiego narodu.  Nie nam, gaidzinom, ją oceniać, ale od powrotu do Europy wciąż nie mogę zapomnieć historii Eiko i Takeshi, oraz milionów innych takich jak oni żyjących w Nippon. 
