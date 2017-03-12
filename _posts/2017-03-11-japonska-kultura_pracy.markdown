@@ -18,11 +18,11 @@ Nie wiedzieliśmy wtedy jeszcze, że największym szokiem z którym przyjdzie si
 
 <b><font size="5,5">Bezsenność w Tokio</font></b>
 
-Po ponad godzinie dotarliśmy do Azabu-Jūban, gdzie mieliśmy mieszkać przez najbliższe kilka dni. 
-W Japonii nie ma jednoznacznego sposobu numerowanie mieszkań, więc odnalezienie naszego mieszkania zajęło chwilę. 
-Znaki rozpoznawcze: sklep 7eleven, i mała szintoistyczna kapliczka ukryta w ścianie budynku, i wreszcie wejście do kamienicy przez tajemniczą kwiaciarnie. 
+Po ponad godzinie dotarliśmy na tokijski Azabu-Jūban, gdzie mieliśmy mieszkać przez najbliższe kilka dni. 
+W Japonii nie ma jednoznacznego sposobu na numerowanie mieszkań, więc odnalezienie naszego mieszkania zajęło chwilę. 
+Znaki rozpoznawcze: sklep 7eleven, mała szintoistyczna kapliczka ukryta w ścianie budynku, i wreszcie wejście do kamienicy przez tajemniczą kwiaciarnie. 
 
-Następnego dnia bardzo wczesna pobudka - nasz zegar biologiczny wciąż tkwi w Europie. 
+Następnego dnia bardzo wczesna pobudka - nasz zegar biologiczny niewątpliwie utknął w Europie. 
 Snucie się po Tokio o piątej nad ranem nie ma większego sensu, więc wybraliśmy się na kawę. 
 Pobliskie <a href="https://en.wikipedia.org/wiki/Convenience_store#Japan" target="_blank">konbini</a> 7Eleven, ma w swej ofercie dosłownie wszystko, od sushi, przez dziwne słodycze, maski na twarz i kawę po parówki zapiekane w cieście. 
 Sprzedawca wydając ci resztę odprawia zadziwiający rytuał pełnych zawstydzenia podziękowań, pokłonów i celebracji banknotu jenowego. 
