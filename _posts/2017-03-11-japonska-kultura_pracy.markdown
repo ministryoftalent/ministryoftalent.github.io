@@ -81,7 +81,7 @@ Pomimo, że pracuje codziennie (jedynie!) 9-10 godzin to jego wyniki pracy są z
 
 Znajomy cieszy się również z większej liczby dni urlopu niż statystyczny Japończyk. W ciągu roku może wybrać 16 dni wolnego, kiedy większość otrzymuje 10-11 dni urlopu w roku. 
 Największym szacunkiem cieszą się ci pracownicy, którzy przez przez lata ani jednego z dnia z urlopu. 
-Warto też dodać, że w Japonii nie istnieje chorobowe w europejskich tego słowa znaczeniu. Każdy dzień L4 zabierany jest z puli urlopowej. 
+Warto też dodać, że w Japonii nie istnieje chorobowe w europejskim tego słowa znaczeniu. Każdy dzień L4 zabierany jest z puli urlopowej. 
 
 Stąd już o krok do karōshi czyli śmierci z przepracowania. 
 Rząd japoński wpadł ostatnio na pomysł przymusowego urlopu tzw. “Premium Friday”. 
