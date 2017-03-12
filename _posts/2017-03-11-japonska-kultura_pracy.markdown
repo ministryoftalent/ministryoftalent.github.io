@@ -40,7 +40,7 @@ Znowu obsługuje nas ten sam chłopak, znowu grzecznie wydaje nam resztę pielę
 Następnego dnia sytuacja się powtarza. Zaczynamy kalkulować. Czy ten chłopak kiedykolwiek śpi? 
 
 Kiedy rano zaglądamy do sklepu zamiast sprzedawcy za kasą widzimy uśmiechniętą dziewczynę.
-W odróżnieniu od swojego kolegi z pracy mówi po angielsku, więc zagadujemy. 
+W odróżnieniu od swojego kolegi z pracy mówi po angielsku, więc od razu zagadujemy. 
 Eiko, bo tak jej na imię, codziennie do swojej pracy w konbini dojeżdża niemal półtora godziny w jedną stronę. 
 Jej kolega, Takeshi, szczęściarz jak na tutejsze standardy, mieszka w okolicy.  
 
