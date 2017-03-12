@@ -24,7 +24,7 @@ Znaki rozpoznawcze: sklep 7eleven, i mała shintoistyczna kapliczka ukryta w śc
 
 Następnego dnia bardzo wczesna pobudka - nasz zegar biologiczny wciąż tkwi w Europie. 
 Snucie się po Tokio o piątej nad ranem nie ma większego sensu, więc wybraliśmy się na kawę. 
-Pobliskie combini 7Eleven, ma w swej ofercie dosłownie wszystko, sushi, dziwne słodycze, przez maski na twarz i kawę po parówki zapiekane w cieście. 
+Pobliskie combini 7Eleven, ma w swej ofercie dosłownie wszystko, od sushi, przez dziwne słodycze, maski na twarz i kawę po parówki zapiekane w cieście. 
 Sprzedawca wydając ci resztę odprawia zadziwiający rytuał pełnych zawstydzenia podziękowań, pokłonów i celebracji banknotu jenowego. 
 Zanim Tokio obudzi się na dobre, my, po pierwszej kawie, gotowi jesteśmy na jego podbój.  
 
