@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Japońska Kultura Pracy"
+title:      "Japonia w cieniu kultu pracy"
 subtitle:  " "
 date:       2017-03-11 11:00:00 
 author:     "Ministry of Talent"
