@@ -61,7 +61,7 @@ Te kolorowe jednostki to niewielki procent społeczeństwa, który oparł się k
 Społeczeństwo wciąż jednak będzie dążyć, aby te “wystające gwoździe” wbić...
 
 Podróżując po Japonii widzimy poukładane, silnie hierarchiczne społeczeństwo, podążające z góry wyznaczoną im ścieżką. 
-Praca jest ich codziennością od kiedy przekroczą próg przedszkola. W japońskich szkołach każde dziecko, rotacyjnie, pełni inną rolę w codziennym funkcjonowaniu szkoły. 
+Praca jest ich codziennością od kiedy przekroczą próg przedszkola. W japońskich szkołach każde dziecko, rotacyjnie, pełni inną rolę w codziennym cyklu funkcjonowania szkoły. 
 Dzieci zajmują się czyszczeniem toalet i klas lekcyjnych, pielęgnacją przyszkolnego ogródka, obieraniem warzyw do wspólnego posiłku, aż po serwowanie dań w czasie przerwy obiadowej. W japońskiej klasie każdy ma jasno wyznaczoną rolę i nie ma miejsca indywidualizm.
  
 <b><font size="5,5">Wypoczęty jak Japończyk</font></b>
@@ -69,7 +69,7 @@ Dzieci zajmują się czyszczeniem toalet i klas lekcyjnych, pielęgnacją przysz
 Spotykamy się ze znajomym pracującym od kilku lat w jednej z firm technologicznych w Tokio. 
 Zasiadłszy w typowej <a href="https://en.wikipedia.org/wiki/Izakaya" target="_blank">izakaya</a>, gdzieś w imprezowej dzielnicy Shibuya, zaczynamy dopytywać o jego wrażenia z pracy w kraju kwitnącej wiśni. 
 Sala szybko zapełnia się drażniącym dymem, bo nasi sąsiedzi namiętnie kopcą papierosy - w Japonii można palić niemal wszędzie.
-Kolega jest jedynym z niewielu europejczyków w oddziale firmy, i jak sam przyznaje, ma z tego powodu sporo przywilejów. 
+Kolega jest jednym z niewielu europejczyków w oddziale firmy, i jak sam przyznaje, ma z tego powodu sporo przywilejów. 
 W przeciwieństwie do swoich japońskich kolegów ma ciche przyzwolenie na wyjście z pracy przed szefem. 
 Pomimo, że pracuje codziennie (jedynie!) 9-10 godzin to jego wyniki pracy są zdecydowanie wyższe od kolegów spędzających w pracy niemal cały dzień.  
 
@@ -80,7 +80,7 @@ Pomimo, że pracuje codziennie (jedynie!) 9-10 godzin to jego wyniki pracy są z
 <b><font size="5,5">Karōshi</font></b>
 
 Znajomy cieszy się również z większej liczby dni urlopu niż statystyczny Japończyk. W ciągu roku może wybrać 16 dni wolnego, kiedy większość otrzymuje 10-11 dni urlopu w roku. 
-Największym szacunkiem cieszą się ci pracownicy, którzy przez przez lata ani jednego z dnia z urlopu. 
+Największym szacunkiem cieszą się ci pracownicy, którzy przez przez lata nie wykorzystali ani jednego z dnia urlopu. 
 Warto też dodać, że w Japonii nie istnieje chorobowe w europejskim tego słowa znaczeniu. Każdy dzień L4 zabierany jest z puli urlopowej. 
 
 Stąd już o krok do <a href="https://pl.wikipedia.org/wiki/Kar%C5%8Dshi" target="_blank">karōshi</a> czyli śmierci z przepracowania. 
@@ -94,14 +94,13 @@ Więcej o tym posłuchacie <a href="https://www.youtube.com/watch?v=wjbj1MKfJ3U"
 
 <b><font size="5,5">"Trzy rzeczy, o których każdy pracownik powinien zapomnieć: dom, rodzina i własny interes."</font></b>
 
-To wydawać by się mogło na wskroś nowoczesne społeczeństwo w rzeczywistości siedzi mocno w przeszłości. 
-Rzeczywistość rysuje przygnębiający obraz japońskiej rodziny. 
-Kobiety po wyjściu za mąż porzucają studia czy pracę i raczej nigdy już do nich już nie wrócą. 
-Mąż, <a href="https://en.wikipedia.org/wiki/Salaryman" target="_blank">salaryman</a>, spędza w pracy i na dojazdach większość swojego życia.
+To wydawać by się mogło na wskroś nowoczesne społeczeństwo w rzeczywistości zakorzenione jest mocno w patriachalnej tradycji. 
+Kobiety po wyjściu za mąż porzucają studia lub pracę. Szanse, że kiedyś do nich wrócą są niewielkie.
+Mąż, <a href="https://en.wikipedia.org/wiki/Salaryman" target="_blank">salaryman</a>, spędza w pracy i na dojazdach większość swojego dojrzałego życia.
 Obowiązkowym elementem pracy jest wyjście na sake z szefem (temu nie można odmówić) i kolegami z zespołu. 
-Potem pozostaje przespać się w biurze i poczekać do kolejnej zmiany w pracy. 
+Pozostaje potem jedynie przespać się w biurze i poczekać do kolejnej zmiany w pracy. 
 Dzieci wychowywane są właściwie tylko przez kobiety, ojca widując od święta. 
-Te natomiast narzucają na dzieci chorobliwą wręcz presję na jak najlepsze wyniki w szkole, żeby tak jak i ojciec, w przyszłości mogły bez problemu wtłoczyć się w “formę” salarymana. 
+Te natomiast narzucają na dzieci chorobliwą wręcz presję na jak najlepsze wyniki w szkole, żeby tak jak i ojciec, w przyszłości mogły bez problemu wtłoczyć się w “formę” salarymana. I koło się zamyka.
 
 <b><font size="5,5">Powrót</font></b>
 
