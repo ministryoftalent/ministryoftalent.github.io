@@ -75,7 +75,7 @@ W przeciwieństwie do swoich japońskich kolegów ma ciche przyzwolenie na wyjś
 Pomimo, że pracuje codziennie (jedynie!) 9-10 godzin to jego wyniki pracy są zdecydowanie wyższe od kolegów spędzających w pracy niemal cały dzień.  
 
 <img src="/images/salaryman.jpg" class="img-responsive" alt="Picture">
-<font size="3">Po lewej, salary man z dzielnicy biznesowej i typowe miejsce na szybki ramen. Salaryman oglada ulubiony sport japończyków jakim jest baseball. Po prawej, przypomnienie o przepisach BHP (tu akurat zgaduje!).</font>
+<font size="3">Po lewej, salary man z dzielnicy biznesowej i typowe miejsce na szybki ramen. Salaryman oglada ulubiony sport japończyków jakim jest baseball. Po prawej, przypomnienie o przepisach BHP (tu akurat zgaduję!).</font>
 <br>
 
 <b><font size="5,5">Karōshi</font></b>
