@@ -10,7 +10,7 @@ index: true
 ---
 <b>Rok temu, dokładnie w piątą rocznicę katastrofy elektrowni atomowej w Fukushimie, wylądowaliśmy w Japoniii. 
 W paszportach przybito nam wizę pokrytą nic niemówiącymi nam krzaczkami i przez najbliższe dwa tygodnie mogliśmy się cieszyć pobytem w kraju kwitnącej wiśni.
-Nie wiedzieliśmy wtedy jeszcze, że największym szokiem z którym przyjdzie się nam zderzyć, to zwyczaje związane z kulturą pracy.</b> 
+Nie wiedzieliśmy wtedy jeszcze, że największym szokiem z którym przyjdzie się nam zmierzyć, to zwyczaje związane z kulturą pracy.</b> 
 
 <img src="/images/rsz_1hanami.png" class="img-responsive" alt="Picture">
 <font size="3">Udało nam się załapać na początki Hanami - święta kwitnących wiśni</font>
