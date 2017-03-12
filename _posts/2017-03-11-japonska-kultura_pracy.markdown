@@ -74,6 +74,9 @@ Kolega jest jedynym z niewielu europejczyków w oddziale firmy, i jak sam przyzn
 W przeciwieństwie do swoich japońskich kolegów ma ciche przyzwolenie na wyjście z pracy przed szefem. 
 Pomimo, że pracuje codziennie (jedynie!) 9-10 godzin to jego wyniki pracy są zdecydowanie wyższe od kolegów spędzających w pracy niemal cały dzień.  
 
+<img src="/images/salaryman.jpg" class="img-responsive" alt="Picture">
+
+
 <b><font size="5,5">Karōshi</font></b>
 
 Znajomy cieszy się również z większej liczby dni urlopu niż statystyczny Japończyk. W ciągu roku może wybrać 16 dni wolnego, kiedy większość otrzymuje 10-11 dni urlopu w roku. 
