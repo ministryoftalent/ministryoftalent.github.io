@@ -12,7 +12,7 @@ index: true
 W paszportach przybito nam wizę pokrytą nic niemówiącymi nam krzaczkami i przez najbliższe dwa tygodnie mogliśmy się cieszyć pobytem w kraju kwitnącej wiśni.
 Nie wiedzieliśmy wtedy jeszcze, że największym szokiem z którym się tutaj zderzymy, to zwyczaje związane z kulturą pracy.</b> 
 
-<img src="/images/rsz_hanami.png" class="img-responsive" alt="Picture">
+<img src="/images/rsz_1hanami.png" class="img-responsive" alt="Picture">
 <font size="3">Udało nam się załapać na początki Hanami - święta kwitnących wiśni</font>
 <br>
 
