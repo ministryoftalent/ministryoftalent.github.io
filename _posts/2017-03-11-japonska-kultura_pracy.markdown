@@ -24,7 +24,7 @@ Znaki rozpoznawcze: sklep 7eleven, i mała szintoistyczna kapliczka ukryta w śc
 
 Następnego dnia bardzo wczesna pobudka - nasz zegar biologiczny wciąż tkwi w Europie. 
 Snucie się po Tokio o piątej nad ranem nie ma większego sensu, więc wybraliśmy się na kawę. 
-Pobliskie combini 7Eleven, ma w swej ofercie dosłownie wszystko, od sushi, przez dziwne słodycze, maski na twarz i kawę po parówki zapiekane w cieście. 
+Pobliskie <a href="https://en.wikipedia.org/wiki/Convenience_store#Japan" target="_blank">konbini</a> 7Eleven, ma w swej ofercie dosłownie wszystko, od sushi, przez dziwne słodycze, maski na twarz i kawę po parówki zapiekane w cieście. 
 Sprzedawca wydając ci resztę odprawia zadziwiający rytuał pełnych zawstydzenia podziękowań, pokłonów i celebracji banknotu jenowego. 
 Zanim Tokio obudzi się na dobre, my, po pierwszej kawie, gotowi jesteśmy na jego podbój.  
 
@@ -38,11 +38,11 @@ Zanim Tokio obudzi się na dobre, my, po pierwszej kawie, gotowi jesteśmy na je
 Po intensywnym dniu zwiedzania stolicy wracamy do mieszkania wykończeni, tuż po dziesiątej wieczorem. 
 Postanawiamy zrobić zakupy na jutrzejsze śniadanie. 
 Znowu obsługuje nas ten sam chłopak, znowu grzecznie wydaje nam resztę pielęgnując kupieckie grzeczności i nieśmiało się uśmiecha kojarząc już nasze twarze. 
-Następnego dnia sytuacja się powtarza. Zaczynamy kalkulować - z pewnością pracuje więcej niż 14 godzin!. Czy ten chłopak kiedykolwiek śpi? 
+Następnego dnia sytuacja się powtarza. Zaczynamy kalkulować - z pewnością pracuje więcej niż 14 godzin! Czy ten chłopak kiedykolwiek śpi? 
 
 Kiedy rano zaglądamy do sklepu zamiast sprzedawcy za kasą widzimy uśmiechniętą dziewczynę.
 W odróżnieniu od swojego kolegi z pracy mówi po angielsku, więc zagadujemy. 
-Eiko, bo tak jej na imię, codziennie do swojej pracy w combini dojeżdża niemal półtora godziny w jedną stronę. 
+Eiko, bo tak jej na imię, codziennie do swojej pracy w konbini dojeżdża niemal półtora godziny w jedną stronę. 
 Jej kolega, Takeshi, szczęściarz jak na tutejsze standardy, mieszka w okolicy.  
 
 Codziennie pracują po 12-13 godzin, ale w dobrym tonie jest pozostać w pracy jeszcze dłużej. 
