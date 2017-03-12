@@ -4,7 +4,7 @@ title:      "Japonia w cieniu kultu pracy"
 subtitle:  " "
 date:       2017-03-11 11:00:00 
 author:     "Ministry of Talent"
-img: hanami.png
+img: rsz_hanami.png
 categories: [praca, podróże]
 index: true
 ---
@@ -12,7 +12,7 @@ index: true
 W paszportach przybito nam wizę pokrytą nic niemówiącymi nam krzaczkami i przez najbliższe dwa tygodnie mogliśmy się cieszyć pobytem w kraju kwitnącej wiśni.
 Nie wiedzieliśmy wtedy jeszcze, że największym szokiem z którym się tutaj zderzymy, to zwyczaje związane z kulturą pracy.</b> 
 
-<img src="/images/hanami.png" class="img-responsive" alt="Picture">
+<img src="/images/rsz_hanami.png" class="img-responsive" alt="Picture">
 <font size="3">Udało nam się załapać na początki Hanami - święta kwitnących wiśni</font>
 <br>
 
@@ -20,7 +20,7 @@ Nie wiedzieliśmy wtedy jeszcze, że największym szokiem z którym się tutaj z
 
 Po ponad godzinie dotarliśmy do Azabu-Jūban, gdzie mieliśmy mieszkać przez najbliższe kilka dni. 
 W Japonii nie ma jednoznacznego sposobu numerowanie mieszkań, więc odnalezienie naszego mieszkania zajęło chwilę. 
-Znaki rozpoznawcze: sklep 7eleven, i mała shintoistyczna kapliczka ukryta w ścianie budynku, i wreszcie wejście do kamienicy przez tajemniczą kwiaciarnie. 
+Znaki rozpoznawcze: sklep 7eleven, i mała szintoistyczna kapliczka ukryta w ścianie budynku, i wreszcie wejście do kamienicy przez tajemniczą kwiaciarnie. 
 
 Następnego dnia bardzo wczesna pobudka - nasz zegar biologiczny wciąż tkwi w Europie. 
 Snucie się po Tokio o piątej nad ranem nie ma większego sensu, więc wybraliśmy się na kawę. 
