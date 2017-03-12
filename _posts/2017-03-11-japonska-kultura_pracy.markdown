@@ -23,9 +23,8 @@ W Japonii nie ma jednoznacznego sposobu na numerowanie mieszkań, więc odnalezi
 Znaki rozpoznawcze: sklep 7eleven, mała szintoistyczna kapliczka ukryta w ścianie budynku, i wreszcie wejście do kamienicy przez tajemniczą kwiaciarnie. 
 
 Następnego dnia bardzo wczesna pobudka - nasz zegar biologiczny niewątpliwie utknął w Europie. 
-Snucie się po Tokio o piątej nad ranem nie ma większego sensu, więc wybraliśmy się na kawę. 
-Pobliskie <a href="https://en.wikipedia.org/wiki/Convenience_store#Japan" target="_blank">konbini</a> 7Eleven, ma w swej ofercie dosłownie wszystko, od sushi, przez dziwne słodycze, maski na twarz i kawę po parówki zapiekane w cieście. 
-Sprzedawca wydając ci resztę odprawia zadziwiający rytuał pełnych zawstydzenia podziękowań, pokłonów i celebracji banknotu jenowego. 
+Snucie się po Tokio o piątej nad ranem nie ma większego sensu, więc wybraliśmy się na kawę do pobliskiego <a href="https://en.wikipedia.org/wiki/Convenience_store#Japan" target="_blank">konbini</a>. 
+Sprzedawca wydając resztę odprawia zadziwiający rytuał pełnych zawstydzenia podziękowań, pokłonów i celebracji banknotu jenowego. 
 Zanim Tokio obudzi się na dobre, my, po pierwszej kawie, gotowi jesteśmy na jego podbój.  
 
 <img src="/images/food_machine.png" class="img-responsive" alt="Picture">
@@ -38,7 +37,7 @@ Zanim Tokio obudzi się na dobre, my, po pierwszej kawie, gotowi jesteśmy na je
 Po intensywnym dniu zwiedzania stolicy wracamy do mieszkania wykończeni, tuż po dziesiątej wieczorem. 
 Postanawiamy zrobić zakupy na jutrzejsze śniadanie. 
 Znowu obsługuje nas ten sam chłopak, znowu grzecznie wydaje nam resztę pielęgnując kupieckie grzeczności i nieśmiało się uśmiecha kojarząc już nasze twarze. 
-Następnego dnia sytuacja się powtarza. Zaczynamy kalkulować - z pewnością pracuje więcej niż 14 godzin! Czy ten chłopak kiedykolwiek śpi? 
+Następnego dnia sytuacja się powtarza. Zaczynamy kalkulować. Czy ten chłopak kiedykolwiek śpi? 
 
 Kiedy rano zaglądamy do sklepu zamiast sprzedawcy za kasą widzimy uśmiechniętą dziewczynę.
 W odróżnieniu od swojego kolegi z pracy mówi po angielsku, więc zagadujemy. 
