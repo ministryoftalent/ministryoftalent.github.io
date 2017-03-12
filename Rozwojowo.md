@@ -18,9 +18,11 @@ Szukasz pracy, a może po prostu chcesz nauczyć się czegoś nowego? Poniżej z
 [Prosto o metodzie STAR w procesie przygotowania do rozmowy](http://ministryoftalent.co.uk/2016/05/22/zablysnij-na-rozmowie/)
 
 
-<b>Kultura organizacyna</b>
+<b>Kultura organizacyjna</b>
 
 [Kilka słów o dress-code](http://ministryoftalent.co.uk/2016/08/07/dress-code/)
+
+[Jak się pracuje w Japonii? Czy zwiedzanie kraju kwitnącej wiśni w cieniu kultu pracy](http://ministryoftalent.co.uk/2017/03/11/japonska-kultura_pracy/)
 
 
 
