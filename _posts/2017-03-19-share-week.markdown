@@ -28,7 +28,8 @@ Motywem przewodnim jest praca, rozwój osobisty i przedsiębiorczość. I cały 
 <b><font size="5,5"><a href="https://gojtowska.com/" target="_blank">Gojtowska.com</a> </font></b>
 
 Najnowsze odkrycie w tym zestawieniu. Maja pisze o strategii komunikacji z kandydatami i pracownikami, zestawia opisy przypadku i dzieli się swoim doświadczeniem. 
-Wszystko okraszone oryginalnymi ikonografikami, inspirującymi filmikami z youtuba i sugestywnymi ilustracjami. Pobudza zmysły i zmusza do myślenia!
+Wszystko okraszone oryginalnymi ikonografikami, inspirującymi filmikami z youtuba i sugestywnymi ilustracjami. Uderzyła mnie świeżość w sposobie pisania o employer brandingu 
+a href="https://gojtowska.com/" target="_blank">Gojtowska.com</a>pobudza zmysły i uczy!
 
 <img src="/images/gojtowska.png" class="img-responsive" alt="Picture">
 
