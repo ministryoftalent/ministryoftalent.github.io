@@ -38,7 +38,7 @@ Wszystko okraszone oryginalnymi ikonografikami, inspirującymi filmikami z youtu
 <b><font size="5,5"><a href="http://paulinabasta.com/" target="_blank">Paulinabasta.com</a> </font></b>
 
 Autorka pisze w swoim wyjątkowym stylu pełnym gry słów i lekkości godnej cytrynowej bezy. 
-Każdy wpis czy historia jest bardzo osobista i naładowana emocjami. <a href="http://paulinabasta.com/" target="_blank">Paulinabasta.com</a> był chyba piewszym blogiem na który się natknęłam i zobaczyłam, że można o zarządzaniu i HRach pisać tak po prostu, “po ludzku”. Ciągle czekam na kolejne wpisy! 
+Każdy wpis czy historia jest bardzo osobista i naładowana emocjami. <a href="http://paulinabasta.com/" target="_blank">Paulinabasta.com</a> była chyba pierwszym blogiem na który się natknęłam i zobaczyłam, że można o zarządzaniu i HRach pisać tak po prostu, “po ludzku”. Ciągle czekam na kolejne wpisy! 
 
 <img src="/images/basta.png" class="img-responsive" alt="Picture">
 
