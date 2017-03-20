@@ -43,6 +43,7 @@ Każdy wpis czy historia jest bardzo osobista i naładowana emocjami. <a href="h
 <img src="/images/basta.png" class="img-responsive" alt="Picture">
 
 
+Gdybym mogła polecić czwartego bloga, to pewnie byłby to:
 
 <b><font size="5,5"><a href="https://travelicious.pl/" target="_blank">Travelicious.pl</a> </font></b>
 
@@ -51,6 +52,10 @@ Bohaterzy bloga wiodą żywot cyfrowych <a href="http://ministryoftalent.co.uk/2
 Lubię ten blog za praktyczne wskazówki, piękne zdjęcia i nieszablonowe miejscówki polecane przez Kasię, autorkę bloga. Po cichu marzę o takim stylu życiu jak i oni, dlatego mocno kibicuję <a href="https://travelicious.pl/" target="_blank">Travelicious.pl</a> i z wypiekami na twarzy czytam każdy post. 
 
 <img src="/images/travelicious.png" class="img-responsive" alt="Picture">
+
+
+
+Jak wyglądałaby Wasza lista? Co was zachwyciło w ciągu ostatniego roku?
 
 
 
