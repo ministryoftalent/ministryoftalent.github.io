@@ -53,7 +53,7 @@ Lubię ten blog za praktyczne wskazówki, piękne zdjęcia i nieszablonowe miejs
 
 <img src="/images/travelicious.png" class="img-responsive" alt="Picture">
 
-
+<br>
 
 Jak wyglądałaby Wasza lista? Co was zachwyciło w ciągu ostatniego roku?
 
