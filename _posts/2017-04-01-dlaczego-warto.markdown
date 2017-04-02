@@ -74,3 +74,5 @@ Także ilość raportów eksperymetalnych, do których zmuszano nas na studiach,
 ... 
 
 Zanim jednak wybierzesz studia psychologiczne, pamiętaj, że <b>MAGISTER przy nazwisku NIE DA CI ZAWODU</b>. Psychologia pozwoli ci zdobyć porządne wykształcenie uniwersyteckie, ale umiejętności i praktykę musisz nabyć sama. 
+
+Powodzenia!
