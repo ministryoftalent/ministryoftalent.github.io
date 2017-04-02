@@ -33,7 +33,7 @@ Szybko też nauczysz się, że w psychologii “wszystko zależy”.
 Gdybym wiedziała, że są takie możliwości rozwoju w branży technologicznej kiedy jeszcze studiowałam, to cieplej bym patrzyła na metodologię badań psychologicznych i statystykę.  
 Coraz więcej absolwentów psychologii pracuje w badaniach i i przy projektowaniu doświadczeń użytkownika przy produktach cyfrowych.
   
-Jeśli interesuje praca jako UX designer warto skupić się przedmiotach zajmujących się tematem interakcji człowiek vs. komputer i jak najszybciej znaleźć dobre praktyki w firmie tworzącej produkty dla dużej ilości użytkowników. Tak przy okazji, sama teraz rekrutuję na takie stanowiska <a href="https://www.facebook.com/careers/jobs/a0I1200000JXtM3EAL/?q=ux&location=london" target="_blank">tutaj.</a>
+Jeśli interesuje praca jako UX designer warto skupić się przedmiotach zajmujących się tematem interakcji człowiek vs. komputer i jak najszybciej znaleźć dobre praktyki w firmie tworzącej produkty dla dużej ilości użytkowników. Tak przy okazji, sama teraz rekrutuję na takie stanowiska <a href="https://www.facebook.com/careers/jobs/a0I1200000JXtM3EAL/?q=ux&location=london" target="_blank"> .</a>
 
 <img src="/images/mockup.jpg" class="img-responsive" alt="Picture">
 
@@ -57,7 +57,7 @@ Plusem pracy w służbach mundurowych są dłuższe wakacje i wczesna emerytura.
 <b><font size="5,5">Bo pomożesz w biznesie</font></b>
 
 Coraz częściej korporacje poszukują osób do pracy w roli HR Business Parter. Pod tą enigmatyczną nazwą może kryć się szereg obowiązków, od administracyjnej papierologii, po coaching pracowników, bycie pomostem pomiędzy pracownikami a kadrą zarządzającą lub klientem, budowanie ścieżek kariery, przeprowadzanie oceny rocznej, po diagnozę i budowanie kultury organizacyjnej.
-Psycholodzy od lat odnajdują się także jako szkoleniowcy. Wielu absolwentów psychologii wkracza również w obszar coachingu.
+Psycholodzy od lat odnajdują się także jako szkoleniowcy. Wielu absolwentów psychologii robi karierę w coachingu liderów biznesu.
 
 <img src="/images/hrbp.jpg" class="img-responsive" alt="Picture">
 
@@ -70,6 +70,8 @@ Na co dzień nie myślę o sobie jako o psychologu, ale przeprowadzając z kandy
 Przy tworzeniu bardziej skomplikowanych procesów rekrutacyjnych wykorzystuję natomiast znajomość metodologii testów i kwestionariuszy badawczych. High five, <a href="https://pl.wikipedia.org/wiki/Wielka_pi%C4%85tka" target="_blank">Wielka Piątko</a>! 
 
 Mnogość raportów eksperymetalnych, do których nas przymuszano na studiach, sprawiła, że nigdy nie miałam trudności z przedstawieniem danych w krótki i rzeczowy sposób we wszelkich notatkach ze spotkań i podsumowaniach projektów.
+
+To co cenię w moim zawodzie, to fakt, że mogę go wykonywać niemal wszędzie na świecie. Specjaliści rekrutacji bez większego trudu znajdują pracę nie tylko w Wielkiej Brytanii, ale i bardziej egzotycznych krajach, jak Dubaj czy Singapur. Pomaga w tym oczywiście znajomość języka angielskiego oraz specjalizacja w danej branży.
 
 ... 
 
