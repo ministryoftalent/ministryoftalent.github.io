@@ -13,7 +13,7 @@ index: true
 
 Co wtedy myślałam o przyszłości?  Hmm.. liczyłam, że nauczę się czytać w myślach innych i analizować ich nieświadome popędy w każdym wypowiedzianym zdaniu. [żart!] 
 
-Tak na prawdę, po cichu marzyłam, że załapię się na etat w poradni psychologicznej i spędzę resztę życia z testem Wechslera w ręku, albo chociaż będę niosła kaganek oświaty w gabinecie szkolnego psychologa. Moja kariera potoczyła się zupełnie inaczej, ale teraz już wiem, że <b>tak, świat potrzebuje psychologa</b>.
+Tak naprawdę, po cichu marzyłam, że załapię się na etat w poradni psychologicznej i spędzę resztę życia z testem Wechslera w ręku, albo chociaż będę niosła kaganek oświaty w gabinecie szkolnego psychologa. Moja kariera potoczyła się zupełnie inaczej, ale teraz już wiem, że <b>tak, świat potrzebuje psychologa</b>.
 
 Dlaczego warto studiować psychologię?
 
