@@ -66,7 +66,7 @@ Psycholodzy od lat odnajdują się w biznesie jako szkoleniowcy. Wielu absolwent
 
 <img src="/images/hrbp.jpg" class="img-responsive" alt="Picture">
 
-<b><font size="5,5">Bo możesz także zostać.. mną! </font></b>
+<b><font size="5,5">Bo możesz także zostać... mną! </font></b>
 
 czyli pracować jako poławiacz talentów :) 
 
