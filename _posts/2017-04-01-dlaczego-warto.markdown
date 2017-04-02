@@ -74,7 +74,7 @@ Na co dzień nie myślę o sobie jako o psychologu, ale przeprowadzając rozmowy
 
 Przy tworzeniu bardziej skomplikowanych procesów rekrutacyjnych wykorzystuję natomiast znajomość metodologii testów i kwestionariuszy badawczych. High five, <a href="https://pl.wikipedia.org/wiki/Wielka_pi%C4%85tka" target="_blank">Wielka Piątko</a>! 
 
-Mnogość raportów eksperymetalnych, do których nas przymuszano na studiach, sprawiła, że nigdy nie miałam trudności z przedstawieniem danych w krótki i rzeczowy sposób we wszelkich notatkach ze spotkań i podsumowaniach projektów.
+Mnogość raportów eksperymetalnych, do których nas przymuszano na studiach, sprawiła, że nigdy nie miałam trudności z przedstawieniem danych w krótki i rzeczowy przy okazji pracowych projektów i spotkań.
 
 To co cenię w moim zawodzie, to fakt, że mogę go wykonywać niemal wszędzie. Specjaliści rekrutacji bez większego trudu znajdują pracę nie tylko w Europie, ale i w bardziej egzotycznych krajach, takich jak Dubaj czy Singapur. Pomaga w tym oczywiście znajomość języka angielskiego oraz specjalizacja w danej branży.
 
