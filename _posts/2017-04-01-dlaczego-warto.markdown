@@ -62,7 +62,7 @@ Plusem pracy w służbach mundurowych są dłuższe wakacje i wcześsniejsza eme
 
 Coraz częściej korporacje dostrzegają wartość roli HR Business Partnera w codziennej pracy firmy. Pod tą enigmatyczną nazwą może kryć się szereg obowiązków, od administracyjnej papierologii, po coaching pracowników, bycie pomostem pomiędzy pracownikami a kadrą zarządzającą lub klientem, budowanie ścieżek kariery, przeprowadzanie oceny rocznej, po diagnozę i budowanie kultury organizacyjnej.
 
-Psycholodzy od lat odnajdują się także jako szkoleniowcy. Wielu absolwentów psychologii robi również karierę w coachingu biznesowym.
+Psycholodzy od lat odnajdują się w biznesie jako szkoleniowcy. Wielu absolwentów psychologii robi również karierę w coachingu dla kadry menadżerskiej.
 
 <img src="/images/hrbp.jpg" class="img-responsive" alt="Picture">
 
