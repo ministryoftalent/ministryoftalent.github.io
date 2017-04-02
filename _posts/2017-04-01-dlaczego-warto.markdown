@@ -97,7 +97,7 @@ Jeśli rzeczywiście interesują cię studia psychologiczne zajrzyj do poniższy
 
 Bibia współczesnej psychologii. Po lekturze tej książki, żaden numer "Charakterów" już cię nie zaskoczy. Co więcej, popularnonaukowy, lekki styl tego podręcznika sprawi, że żadna siła nie oderwie cię od "Zimbardo" :)
 
-<b><a href="http://webep1.com/Zobacz/To?a=24117&mp=400&r=L3BzeWNob2xvZ2lhLWktenljaWUtcGhpbGlwLXppbWJhcmRvLXAtMzM0NjM4Lmh0bWw1&utm_source=pp&utm_medium=cps&utm_campaign=webepartners" target="_blank">"Biologiczne podstawy psychologii"</a> James W. Kalat</b>
+<b><a href="http://webep1.com/Zobacz/To?a=24117&mp=400&r=L2Jpb2xvZ2ljem5lLXBvZHN0YXd5LXBzeWNob2xvZ2lpLWphbWVzLXcta2FsYXQtcC0zNDE4NDUuaHRtbA2&utm_source=pp&utm_medium=cps&utm_campaign=webepartners" target="_blank">"Biologiczne podstawy psychologii"</a> James W. Kalat</b>
 
 Owy podręcznik do biopsychologii tłumaczony był przez moich ćwiczeniowców. Nasi doktoranci nie powtrzymali się pozostawienia śladu ich ciętego języka pomiędzy opowieściami o hipokampie, a przewodnictwem nerwowym. 
 Arcyciekawa książka dla każdego zainteresowanego umysłem i ludzką fizjonomią!
