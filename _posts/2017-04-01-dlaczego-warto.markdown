@@ -8,7 +8,7 @@ img: landing_psy.png
 categories: studia, psychologia
 index: true
 ---
-<b>Jakieś dziesięć lat temu wygrzewałam się na balkonie w pierwszym ciepłym, kwietniowym słońcu, powtarzając na zmianę angielski oraz historię, i zastanawiałam się gdzie zaprowadzi mnie mój los w październiku. Wróżyłam z fusów, prosiłam o pomoc szklaną kulę i dalej wiedziałam tyle co nic.
+<b>Jakieś dziesięć lat temu wygrzewałam się na balkonie w pierwszym ciepłym, kwietniowym słońcu, powtarzając na zmianę angielski oraz historię, i zastanawiałam się gdzie zaprowadzi mnie moje przeznaczenie w październiku. Wróżyłam z fusów, prosiłam o pomoc szklaną kulę i dalej wiedziałam tyle co nic.
  Tuż po maturze, trochę z przekory, złożyłam papiery na psychologię.</b>
 
 Co wtedy myślałam o przyszłości?  Hmm.. liczyłam, że nauczę się czytać w myślach innych i analizować ich nieświadome popędy w każdym wypowiedzianym zdaniu. [żart!] 
