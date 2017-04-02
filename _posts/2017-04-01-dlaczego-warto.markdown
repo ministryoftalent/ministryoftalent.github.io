@@ -55,7 +55,7 @@ Przez krótki czas sama rozważałam ścieżkę kliniczną. Spędziłam nawet mi
 <b><font size="5,5">Bo za mundurem psycholodzy sznurem!</font></b>
 
 Specjalizacja kryminologiczna na moim kierunku cieszyła się niezwykle dużym zainteresowaniem.
-Prawdopodobieństwo, że będziesz kreślił profile sprawców morderstw tak jak śledczy w CSI Miami jest niewielkie, ale raz na jakiś czas otwierane są rekrutacje na staowiwsko psychologa w placówkach więzienniczych i w policji. 
+Prawdopodobieństwo, że będziesz kreślił profile sprawców morderstw tak jak śledczy w CSI Miami jest niewielkie, ale raz na jakiś czas otwierane są rekrutacje na stanowisko psychologa w placówkach więzienniczych i w policji. 
 Plusem pracy w służbach mundurowych są dłuższe wakacje i wcześsniejsza emerytura.
 
 <b><font size="5,5">Bo pomożesz w biznesie</font></b>
