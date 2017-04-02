@@ -28,6 +28,6 @@ Szukasz pracy, a może po prostu chcesz nauczyć się czegoś nowego? Poniżej z
 
 <b>Psychologia</b>
 
-
+[Dlaczego warto studiować psychologię?](http://ministryoftalent.co.uk/2017/04/01/dlaczego-warto/)
 
 
