@@ -48,7 +48,7 @@ Niestety, nie są to tanie studia, a za coś przecież trzeba żyć.
 
 Część absolwentów dość szybko zakłada swoje gabinety i buduje własną markę terapeuty. Inni pracują w poradniach interwencji kryzysysowych, jeszcze inni pracują z dziećmi wymagającymi terapii behawioralnej.
 
-Przez krótki czas sama rozważałam ścieżkę kliniczną. Spędziłam nawet miesiąc na praktykach na oddziale psychiatrycznym. Przeważył jednak mój pragmatyzm i potrzeba działania w biznesie. 
+Przez krótki czas sama rozważałam ścieżkę kliniczną. Spędziłam nawet miesiąc na praktykach na oddziale psychiatrycznym. Szybko jednak przeważył mój chłodny pragmatyzm i potrzeba działania w biznesie. 
 
 <img src="/images/soul.jpg" class="img-responsive" alt="Picture">
 
