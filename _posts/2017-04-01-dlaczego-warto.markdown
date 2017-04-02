@@ -24,7 +24,7 @@ Humanistą w klasycznym tego słowa znaczeniu.
 Studia psychologiczne skupiają się na człowieku, jego umyśle i osobowości. Przez pierwsze dwa lata musisz ściśle trzymać się programu (przynajmniej na wydziale filozoficznym Uniwersytetu Jagiellońskiego), potem możesz śmiało dobierać sobie kursy z dziedziny i wydziału jaki tylko sobie wymarzysz. 
 
 Podczas pierwszych la studiów poznasz podstawy neurobiologii i biopsychologii, zaprzyjaźnisz się z klasykami filozofii, a test t-studenta będzie ci się śnił po nocach. 
-Nie raz, nie dwa wcielisz się w rolę króliczka doświaczalnego w ramach eksperymentów przeprowadzanych przez kolegów i doktorantów.
+Nie raz, nie dwa wcielisz się w rolę króliczka doświadczalnego w ramach eksperymentów przeprowadzanych przez kolegów i doktorantów.
 Szybko też nauczysz się, że w psychologii “wszystko zależy”.
 
 <img src="/images/brain.jpg" class="img-responsive" alt="Picture">
