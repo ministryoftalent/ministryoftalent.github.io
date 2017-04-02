@@ -64,8 +64,11 @@ Psycholodzy od lat odnajdują się także jako szkoleniowcy. Wielu absolwentów 
 <b><font size="5,5">Bo możesz także zostać.. mną! </font></b>
 
 czyli pracować jako poławiacz talentów :) 
+
 Na co dzień nie myślę o sobie jako o psychologu, ale przeprowadzając z kandydatami czasem przydają mi semestry psychologii osobowości i poznawczej. 
+
 Przy tworzeniu bardziej skomplikowanych procesów rekrutacyjnych wykorzystuję natomiast znajomość metodologii testów i kwestionariuszy badawczych. Wielka piątka zawsze na propsie! 
+
 Także ilość raportów eksperymetalnych, do których zmuszano nas na studiach, sprawiła, że nigdy nie miałam trudności z przedstawieniem danych w rzeczowy sposób we wszelkich notatkach po spotkaniach i podsumowaniach projektów.
 
 ... 
