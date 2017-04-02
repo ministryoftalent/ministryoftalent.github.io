@@ -83,3 +83,25 @@ To co cenię w moim zawodzie, to fakt, że mogę go wykonywać niemal wszędzie.
 Zanim jednak wybierzesz studia psychologiczne, pamiętaj, że <b>MAGISTER przy nazwisku NIE DA CI ZAWODU</b>. Psychologia pozwoli ci zdobyć porządne wykształcenie uniwersyteckie, ale umiejętności i praktykę musisz nabyć sama. 
 
 Powodzenia!
+
+
+... 
+
+<b>POLECANE KSIĄŻKI</b>
+
+
+Jeśli rzeczywiście interesują cię studia psychologiczne zajrzyj do poniższych tytułów. Święta Trójca Psychologii. Polecam. 
+
+
+<b><a href="http://www.taniaksiazka.pl/psychologia-i-zycie-philip-zimbardo-p-334638.html?utm_source=pp&utm_medium=cps&utm_campaign=webepartners" target="_blank">"Psychologia i życie"</a> Richard J. Gerrig Philip Zimbardo</b>
+
+Bibia współczesnej psychologii. Po lekturze tej książki, żaden numer "Charakterów" już cię nie zaskoczy. Co więcej, popularnonaukowy, lekki styl tego podręcznika sprawi, że żadna siła nie oderwie cię od "Zimbardo" :)
+
+<b><a href="http://webep1.com/Zobacz/To?a=24117&mp=400&r=L3BzeWNob2xvZ2lhLWktenljaWUtcGhpbGlwLXppbWJhcmRvLXAtMzM0NjM4Lmh0bWw1&utm_source=pp&utm_medium=cps&utm_campaign=webepartners" target="_blank">"Biologiczne podstawy psychologii"</a> James W. Kalat</b>
+
+Owy podręcznik do biopsychologii tłumaczony był przez moich ćwiczeniowców. Nasi doktoranci nie powtrzymali się pozostawienia śladu ich ciętego języka pomiędzy opowieściami o hipokampie, a przewodnictwem nerwowym. 
+Arcyciekawa książka dla każdego zainteresowanego umysłem i ludzką fizjonomią!
+
+<b><a href="http://webep1.com/Zobacz/To?a=24117&mp=400&r=L2N6bG93aWVrLWlzdG90YS1zcG9sZWN6bmEtZWxsaW90LWFyb25zb24tcC0zNDE4NjEuaHRtbA2&utm_source=pp&utm_medium=cps&utm_campaign=webepartners" target="_blank"> "Człowiek istota społeczna"</a> Elliot Aronson </b>
+
+Guru psychologii społecznej w przystępny sposób wyjaśnia tajniki zachowań ludzkich w kontekście wpółczesnych mediów i polityki. 
