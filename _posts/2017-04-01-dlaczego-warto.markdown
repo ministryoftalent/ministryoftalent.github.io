@@ -8,12 +8,12 @@ img: landing_psy.png
 categories: studia, psychologia
 index: true
 ---
-<b>Jakieś dziesięc lat temu wygrzewałam się na balkonie w pierwszym ciepłym, kwietniowym słońcu, powtarzając na zmianę angielski oraz historię, i zastanawiałam się gdzie zaprowadzi mnie mój los w październiku.
+<b>Jakieś dziesięć lat temu wygrzewałam się na balkonie w pierwszym ciepłym, kwietniowym słońcu, powtarzając na zmianę angielski oraz historię, i zastanawiałam się gdzie zaprowadzi mnie mój los w październiku. Wróżyłam z fusów, prosiłam o pomoc szklaną kulę i dalej wiedziałam tyle co nic.
  Tuż po maturze, trochę z przekory, złożyłam papiery na psychologię.</b>
 
-Co wtedy myślałam o przyszłości?  Hmm.. liczyłam, że nauczę się czytać ludziom w myślach i analizować ich nieświadome popędy w każdym wypowiedzianym zdaniu. NOT! 
+Co wtedy myślałam o przyszłości?  Hmm.. liczyłam, że nauczę się czytać w myślach innych i analizować ich nieświadome popędy w każdym wypowiedzianym zdaniu. [żart!] 
 
-Tak na prawdę, po cichu marzyłam, że załapię się na etat w poradni psychologicznej i spędzę resztę życia z testem Wechslera w ręku, bądź będę dumnie dzierżyć kaganek oświaty w gabinecie szkolnego psychologa. Moja kariera potoczyła się inaczej, ale teraz już wiem, że <b>tak, świat potrzebuje psychologa</b>.
+Tak na prawdę, po cichu marzyłam, że załapię się na etat w poradni psychologicznej i spędzę resztę życia z testem Wechslera w ręku, albo chociaż będę niosła kaganek oświaty w gabinecie szkolnego psychologa. Moja kariera potoczyła się zupełnie inaczej, ale teraz już wiem, że <b>tak, świat potrzebuje psychologa</b>.
 
 Dlaczego warto studiować psychologię?
 
@@ -21,14 +21,14 @@ Dlaczego warto studiować psychologię?
 
 Humanistą w klasycznym tego słowa znaczeniu. 
 
-Studia psychologiczne skupiają się na człowieku, jego umyśle i osobowości. Przez pierwsze dwa lata musisz śliśle trzymać się programu (przynajmniej na wydziale filozoficznym Uniwersytetu Jagiellońskiego), potem możesz niemal swobodnie dobierać sobie kursy z obszaru, wydziału jaki tylko sobie wymarzysz. 
+Studia psychologiczne skupiają się na człowieku, jego umyśle i osobowości. Przez pierwsze dwa lata musisz ściśle trzymać się programu (przynajmniej na wydziale filozoficznym Uniwersytetu Jagiellońskiego), potem możesz śmiało dobierać sobie kursy z dziedziny i wydziału jaki tylko sobie wymarzysz. 
 
-Podczas pierwszych latach poznasz podstawy neurobiologii i biopsychologii, zaprzyjaźnisz się z klasykami filozofii, a test T studenta będzie ci się snił po nocach. Nie raz wcielisz się w rolę króliczka doświaczalnego w ramach eksperymentach przeprowadzanych przez kolegów i doktorantów.
+Podczas pierwszych latach poznasz podstawy neurobiologii i biopsychologii, zaprzyjaźnisz się z klasykami filozofii, a test t-studenta będzie ci się snił po nocach. Nie raz wcielisz się w rolę króliczka doświaczalnego w ramach eksperymentach przeprowadzanych przez kolegów i doktorantów.
 Szybko też nauczysz się, że w psychologii “wszystko zależy”.
 
 <img src="/images/brain.jpg" class="img-responsive" alt="Picture">
   
-<b><font size="5,5">Bo możesz pracować w technologii</font></b>
+<b><font size="5,5">Bo możesz pracować w IT</font></b>
 
 Gdybym wiedziała, że są takie możliwości rozwoju w branży technologicznej kiedy jeszcze studiowałam, to cieplej bym patrzyła na metodologię badań psychologicznych i statystykę.  
 Coraz więcej absolwentów psychologii pracuje w badaniach i i przy projektowaniu doświadczeń użytkownika przy produktach cyfrowych.
@@ -39,12 +39,12 @@ Jeśli interesuje praca jako UX designer warto skupić się przedmiotach zajmuj�
 
 <b><font size="5,5">Bo możesz leczyć ludzkie dusze</font></b>
 
-Podziwiam moich znajomych, którzy wybrali drogę klinicystyczną, a droga ta nierówną i wyboistą jest. Same studia psychologiczne to wciąż za mało, żeby pracować jako psycholog w szpitalu czy psychoterapeuta. Poza obraniem ścieżki klinicznej i miesięcy spędzonych na praktyce na oddziałach szpitali, czekać cię będzie co najmniej kilka lat dodatkowych studiów w wybranym przez ciebie nurcie psychoterapeutycznym i miesiące superwizji. 
+Podziwiam moich znajomych, którzy wybrali drogę klinicystyczną, a droga ta krętą i wyboistą jest. Same studia psychologiczne to wciąż za mało, żeby pracować jako szpitalny psycholog czy psychoterapeuta. Poza obraniem ścieżki klinicznej i miesięcy spędzonych na praktyce na oddziałach szpitali, czekać cię będzie co najmniej kilka lat dodatkowych studiów w wybranym przez ciebie nurcie psychoterapeutycznym i niezliczone godziny superwizji z bardziej doświadczonymi kolegami po fachu. 
 Niestety, nie są to tanie studia, a za coś przecież trzeba żyć. 
 
-Część absolwentów dość szybko zakłada swoje gabinety i buduje własną markę terapeuty. Inni pracują w poradniach interwencji kryzysysowych, jeszcze inni pracują z dziećmi potrzebującymi wsparcia.
+Część absolwentów dość szybko zakłada swoje gabinety i buduje własną markę terapeuty. Inni pracują w poradniach interwencji kryzysysowych, jeszcze inni pracują z dziećmi wymagającymi terapii behawioralnej.
 
-Przez krótki czas rozważałam ścieżkę kliniczną, spędziłam nawet miesiąc na praktykach na oddziale psychiatrycznym. Przeważył jednak mój pragmatyzm i potrzeba działania w biznesie. Nie chciałam być zamknięta w czterech ścianach na państwowym etacie. 
+Przez krótki czas sama rozważałam ścieżkę kliniczną. Spędziłam nawet miesiąc na praktykach na oddziale psychiatrycznym. Przeważył jednak mój pragmatyzm i potrzeba działania w biznesie. 
 
 <img src="/images/soul.jpg" class="img-responsive" alt="Picture">
 
