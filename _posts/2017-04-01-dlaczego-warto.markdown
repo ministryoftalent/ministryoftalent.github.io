@@ -76,7 +76,7 @@ Przy tworzeniu bardziej skomplikowanych procesów rekrutacyjnych wykorzystuję n
 
 Mnogość raportów eksperymetalnych, do których nas przymuszano na studiach, sprawiła, że nigdy nie miałam trudności z przedstawieniem danych w krótki i rzeczowy sposób we wszelkich notatkach ze spotkań i podsumowaniach projektów.
 
-To co cenię w moim zawodzie, to fakt, że mogę go wykonywać niemal wszędzie. Specjaliści rekrutacji bez większego trudu znajdują pracę nie tylko w Wielkiej Brytanii, ale i bardziej egzotycznych krajach, jak Dubaj czy Singapur. Pomaga w tym oczywiście znajomość języka angielskiego oraz specjalizacja w danej branży.
+To co cenię w moim zawodzie, to fakt, że mogę go wykonywać niemal wszędzie. Specjaliści rekrutacji bez większego trudu znajdują pracę nie tylko w Europie, ale i w bardziej egzotycznych krajach, takich jak Dubaj czy Singapur. Pomaga w tym oczywiście znajomość języka angielskiego oraz specjalizacja w danej branży.
 
 ... 
 
