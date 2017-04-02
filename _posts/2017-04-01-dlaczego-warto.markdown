@@ -70,7 +70,7 @@ Psycholodzy od lat odnajdują się także jako szkoleniowcy. Wielu absolwentów 
 
 czyli pracować jako poławiacz talentów :) 
 
-Na co dzień nie myślę o sobie jako o psychologu, ale przeprowadzając z kandydatami czasem przydają mi semestry psychologii osobowości i poznawczej. 
+Na co dzień nie myślę o sobie jako o psychologu, ale przeprowadzając rozmowy z kandydatami nieraz przydają mi semestry psychologii osobowości i poznawczej. 
 
 Przy tworzeniu bardziej skomplikowanych procesów rekrutacyjnych wykorzystuję natomiast znajomość metodologii testów i kwestionariuszy badawczych. High five, <a href="https://pl.wikipedia.org/wiki/Wielka_pi%C4%85tka" target="_blank">Wielka Piątko</a>! 
 
