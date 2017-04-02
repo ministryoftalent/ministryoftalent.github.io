@@ -11,7 +11,7 @@ index: true
 <b>Jakieś dziesięc lat temu wygrzewałam się na balkonie w pierwszym ciepłym, kwietniowym słońcu, powtarzając na zmianę angielski oraz historię, i zastanawiałam się gdzie zaprowadzi mnie mój los w październiku.
  Tuż po maturze, trochę z przekory, złożyłam papiery na psychologię.</b>
 
-Co wtedy myślałam o przyszłości?  Hmm.. liczyłam, że nauczę się czytać ludziom w myślach i analizować ich podświadome popędy w każdym wypowiedzianym zdaniu. NOT! 
+Co wtedy myślałam o przyszłości?  Hmm.. liczyłam, że nauczę się czytać ludziom w myślach i analizować ich nieświadome popędy w każdym wypowiedzianym zdaniu. NOT! 
 
 Tak na prawdę, po cichu marzyłam, że załapię się na etat w poradni psychologicznej i spędzę resztę życia z testem Wechslera w ręku, bądź będę dumnie dzierżyć kaganek oświaty w gabinecie szkolnego psychologa. Moja kariera potoczyła się inaczej, ale teraz już wiem, że <b>tak, świat potrzebuje psychologa</b>.
 
