@@ -93,7 +93,7 @@ Powodzenia!
 Jeśli rzeczywiście interesują cię studia psychologiczne zajrzyj do poniższych tytułów. Święta Trójca Psychologii. Polecam. 
 
 
-<b><a href="http://www.taniaksiazka.pl/psychologia-i-zycie-philip-zimbardo-p-334638.html?utm_source=pp&utm_medium=cps&utm_campaign=webepartners" target="_blank">"Psychologia i życie"</a> Richard J. Gerrig Philip Zimbardo</b>
+<b><a href="http://webep1.com/Zobacz/To?a=24117&mp=400&r=L3BzeWNob2xvZ2lhLWktenljaWUtcGhpbGlwLXppbWJhcmRvLXAtMzM0NjM4Lmh0bWw1&utm_source=pp&utm_medium=cps&utm_campaign=webepartners" target="_blank">"Psychologia i życie"</a> Richard J. Gerrig Philip Zimbardo</b>
 
 Bibia współczesnej psychologii. Po lekturze tej książki, żaden numer "Charakterów" już cię nie zaskoczy. Co więcej, popularnonaukowy, lekki styl tego podręcznika sprawi, że żadna siła nie oderwie cię od "Zimbardo" :)
 
