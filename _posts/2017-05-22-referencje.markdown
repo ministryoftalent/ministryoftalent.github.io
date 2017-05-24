@@ -31,7 +31,7 @@ W większych firmach, zdarza się, że gro pracowników pochodzi z podobnych kr�
 
 <b><font size="5,5">Nie pal mostów</font></b>
 
-Pracodawca chcący cię zatrudnić, nie powinien, a nawet nie ma prawa, zadzwonić do twojej obecnej i byłej pracy wypytując się o ciebie wśród losowych osób bez twojej zgody. Z zasady dobiera się się takich referentów, którym wierzymy, że napiszą o nas w pozytywnym świetle. Pomijam już zasady dobrego wychowania, ale w imię przyszłych relacji, warto zadbać o swoją opinię jeszcze będąc na pokładzie firmy. Owszem, każdemu może się zdarzyć szef jak z najgorszego koszmaru. Jeśli już musimy podać namiary na kogoś z miejsca pracy, o którym chcemy jak najszybciej zapomnieć, niech to może będzie kolega, który dzielił z tobą wyzwania dnia codziennego. 
+Pracodawca rozważający twoją kandydaturę, nie powinien, a nawet nie ma prawa, zadzwonić do twojej obecnej i byłej pracy wypytując się o ciebie wśród losowych osób bez twojej zgody. Z zasady dobiera się się takich referentów, którym wierzymy, że napiszą o nas w pozytywnym świetle. Pomijam już zasady dobrego wychowania, ale w imię przyszłych relacji, warto zadbać o swoją opinię jeszcze będąc na pokładzie firmy. Owszem, każdemu może się zdarzyć szef jak z najgorszego koszmaru. Jeśli już musimy podać namiary na kogoś z miejsca pracy, o którym chcemy jak najszybciej zapomnieć, niech to może będzie kolega, który dzielił z tobą wyzwania dnia codziennego. 
 
 <b><font size="5,5">I Ty też sprawdź pracodawcę!</font></b>
 
