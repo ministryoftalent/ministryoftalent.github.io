@@ -17,6 +17,7 @@ Szukasz pracy, a może po prostu chcesz nauczyć się czegoś nowego? Poniżej z
 
 [Prosto o metodzie STAR w procesie przygotowania do rozmowy](http://ministryoftalent.co.uk/2016/05/22/zablysnij-na-rozmowie/)
 
+[Referencje pod lupą] (http://ministryoftalent.co.uk/2017/05/24/referencje/) 
 
 <b>Kultura organizacyjna</b>
 
