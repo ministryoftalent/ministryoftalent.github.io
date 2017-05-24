@@ -25,7 +25,7 @@ W większości przypadków pracodawca przygląda się ostatnim pięciu latom pra
 
 <b><font size="5,5">Dobre słowo</font></b>
 
-W większych firmach, zdarza się, że gro pracowników pochodzi z podobnych kręgów uczelnianych lub pracowało wcześniej u tego samego konkurenta. Taka wewnętrzna siatka kontaktów jest świetnym źródłem informacji o kandydatach. Pozwala ona na sprawdzenie referencji u pracowników, którzy mieli okazję współpracować wcześniej z kandydatem. Aplikując do wymarzonej firmy, warto więc sprawdzić czy nie pracuje już tam ktoś znajomy, który dobrym słowem mógłby pomóc wesprzeć twoją kandydaturę. 
+W większych firmach, zdarza się, że gro pracowników pochodzi z podobnych kręgów uczelnianych lub pracowało wcześniej u tego samego konkurenta. Taka wewnętrzna siatka kontaktów jest świetnym źródłem informacji o kandydatach. Pozwala ona na sprawdzenie referencji u pracowników, którzy mieli okazję współpracować wcześniej z kandydatem. Aplikując do wymarzonej firmy, warto więc sprawdzić czy nie pracuje już tam ktoś znajomy, który dobrym słowem mógłby wesprzeć twoją kandydaturę. 
 
 <img src="/images/rsz_stocksnap_56a1c1be07.jpg" class="img-responsive" alt="Picture">
 
