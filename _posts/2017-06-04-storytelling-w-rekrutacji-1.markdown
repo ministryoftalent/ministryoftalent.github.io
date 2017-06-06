@@ -2,7 +2,7 @@
 layout:     post
 title:      "Opowieści w rekrutacji. Jak zainteresować kandydata? (część 1)"
 subtitle:  " "
-date:       2017-05-24 11:00:00 
+date:       2017-06-05 11:00:00 
 author:     "Ministry of Talent"
 img: opowiesci3.png
 categories: praca, referencje
