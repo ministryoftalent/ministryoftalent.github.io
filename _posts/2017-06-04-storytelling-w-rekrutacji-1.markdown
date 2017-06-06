@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Opowieści w rekrutacji. Jak zainteresować kandydata? (część 1)"
-subtitle:  " "
+subtitle:  "Storytelling w sourcingu "
 date:       2017-06-05 11:00:00 
 author:     "Ministry of Talent"
 img: opowiesci3.png
@@ -68,6 +68,3 @@ Jeśli mimo tego zabiegu twoje wiadomości wysyłane do kandydatów pozostaną b
 <b>Jeśli dotrwaliście do tego momentu, to gratuluję! W kolejnej części artykułu będą na was czekać bardziej praktyczne sposoby wykorzystania magii opowieści w budowaniu wiadomości do kandydatów.
 Howk!</b>
 </br>
-# storytelling w sourcingu
-<br>
-# storytelling w rekrutacji
