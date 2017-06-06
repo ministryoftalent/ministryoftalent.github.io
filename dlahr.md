@@ -13,7 +13,7 @@ permalink: /dlahr/
 
 <b>Sourcing</b>
 
-[Storytelling w rekrutacji i sourcingu. Część 1.](http://ministryoftalent.co.uk/2017/05/24/storytelling-w-rekrutacji-1/)
+[Storytelling w rekrutacji i sourcingu. Część 1.](http://ministryoftalent.co.uk/2017/06/05/storytelling-w-rekrutacji-1/)
 
 
 <b>Recruitment lifestyle!</b>
