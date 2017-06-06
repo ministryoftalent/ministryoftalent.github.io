@@ -8,11 +8,11 @@ img: referencje2.png
 categories: praca, referencje
 index: true
 ---
-<b>Ręka do góry, kto kiedykolwiek w swoim CV, gdzieś tam małym druczkiem na dole strony, nie pozostawił wpisu “Referencje na życzenie”? Założe się, że większość z nas traktowała referencje  tak samo poważnie jak obowiązek meldunkowy.</b> 
-
-Kiedy aplikowałam do moich pierwszych prac w Polsce, nikt nie pytał mnie o referencje. Odkąd jednak przeprowadziłam się do Anglii, owa kwestia zmieniła się diametralnie. O rekomendacje pytają wszyscy i wszędzie. Od małej kawiarni po międzynarodową korporację. Tutaj wiara w opinię drugiego człowieka wydaje się być niepodważalna, kiedy w Polsce podchodzimy do niej się z dużą dawką podejrzliwości. W moim przypadku, tuż przed ofertą, w pełni zaskoczona obrotem sprawy, musiałam wyczarować jak magik królika z kapelusza, trzy solidne referencje. 
-
-<b><font size="5,5">Ludzka twarz kandydata?</font></b>
+ <b>Ręka do góry, kto kiedykolwiek w swoim CV, gdzieś tam małym druczkiem na dole strony, nie pozostawił wpisu “Referencje na życzenie”? Założe się, że większość z nas traktowała referencje  tak samo poważnie jak obowiązek meldunkowy.</b> 
+ 
+ Kiedy aplikowałam do moich pierwszych prac w Polsce, nikt nie pytał mnie o referencje. Odkąd jednak przeprowadziłam się do Anglii, owa kwestia zmieniła się diametralnie. O rekomendacje pytają wszyscy i wszędzie. Od małej kawiarni po międzynarodową korporację. Tutaj wiara w opinię drugiego człowieka wydaje się być niepodważalna, kiedy w Polsce podchodzimy do niej się z dużą dawką podejrzliwości. W moim przypadku, tuż przed ofertą, w pełni zaskoczona obrotem sprawy, musiałam wyczarować jak magik królika z kapelusza, trzy solidne referencje. 
+ 
+ <b><font size="5,5">Ludzka twarz kandydata?</font></b>
 
 Referencja to nic innego niż osobista opinia o historii współpracy z kandydatem. Niektórzy rekruterzy akceptują wystawioną wcześniej rekomendację od poprzednich pracodawców czy partnerów biznesowych, jeszcze inni proszą o kontakt do wyszczególnionych osób i sprawdzają wiarygodność referencji telefonicznie lub mailowo. Takie świadectwa pozwalają uzyskać obraz kandydata spoza bańki rozmów rekrutacyjnych, w których niektórzy osiągają mistrzostwo doskonale tuszując mankamenty swojej osobowości. Oczywiście, każdy z nas ma gorsze chwile w życiu i pracy zawodowej, i nie ma powodu się martwić, że nasze ludzkie słabości wpłyną na późniejszą ocenę w oczach przełożonych i kolegów. Czerwona lampka zapala się dopiero wtedy, gdy negatywne opinie powtarzają się u większości referentów, których zresztą przecież sugeruje sam kandydat. 
 
