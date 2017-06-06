@@ -12,9 +12,9 @@ index: true
 
 <img src="/images/rsz_stocksnap_2ci87djpdz.jpg" class="img-responsive" alt="Picture">
 
-Czas oczekiwania umilała mi świeżo co zakupiona książka autorska Pawła Tkaczyka [“Narratologia”](https://goo.gl/1sFpeH).  I to właśnie ona skłoniła mnie do rozmyślań o tym jak wykorzystujemy opowieści w rekrutacji. 
+Czas oczekiwania umilała mi świeżo co zakupiona książka <a href="https://goo.gl/1sFpeH" target="_blank">“Narratologia”</a> autorstwa Pawła Tkaczyka.  I to właśnie ona skłoniła mnie do rozmyślań o tym jak wykorzystujemy opowieści w rekrutacji. 
 
-Opowiadanie historii jest niemal wbudowane w ludzkie DNA. Storytelling zatem nie jest żadnym novum, ale wciąż niewiele go w świecie biznesu. Z lepszym, lub z gorszym skutkiem wykorzystują go kampanie employer brandingowe towarzyszące rekrutacjom (zobacz filmik z Barclaysa poniżej!). Ale prawdziwa walka o kandydata zaczyna się przy próbie jego zaangażowania. Jak zatem <b>wykorzystać opowieści przy pierwszym, najczęściej mailowym, kontakcie z kandydatem</b>?
+Opowiadanie historii jest niemal wbudowane w ludzkie DNA. <b>Storytelling</b> nie jest żadnym novum, ale wciąż niewiele go w świecie biznesu. Z lepszym, lub z gorszym skutkiem wykorzystują go kampanie employer brandingowe towarzyszące rekrutacjom (zobacz filmik z Barclaysa poniżej!). Ale prawdziwa walka o kandydata zaczyna się przy próbie jego zaangażowania. Jak zatem <b>wykorzystać opowieści przy pierwszym, najczęściej mailowym, kontakcie z kandydatem</b>?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yv_GI0vclQs" frameborder="0" allowfullscreen></iframe>
 <br>
