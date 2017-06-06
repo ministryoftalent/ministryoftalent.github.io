@@ -67,6 +67,7 @@ Jeśli mimo tego zabiegu twoje wiadomości wysyłane do kandydatów pozostaną b
 
 <b>Jeśli dotrwaliście do tego momentu, to gratuluję! W kolejnej części artykułu będą na was czekać bardziej praktyczne sposoby wykorzystania magii opowieści w budowaniu wiadomości do kandydatów.
 Howk!</b>
-
-tag: storytelling w sourcingu
-tag: storytelling w rekrutacji
+</br>
+# storytelling w sourcingu
+<br>
+# storytelling w rekrutacji
