@@ -21,6 +21,7 @@ Opowiadanie historii jest niemal wbudowane w ludzkie DNA. <b>Storytelling</b> ni
 <font size="3">Filmik z kampanii rekrutacyjnej/employer brandingowej banku Barclays.</font>
 <br>
 
+
 <b><font size="5,5">Wzbudź emocje</font></b>
 
 Chyba wszyscy działający w branży rekrutacyjnej mają świadomość jak istotna jest personalizacja wiadomości do kandydata. Ale w świat nadal płyną sztampowe, mailowe potworki, lądujące, zresztą jak najbardziej zasłużenie, w folderze spam. 
