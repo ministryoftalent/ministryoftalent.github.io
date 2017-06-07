@@ -23,10 +23,10 @@ Opowiadanie historii jest niemal wbudowane w ludzkie DNA. <b>Storytelling</b> ni
 
 <b><font size="5,5">Wzbudź emocje</font></b>
 
-   Chyba wszyscy działający w branży rekrutacyjnej mają świadomość jak istotna jest personalizacja wiadomości do kandydata. Ale w świat nadal płyną sztampowe, mailowe potworki, lądujące, zresztą jak najbardziej zasłużenie, w folderze spam.  
+Chyba wszyscy działający w branży rekrutacyjnej mają świadomość jak istotna jest personalizacja wiadomości do kandydata. Ale w świat nadal płyną sztampowe, mailowe potworki, lądujące, zresztą jak najbardziej zasłużenie, w folderze spam. 
 <b>Czy maile oferujące pracę na prawdę muszą być tak nudne?</b>
-Paweł Tkaczyk w "Narratologii" zdradza, że sekretem utrzymania uwagi jest wzbudzenie ciekawości czytelnika. Aby tego dokonać nasza wiadomość musi budzić emocje    i to najlepiej już na etapie tytułu wiadomości. 
-Historie tworzą emocje i ludzie. Zacznij od tych drugich. Zastanów się kogo ostatnio zatrudniliście? Jak była ich droga do zatrudnienia? Czym oni podzielili by się z kandydatem? Czy któryś z nich mógłby stać się bohaterem twojej historii?
+Paweł Tkaczyk w "Narratologii" zdradza, że sekretem utrzymania uwagi jest wzbudzenie ciekawości czytelnika. Aby tego dokonać nasza wiadomość musi budzić emocje i to najlepiej już na etapie tytułu wiadomości. 
+Dobre historie to opowieści o przemianie bohatera. Bohaterem zbiorowym będzie tutaj firma do której zatrudniasz, ale na razie skup się na pracowniku. Zastanów się kogo ostatnio zatrudniliście? Jak była ich droga do zatrudnienia? Czym oni podzielili by się z kandydatem? Czy któryś z nich mógłby stać się bohaterem twojej historii? "Narratologia" sugeruje, że najlepiej przyjmują się historie w których bohater w drodze do celu nie raz upada, ale ostatecznie podnosi się odnosząc sukces.
 
 Teraz ćwiczenie. W jaki sposób napisalibyście pierwszą wiadomość do testera, którego chcielibyście zaangażować na podobne stanowisko do branży finansowej? (przykładowa wiadomość w kolejnej części cyklu). 
 
