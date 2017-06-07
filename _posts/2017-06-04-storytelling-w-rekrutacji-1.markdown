@@ -30,7 +30,7 @@ Paweł Tkaczyk w "Narratologii" zdradza, że sekretem utrzymania uwagi jest wzbu
 
 Dobre historie to opowieści o przemianie bohatera. Bohaterem zbiorowym będzie tutaj firma do której zatrudniasz, ale na razie skup się na pracowniku. Zastanów się kogo ostatnio zatrudniliście? Jak była ich droga do zatrudnienia? Czym oni podzielili by się z kandydatem? Czy któryś z nich mógłby stać się bohaterem twojej historii? "Narratologia" sugeruje, że najlepiej przyjmują się historie w których bohater w drodze do celu nie raz upada, ale ostatecznie podnosi się odnosząc sukces.
 
-Teraz ćwiczenie. W jaki sposób napisalibyście pierwszą wiadomość do testera, którego chcielibyście zaangażować na podobne stanowisko do branży finansowej? (przykładowa wiadomość w kolejnej części cyklu). 
+Teraz czas na ćwiczenie. W jaki sposób napisalibyście pierwszą wiadomość do testera, którego chcielibyście zaangażować na podobne stanowisko do branży finansowej? (przykładowa wiadomość w kolejnej części cyklu). 
 
 <img src="/images/sad.jpg" class="img-responsive" alt="Picture">
 <font size="3">Smutek? Żal? Gniew? Jedno spojrzenie na zdjęcie, a założę się, że w twojej głowie powstało już kilka historii na temat dziewczyny z fotografii.</font>
@@ -53,7 +53,7 @@ W kilkuminutowym filmiku pokaż dzień z życia waszego biura. Wcześniej zastan
 Niech nagranie nie wygląda jak kolejny sztuczny produkt, który wyszedł z zespołu employer brandingowego twojego pracodawcy. Nagrywasz z ręki? Super, liczy to autentyczny przekaz! Świetnie wywiązali się z tego zadania w Brand24 (filmik poniżej). Idealne wyważenie pomiędzy autentycznością, a wyreżyserowaniem. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EK5qzlih3SE" frameborder="0" allowfullscreen></iframe>
-<font size="3">Zwyczajny, nie zwyczajny dzień z życia biura. Filmik przy okazji pokazuje jak tworzyć firmowe legendy! </font>
+<br><font size="3">Zwyczajny, nie zwyczajny dzień z życia biura. Filmik przy okazji pokazuje jak tworzyć firmowe legendy! </font>
 <br>
 
 <b><font size="5,5">Dostosuj język do odbiorcy</font></b>
