@@ -35,7 +35,9 @@ Teraz ćwiczenie. W jaki sposób napisalibyście pierwszą wiadomość do tester
 <img src="/images/sad.jpg" class="img-responsive" alt="Picture">
 <font size="3">Smutek? Żal? Gniew? Jedno spojrzenie na zdjęcie, a założę się, że w twojej głowie powstało już kilka historii na temat dziewczyny z fotografii.</font>
 <br>
-                                                                                                                              <b><font size="5,5">Opowiedz historię firmy</font></b>
+      
+      
+<b><font size="5,5">Opowiedz historię firmy</font></b>
 
 Chyba w każdej firmie krążą jakieś anegdoty, od założycielskich (“po dobiciu pierwszego deala prezesowi przekazano worek pieniędzy do rąk własnych, a nie na konto, jak się spodziewał”), przez epickie momenty z imprez firmowych, po znane wszystkim powiedzonka pracowników. 
 Większość z nich jest czytelna tylko dla hermetycznej grupy kolegów z pracy, ale może warto je przemycić do twojej wiadomości? Będzie to wymagało nieco inwencji twórczej, ale sprawi, że twoja wiadomość zapadnie w pamięć. Uważaj tylko, żeby w procesie przenoszenia firmowej legendy do wiadomości <b>nie zabić esencji twojej historii</b>. 
