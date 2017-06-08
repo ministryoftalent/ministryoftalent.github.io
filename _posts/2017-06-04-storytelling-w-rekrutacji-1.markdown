@@ -8,7 +8,7 @@ img: opowiesci3.png
 categories: praca, referencje
 index: true
 ---
-<b>Nie wiele ponad tydzień temu siedziałam na małym podkarpackim lotnisku oczekując na samolot do Londynu. Lot był już opóźniony o dobrą godzinę, gdy za oknem rozpętała się groźna burza.  Pioruny trzaskały tuż obok nas, a po szybach terminalu spływały hektolitry wody. Część pasażerów głośno przeklinała kaprysy natury, a ja szczerze mówiąc nawet cieszyłam się z takiego obrotu sprawy. Dlaczego?</b>
+<b>Niewiele ponad tydzień temu siedziałam na małym podkarpackim lotnisku oczekując na samolot do Londynu. Lot był już opóźniony o dobrą godzinę, gdy za oknem rozpętała się groźna burza.  Pioruny trzaskały tuż obok nas, a po szybach terminalu spływały hektolitry wody. Część pasażerów głośno przeklinała kaprysy natury, a ja szczerze mówiąc nawet cieszyłam się z takiego obrotu sprawy. Dlaczego?</b>
 
 <img src="/images/rsz_stocksnap_2ci87djpdz.jpg" class="img-responsive" alt="Picture">
 
