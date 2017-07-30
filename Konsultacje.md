@@ -8,8 +8,8 @@ permalink: /konsultacje/
 <b>Czy masz już dość swojej pracy? Potrzebujesz zmiany? Marzysz o wyjeździe za granicę? Pomogę znaleźć ci pracę w której będziesz szczęśliwy/a.</b>
 
 <br>
-Kiedy szykowałam się do wyjazdu do Londynu, wielu znajomych dopytywało z przekąsem w jakieś restauracji będę pracować. 
-Dzięki skutecznej umiejętności sprzedaży mojego doświadczenia moje losy potoczyły się zupełnie inaczej i od razu rozpoczęłam pracę w moim zawodzie w prestiżowej firmie.  
+Kiedy szykowałam się do wyjazdu do Londynu, wielu znajomych dopytywało z przekąsem w jakiej restauracji zamierzam pracować. 
+Dzięki skutecznej umiejętności sprzedaży mojego doświadczenia moje losy potoczyły się zupełnie inaczej i od razu rozpoczęłam pracę w moim zawodzie, i to w firmie o jakiej wcześniej mogłam tylko marzyć!  
 <br>
 Od tamtej pory pomogłam już kilkunastu osobom w znalezieniu wymarzonej pracy w Wielkiej Brytanii i w Polsce. Pomagałam także w przekwalifikowaniu się. 
 Moje umiejętności w zakresie coachingu biznesowego szkoliłam na City University of London.
