@@ -23,10 +23,11 @@ Moje umiejętności w zakresie coachingu biznesowego szkoliłam na City Universi
 <b>MOJA OFERTA (CAREER COACHING)</b>
 <br>
 
-<img src="/images/cc7.png" class="img-responsive" alt="Picture">
+<img src="/images/cc8.png" class="img-responsive" alt="Picture">
 
 
 <br>
-Po szczegóły napisz maila do <b>Aga@Ministryoftalent.co.uk</b> z tytułem <b>"KONSULTACJE / CAREER COACHING".</b> 
+Po szczegóły napisz maila do <b>Aga@Ministryoftalent.co.uk</b> z tytułem <b>"KONSULTACJE / CAREER COACHING"</b> 
 
 
+Możemy spotkać się osobiście (Londyn) lub prowadzić konsultacje za pośrednictwem Skype.
