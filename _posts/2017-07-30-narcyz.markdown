@@ -4,7 +4,7 @@ title:      "Przychodzi narcyz na rozmowę kwalifikacyjną"
 subtitle:  
 date:       2017-07-30 11:00:00 
 author:     "Ministry of Talent"
-img:  Narcyz na rozmowie kwalifikacyjnej
+img:  Narcyz na rozmowie kwalifikacyjnej.png
 categories: praca, referencje
 index: true
 ---
