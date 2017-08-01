@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Rekrutując Narcyza"
+title:      "Przychodzi narcyz na rekrutację"
 subtitle:  
 date:       2017-07-30 11:00:00 
 author:     "Ministry of Talent"
