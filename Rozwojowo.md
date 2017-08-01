@@ -19,6 +19,7 @@ Szukasz pracy, a może po prostu chcesz nauczyć się czegoś nowego? Poniżej z
 
 [Referencje pod lupą](http://ministryoftalent.co.uk/2017/05/24/referencje/) 
 
+
 <b>Kultura organizacyjna</b>
 
 [Kilka słów o dress-code](http://ministryoftalent.co.uk/2016/08/07/dress-code/)
@@ -30,6 +31,7 @@ Szukasz pracy, a może po prostu chcesz nauczyć się czegoś nowego? Poniżej z
 <b>Psychologia</b>
 
 [Dlaczego warto studiować psychologię?](http://ministryoftalent.co.uk/2017/04/01/dlaczego-warto/)
+
 [Przychodzi narcyz na rozmowę kwalifikacyjną. Czy powinniśmy zatrudniać narcyzów?](http://ministryoftalent.co.uk/2017/07/30/narcyz/)
 
 
