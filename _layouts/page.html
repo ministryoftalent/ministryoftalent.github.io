@@ -7,6 +7,12 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
+    {% if page.canonical-url == nil %}
+    {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
+    {% else %}
+    {% assign canonical = page.canonical-url %}
+    {% endif %}
+    <link rel="canonical" href="{{ canonical }}">
   </header>
 
   <div class="post-content">

@@ -15,7 +15,7 @@ index: true
 
 Na początek wykreśl tytuł “Cirriculum Vitae”, który tak często widzimy w polskich CV.  Zamiast tego w nagłówku napisz swoje imię i nazwisko. Broń boże nie próbuj przerabiać Jana Kowalskiego na Jonha Smitha - z tego wychodzą zazwyczaj niezłe potworki. Jeśli rzeczywiście Twoje imię jest trudne w wymowie i może odstraszać, posługuj się zdrobnieniem (które w UK używane są powszechnie w sytuacjach oficjalnych np. Tony Blair, a nie Anthony Charles Lynton Blair), lub użyj drugiego imienia. Ja Agnieszkę zamieniłam na Agę, bo nie mogłam znieść bólu tubylców usiłujących wymówić moje imię w połączeniu z równie ambitnym, polskim szeleszczącym nazwiskiem. 
 
-<img src="/images/cv_stock.jpg" class="img-responsive" alt="Picture">
+<img alt="dobre cv " title="dobre cv"src="/images/cv_stock.jpg" class="img-responsive" alt="Picture">
 
 <b><font size="5,5">Długość ma znaczenie</font></b>
 
