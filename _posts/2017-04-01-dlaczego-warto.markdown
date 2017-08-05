@@ -70,7 +70,7 @@ Psycholodzy od lat odnajdują się w biznesie jako szkoleniowcy. Wielu absolwent
 
 czyli pracować jako poławiacz talentów :) 
 
-Na co dzień nie myślę o sobie jako o psychologu, ale przeprowadzając rozmowy z kandydatami nieraz przydają mi semestry psychologii osobowości i poznawczej. 
+Na co dzień nie myślę o sobie jako o psychologu, ale <a href="http://ministryoftalent.co.uk/2017/07/30/narcyz/" target="_blank">przeprowadzając rozmowy z kandydatami</a> nieraz przydają mi semestry psychologii osobowości i poznawczej. 
 
 Przy tworzeniu bardziej skomplikowanych procesów rekrutacyjnych wykorzystuję natomiast znajomość metodologii testów i kwestionariuszy badawczych. High five, <a href="https://pl.wikipedia.org/wiki/Wielka_pi%C4%85tka" target="_blank">Wielka Piątko</a>! 
 

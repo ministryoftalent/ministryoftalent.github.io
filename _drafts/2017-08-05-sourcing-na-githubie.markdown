@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "Przychodzi narcyz na rozmowę kwalifikacyjną"
-subtitle:  Czy warto zatrudniać lidera - narcyza?
-date:       2017-07-30 11:00:00 
+title:      "Sourcing na Githubie"
+subtitle: 
+date:       2017-08-05 11:00:00 
 author:     "Ministry of Talent"
 img:  Narcyz na rozmowie kwalifikacyjnej.png
-categories: praca, narcyzm, psychologia, rekrutacja
+categories: praca, github, sourcing
 index: true
 ---
 
@@ -45,7 +45,7 @@ Osoby z cechami narcystycznymi błyszczą na rozmowach na pozycje liderskie. W n
 Narcystyczna pewność siebie często zostaje odebrana jako charyzma i silny wskaźnik przyszłego sukcesu. Jednak skrajny egocentryzm i nieprzewidywalność podyktowana własnym widzimisię często gubi liderów. Rozwiązaniem są rozważni doradcy potrafiący dostrzec moment, kiedy należy odsunąć szefa w cień, a kiedy już trzeba gasić pożar. W jednej z biografii Steva Jobsa opisano przypadek kiedy jego wspólnicy wymusili na twórcy marki Apple pracę w nocy, tak aby miał jak najmniej interakcji z pracownikami, którzy niekoniecznie cieszyli się na myśl o współpracy z Jobsem.
 
 
-<img src="/images/rsz_medications-money-cure-tablets-47327.jpg" class="img-responsive" alt="Picture">
+<img alt="polski narcyz seo" title="polski narcyz"src="/images/rsz_medications-money-cure-tablets-47327.jpg" class="img-responsive" alt="Picture">
 
 
 <b><font size="5,5">Sprawa polska a narcyzm </font></b>
@@ -67,27 +67,6 @@ Mam nadzieję, że po lekturze tego tekstu choć kilku zatrudniających na stano
 
 
 PS. Czy ktoś kiedyś słyszał o skromnym CEO?
+?
 
-PS II. Tutaj przeczytasz o tym jak <a href="http://ministryoftalent.co.uk/2017/04/01/dlaczego-warto/" target="_blank">studia psychologiczne przydają się w procesie zatrudniania</a> i dlaczego warto iść na psychologię.
-
-- - -
-
-Jakie są kliniczne cechy narcyzmu? Tutaj dowiesz się więcej:
-[Narcyzm - Kryteria diagnostyczne (DSM-IV)](https://pl.wikipedia.org/wiki/Narcystyczne_zaburzenie_osobowo%C5%9Bci)
-
-
-<b><i>Literatura cytowana:</i></b>
-
-<i>
-https://sites.psu.edu/leaderfoundationsdobbs/2016/02/14/the-builder-innovator-and-the-narcissistic-leader-jeff-bezos/</i>
-
-<i>https://www.ft.com/content/5ff67be2-b636-11df-a784-00144feabdc0</i>
-
-<i>http://www.dailymail.co.uk/news/article-2677236/Bosses-really-narcissists-Research-finds-managers-recruited-jobs-suffer-personality-disorder.html</i>
-
-<i>https://www.researchgate.net/profile/Roza_Bazinska/publication/271191296_Structure_of_narcissism_in_the_polish_adaptation_of_the_Narcissistic_Personality_Inventory/links/54c664cc0cf2911c7a58c896/Structure-of-narcissism-in-the-polish-adaptation-of-the-Narcissistic-Personality-Inventory.pdf</i>
-
-<i>http://www.spoleczna.psychologia.pl/pliki/2011_2/Czarna_PS_2_2011.pdf</i>
-
-<i>https://hbr.org/2016/11/why-we-keep-hiring-narcissistic-ceos</i>
-
+Gdzie przeczytać więcej
