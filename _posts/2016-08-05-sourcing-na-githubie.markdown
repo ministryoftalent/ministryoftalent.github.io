@@ -51,7 +51,7 @@ Mniej więcej tak samo jest kodem tworzonym przez programistów.
 <img src="/images/lifehacker.jpg" class="img-responsive" alt="Picture">
 Oryginał zdjęcia <a href="http://lifehacker.com/5983680/how-the-heck-do-i-use-github" target="_blank">tutaj</a> 
 
-
+</br>
 <b><font size="5,5">Jak szukać programistów na Githubie czyli gwiazdki, forki i commity</font></b>
 
 Z kodem jak z fotografiami, zdarzają się mniej lub bardziej udane. 
