@@ -51,7 +51,7 @@ Mniej więcej tak samo jest kodem tworzonym przez programistów.
 <img src="/images/lifehacker.jpg" class="img-responsive" alt="Picture">
 Oryginał zdjęcia <a href="http://lifehacker.com/5983680/how-the-heck-do-i-use-github" target="_blank">tutaj</a> 
 
-<b><font size="5,5">Jak szukać programistów na Githubie?</font></b>
+<b><font size="5,5">Jak szukać programistów na Githubie czyli gwiazdki, forki i commity</font></b>
 
 Z kodem jak z fotografiami, zdarzają się mniej lub bardziej udane. 
 Programiści na Githuba wrzucają projekty z których są dumni, ale gro z nich wrzuca tamże  swoje wprawki w technologii w którą po prostu chcieli się pobawić. 
@@ -62,9 +62,11 @@ Github umożliwia przeszukanie przez: lokalizację (<b>location</b>), język pro
 
 <b>Nick</b> (w tym przypadku "bartaz") będzie nam potrzebny do zweryfikowania tożsamości użytkownika, a potem jego e-maila.
 
+
 <img src="/images/github_profile2.png" class="img-responsive" alt="Picture">
 
-Przy przeglądaniu profila kandydata zwróc uwagę na liczbę <b>forków</b> czyli tego ile osób skopiowało projekt. Świadczy to o popularności repozytorium, co powinno się przełożyć wysoką jakość kodu.
+
+Przy przeglądaniu profilu kandydata zwróć uwagę na liczbę <b>forków</b> czyli tego ile osób skopiowało projekt. Świadczy to o popularności repozytorium, co powinno się przełożyć wysoką jakość kodu.
 
 Kolejnym rozwiązaniem jest przejrzenie kto buduje dany projekt (<b>contributors</b>, pomarańczowa ramka poniżej: 6 contributors) i wten sposób można wyłonić kolejnych potencjalnych kandydatów. 
 
