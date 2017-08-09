@@ -8,7 +8,9 @@ img:  rsz_github1.png
 categories: praca, github, sourcing
 index: true
 ---
-<b>Dziś dowiesz się:</b>
+<b>Jeśli jesteś technicznym rekruterem, a gwiazdki, forki i commity brzmią dla ciebie jak rapowy slang, to najwyższa pora to zmienić. Dzisiaj serwujemy podstawy sourcingu na GitHubie! Bon appétit!</b>
+
+Odpowiem na poniższe pytania:
 
 -  Do czego służy GitHub?
 
@@ -18,8 +20,6 @@ index: true
 
 -  Jak w poszukiwaniach wykorzystać "x-ray search"?
 
-
-3,2,1... start!
 
  <img src="/images/monitor.jpg" class="img-responsive" alt="Picture">
 
@@ -50,6 +50,7 @@ Mniej więcej tak samo jest kodem tworzonym przez programistów.
 
 <img src="/images/lifehacker.jpg" class="img-responsive" alt="Picture">
 Oryginał zdjęcia <a href="http://lifehacker.com/5983680/how-the-heck-do-i-use-github" target="_blank">tutaj</a> 
+
 
 <b><font size="5,5">Jak szukać programistów na Githubie czyli gwiazdki, forki i commity</font></b>
 
