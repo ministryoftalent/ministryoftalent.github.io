@@ -66,7 +66,7 @@ Github umożliwia przeszukanie przez: lokalizację (<b>location</b>), język pro
 
 <img src="/images/github_all.png" class="img-responsive" alt="Pict ure">
 
-Na GitHubie sporo jest profili nie aktualizowanych przez lata u właściwie jedyne co możemy się z nich dowiedzieć to adres e-mail. Z pomocą przychodzi moduł monitorujący aktywność użytkownika.  Na dole profilu można zobaczyć okienko wkazujące kiedy ostatni raz zanotowano <b>committy</b> użytkownika na GitHubie. Im więcej zielonych kwadracików, tych więcej jego/jej aktywności. Możemy kliknąć na kwadracik i zobaczyć nad czym pracował użytkownik danego dnia. Będzie ono o tyle istotne jeśli zależy nam na kandydacie aktywnie kodującym w danym języku lub committującym do danego projektu open sourcowego. 
+Na GitHubie sporo jest profili nie aktualizowanych przez lata i właściwie jedyne co możemy się z nich dowiedzieć to adres e-mail. Z pomocą przychodzi moduł monitorujący aktywność użytkownika.  Na dole profilu można zobaczyć okienko wkazujące kiedy ostatni raz zanotowano <b>committy</b> użytkownika na GitHubie. Im więcej zielonych kwadracików, tych więcej jego/jej aktywności. Możemy kliknąć na kwadracik i zobaczyć nad czym pracował użytkownik danego dnia. Będzie ono o tyle istotne jeśli zależy nam na kandydacie aktywnie kodującym w danym języku lub committującym do danego projektu open sourcowego. 
 
 Przy przeglądaniu profilu kandydata zwróć uwagę na liczbę <b>forków</b> czyli tego ile osób skopiowało projekt. Świadczy to o popularności repozytorium wśród użytkowników społeczności.  co powinno się przełożyć wysoką jakość kodu.
 
