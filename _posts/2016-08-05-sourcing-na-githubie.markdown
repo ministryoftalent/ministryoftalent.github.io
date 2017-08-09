@@ -51,13 +51,13 @@ Mniej więcej tak samo jest kodem tworzonym przez programistów.
 <img src="/images/lifehacker.jpg" class="img-responsive" alt="Picture">
 Oryginał zdjęcia <a href="http://lifehacker.com/5983680/how-the-heck-do-i-use-github" target="_blank">tutaj</a> 
 
-</br>
+
 <b><font size="5,5">Jak szukać programistów na Githubie czyli gwiazdki, forki i commity</font></b>
 
 Z kodem jak z fotografiami, zdarzają się mniej lub bardziej udane. 
 Programiści na Githuba wrzucają projekty z których są dumni, ale gro z nich wrzuca tamże  swoje wprawki w technologii w którą po prostu chcieli się pobawić. 
 
-Github to taka duża <b>programistyczna piaskownica</b>. Sztuką jest odnaleźć te kilka nieodkrytych jeszcze diamentów zakopane pod kupą piachu. Obecność repozytorium z JavaScriptem na czele nie od razu oznacza, że mamy do czynienia z front-endowcem.
+Github to taka duża <b>programistyczna piaskownica</b>. Sztuką jest odnaleźć te kilka nieodkrytych jeszcze diamentów zakopane pod kupą piachu. Obecność <b>repozytorium</b> z JavaScriptem na czele nie od razu oznacza, że mamy do czynienia z front-endowcem.
 
 Github umożliwia przeszukanie przez: lokalizację (<b>location</b>), język programowania (<b>language</b>), liczbę śledzących dany profil (<b>followers</b>), gwiazdki, które można uznać za odpowiednik Facebookowego lajka (<b>stars</b>), datę stworzenia profilu (<b>created</b>), pełne imię i nazwisko użytkownika (<b>fullname</b>). Teoretycznie im więcej gwiazdek ma repozytorium i im więcej śledzących na uzytkownik, tym lepiej. Trochę jak z pokemonami i ich mocami ;)
 
