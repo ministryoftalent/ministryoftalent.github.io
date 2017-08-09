@@ -60,18 +60,19 @@ Github to taka duża <b>programistyczna piaskownica</b>. Sztuką jest odnaleźć
 
 Github umożliwia przeszukanie przez: lokalizację (<b>location</b>), język programowania (<b>language</b>), liczbę śledzących dany profil (<b>followers</b>), gwiazdki, które można uznać za odpowiednik Facebookowego lajka (<b>stars</b>), datę stworzenia profilu (<b>created</b>), pełne imię i nazwisko użytkownika (<b>fullname</b>). Teoretycznie im więcej gwiazdek ma repozytorium i im więcej śledzących na uzytkownik, tym lepiej. Trochę jak z pokemonami i ich mocami ;)
 
-<b>Nick</b> (w tym przypadku "bartaz") będzie nam potrzebny do zweryfikowania tożsamości użytkownika, a potem jego e-maila.
+<b>Nick</b> (w tym przypadku "bart") będzie nam potrzebny do zweryfikowania tożsamości użytkownika, a potem jego e-maila.
 
 
-<img src="/images/github_profile2.png" class="img-responsive" alt="Picture">
+<img src="/images/github_all.png" class="img-responsive" alt="Pict ure">
 
 
-Przy przeglądaniu profilu kandydata zwróć uwagę na liczbę <b>forków</b> czyli tego ile osób skopiowało projekt. Świadczy to o popularności repozytorium, co powinno się przełożyć wysoką jakość kodu.
+Przy przeglądaniu profilu kandydata zwróć uwagę na liczbę <b>forków</b> czyli tego ile osób skopiowało projekt. Świadczy to o popularności repozytorium wśród użytkowników użytkowników społeczności.  co powinno się przełożyć wysoką jakość kodu.
 
 Kolejnym rozwiązaniem jest przejrzenie kto buduje dany projekt (<b>contributors</b>, pomarańczowa ramka poniżej: 6 contributors) i wten sposób można wyłonić kolejnych potencjalnych kandydatów. 
 
 <img src="/images/forks1.png" class="img-responsive" alt="Picture">
 
+Na dole profilu można zobaczyć okienko z częstotliwością udzielania się użytkownika na GitHubie. Im więcej zielonych kwadracików, tych więcej aktywności. Możemy klikąnć nań i zobaczyć co rozwijał danego dnia. Będzie ono istotne jeśli zależy nam na kandydacie aktywnie kodującym w danym języku lub do danego projektu open sourcowego. Na GitHubie sporo jest profili nie aktualizowanych przez lata, z których właściwie jedyne co możemy się dowiedziec to adres email, zatem zielone kwadraciki są jak najbardziej pożądane :)
 
 
 <b><font size="5,5">Za pan brat z zaawansowaną wyszukiwarką</font></b>
