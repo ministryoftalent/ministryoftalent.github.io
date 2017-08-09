@@ -78,10 +78,11 @@ Kolejnym rozwiązaniem jest przejrzenie kto buduje dany projekt (<b>contributors
 
 <b><font size="5,5">Za pan brat z zaawansowaną wyszukiwarką</font></b>
 
-Github to nie LinkedIn. Koniec i kropka. Nie dziwne więc, że przeszukiwanie platformy jest nieco bardziej mozolne. 
+Github to nie LinkedIn. Koniec i kropka. 
 
-Można wykorzystać logikę booleanowską, ale dużo prostsze jest wykorzystanie <a href="https://github.com/search/advanced" target="_blank">wyszukiwarki zaawansowanej</a>.
+Na GitHubie można wykorzystać logikę booleanowską, ale dużo prostsze jest wykorzystanie <a href="https://github.com/search/advanced" target="_blank">wyszukiwarki zaawansowanej</a>.
 
+Załóżmy, że poszukujemy programisty JavaScript. 
 
 <img src="/images/github_advanced_search.png" class="img-responsive" alt="Picture">
 
@@ -91,21 +92,22 @@ A taki string można wykorzystać przy wykorzystaniu prostej wyszukiwarki w GitH
 <i>type:user language:javascript location:"london" created:"2009-01-01 .. 2009-12-31" followers:"20 .. *"</i>
 
 
-
-
 <b><font size="5,5">Jak w poszukiwaniach wykorzystać "x-ray search"</font></b>
 
-Jeśli szukamy bardziej doświadczonych programistów warto zwrócić uwagę na datę dołączenia do Githuba.
 
-Pzykład do wykorzystania w Googlu:
+Pzykład do wykorzystania w przeglądarce Google z wykorzystanie x-ray Githuba:
 
-<i>site:github.com London “C++” "joined on" "100..1000 followers" "joined on* 2009"</i>
+<i>site:github.com London “Javascript” "joined on" "100..1000 followers" "joined on* 2009"</i>
+
+Zakładamy, że reputacja programisty oceniania jest w liczba osób śledzących ich na Githubie. Skupiamy się zatem na liczbie followersów. To ilu followersów jest liczbą pożądaną jest względne.
+
+Jeśli szukamy bardziej doświadczonych programistów warto zwrócić uwagę na datę dołączenia do Githuba. 
+
+Paradoksalnie liczba repozytoriów jest najmniej ważna - ilośc nie zawsze idzie w parze z jakością.
 
 
 
-
-
-<br>
+No dobra, ale to dopiero początek przygody z rekrutacją na Githubie.
 
 <b>W kolejnej części dowiesz się:</b>
 
