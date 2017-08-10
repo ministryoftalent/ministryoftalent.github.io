@@ -1,4 +1,4 @@
----
+ń---
 layout:     post
 title:      "Sourcing na Githubie - podstawy"
 subtitle:  Sourcin na Githubie dla początkujących
@@ -99,11 +99,11 @@ Pzykład do wykorzystania w przeglądarce Google z wykorzystanie x-ray Githuba:
 
 <i>site:github.com London “Javascript” "joined on" "100..1000 followers" "joined on* 2009"</i>
 
-Zakładamy, że reputacja programisty oceniania jest w liczba osób śledzących ich na Githubie. Skupiamy się zatem na liczbie followersów. To ilu followersów jest liczbą pożądaną jest względne.
+Zakładamy, że reputacja programisty oceniania jest w liczbie osób śledzących na Githubie. Skupiamy się zatem na liczbie followersów. To ilu followersów jest liczbą pożądaną jest względne.
 
 Jeśli szukamy bardziej doświadczonych programistów warto zwrócić uwagę na datę dołączenia do Githuba. 
 
-Paradoksalnie liczba repozytoriów jest najmniej ważna - ilośc nie zawsze idzie w parze z jakością.
+Możemy także przeszukiwać paltformę pod kątem ilości projektów na profilu. Paradoksalnie liczba repozytoriów jest najmniej ważna - ilość nie zawsze idzie w parze z jakością.
 
 
 
@@ -115,12 +115,13 @@ No dobra, ale to dopiero początek przygody z rekrutacją na Githubie.
 
 - Jak wykorzystać trendy w repozytoriach? Co to jest GitHub awards?
 
+- Jak interpretować dane z GitHuba?
+
+- Jak wykorzystywać owe informacje w wiadomościach rekrutacyjnych? 
+
 - Jak odnaleźć adres e-mail na GitHubie?
 
 - Co to jest open source i co to ma wspólnego z Githubem
 
 - Co różni BitBucket od GitHuba?
 
-- Jak interpretować dane z GitHuba?
-
-- Jak wykorzystywać te informacje w wiadomościach rekrutacyjnych? 
