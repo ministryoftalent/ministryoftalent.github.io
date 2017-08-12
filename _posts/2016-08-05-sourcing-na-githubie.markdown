@@ -1,4 +1,4 @@
-ń---
+---
 layout:     post
 title:      "Sourcing na Githubie - podstawy"
 subtitle:  Sourcin na Githubie dla początkujących
@@ -8,6 +8,7 @@ img:  rsz_github1.png
 categories: praca, github, sourcing
 index: true
 ---
+
 <b>Jeśli jesteś technicznym rekruterem, a gwiazdki, forki i commity brzmią dla ciebie jak rapowy slang, to najwyższa pora to zmienić. Dzisiaj serwujemy podstawy sourcingu na GitHubie! Bon appétit!</b>
 
 Odpowiem na poniższe pytania:
@@ -124,4 +125,9 @@ No dobra, ale to dopiero początek przygody z rekrutacją na Githubie.
 - Co to jest open source i co to ma wspólnego z Githubem
 
 - Co różni BitBucket od GitHuba?
+
+
+W międzyczasie do poczytania
+
+https://www.eremedia.com/sourcecon/secrets-you-may-not-know-about-github-sourcing/
 
