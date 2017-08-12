@@ -99,7 +99,7 @@ Poniższy string można wykorzystać przy wykorzystaniu prostej wyszukiwarki w G
 <b><font size="5,5">Jak w poszukiwaniach wykorzystać "x-ray search"</font></b>
 
 
-Pzykład do wykorzystania w przeglądarce Google z wykorzystanie x-ray Githuba:
+Przykład do wykorzystania w przeglądarce Google z wykorzystanie x-ray Githuba:
 
 <i>site:github.com London “Javascript” "joined on" "100..1000 followers" "joined on* 2009"</i>
 
