@@ -56,9 +56,12 @@ Oryginał zdjęcia <a href="http://lifehacker.com/5983680/how-the-heck-do-i-use-
 <b><font size="5,5">Jak szukać programistów na Githubie czyli gwiazdki, forki i commity</font></b>
 
 Z kodem jak z fotografiami, zdarzają się mniej lub bardziej udane. 
+
 Programiści na Githuba wrzucają projekty z których są dumni, ale gro z nich wrzuca tamże  swoje wprawki w technologii w którą po prostu chcieli się pobawić. Obecność <b>repozytorium</b> z JavaScriptem na czele nie od razu oznacza, że mamy do czynienia z front-endowcem. 
 
 Github to taka duża <b>programistyczna piaskownica</b>. Sztuką jest odnaleźć te kilka nieodkrytych jeszcze diamentów zakopane pod kupą piachu. 
+
+Jeśli jeszcze nie masz konta na Githubie, to właśnie teraz jest najlepszy moment na jego założenie. Bez posiadania konta będziecie mieli ograniczone możliwości przeszukiwania platformy.
 
 Github umożliwia przeszukanie przez: lokalizację (<b>location</b>), język programowania (<b>language</b>), liczbę śledzących dany profil (<b>followers</b>), gwiazdki, które można uznać za odpowiednik Facebookowego lajka (<b>stars</b>), datę stworzenia profilu (<b>created</b>), pełne imię i nazwisko użytkownika (<b>fullname</b>). Teoretycznie im więcej gwiazdek ma repozytorium i im więcej śledzących na uzytkownik, tym lepiej. Trochę jak z pokemonami i ich mocami ;)
 
@@ -75,6 +78,7 @@ Kolejnym rozwiązaniem jest przejrzenie kto buduje dany projekt (<b>contributors
 
 <img src="/images/forks1.png" class="img-responsive" alt="Picture">
 
+Pomocny w przeszukiwania Githuba może być <a href="https://source.socialtalent.co/" target="_blank">SocialTalent</a> pozwalający bezboleśnie się przeprawić przez booleanowskie zawiłości. 
 
 
 <b><font size="5,5">Za pan brat z zaawansowaną wyszukiwarką</font></b>
@@ -107,11 +111,13 @@ Jeśli szukamy bardziej doświadczonych programistów warto zwrócić uwagę na 
 Możemy także przeszukiwać paltformę pod kątem ilości projektów na profilu. Paradoksalnie liczba repozytoriów jest najmniej ważna - ilość nie zawsze idzie w parze z jakością.
 
 
+Warto dodać sobie do przeglądarki <a href="https://chrome.google.com/webstore/detail/octohr/beiklbdjdmfkgchmiabjejdlpaoicbef/" target="_blank"> OctoHR</a>. Ten dodatek do Chroma pozwoli ci  sprawdzić co jest dominującą technologią na profilu kandydata, dodatkowo zazwyczaj wskazuje adres emailowy z profilu właściciela konta. 
 
-No dobra, ale to dopiero początek przygody z rekrutacją na Githubie.
+----------------------------
 
-<b>W kolejnej części dowiesz się:</b>
 
+<b>Happy Sourcing! 
+W kolejnej części dowiesz się:</b>
 
 
 - Jak wykorzystać trendy w repozytoriach? Co to jest GitHub awards?
@@ -127,7 +133,8 @@ No dobra, ale to dopiero początek przygody z rekrutacją na Githubie.
 - Co różni BitBucket od GitHuba?
 
 
-W międzyczasie do poczytania
+NA DOKŁADKĘ:
 
-https://www.eremedia.com/sourcecon/secrets-you-may-not-know-about-github-sourcing/
+<a href="https://www.eremedia.com/sourcecon/secrets-you-may-not-know-about-github-sourcing/" target="_blank"> Secrets you may know about GitHub Sourcing - EREmedia </a>
 
+<a href="http://booleanstrings.com/2017/06/03/lesser-known-github-sourcing-tips/" target="_blank"> Więcej o X-rayu GitHuba </a> 
