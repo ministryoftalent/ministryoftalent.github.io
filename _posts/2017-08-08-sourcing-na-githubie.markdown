@@ -76,6 +76,8 @@ Przy przeglądaniu profilu kandydata zwróć uwagę na liczbę <b>forków</b> cz
 
 Kolejnym rozwiązaniem jest przejrzenie kto buduje dany projekt (<b>contributors</b>, pomarańczowa ramka poniżej: 6 contributors).  W ten sposób można wyłonić kolejnych potencjalnych kandydatów. 
 
+Możemy także przeszukiwać platformę pod kątem ilości projektów na profilu. Paradoksalnie liczba repozytoriów jest najmniej ważna - ilość nie zawsze idzie w parze z jakością.
+
 <img src="/images/forks1.png" class="img-responsive" alt="Picture">
 
 
@@ -109,7 +111,6 @@ Poniże przykład do wykorzystania w przeglądarce Google:
 
 
 
-Możemy także przeszukiwać paltformę pod kątem ilości projektów na profilu. Paradoksalnie liczba repozytoriów jest najmniej ważna - ilość nie zawsze idzie w parze z jakością.
 
 Pomocny w przeszukiwania Githuba może być <a href="https://source.socialtalent.co/" target="_blank">SocialHub</a> pozwalający bezboleśnie się przeprawić przez booleanowskie zawiłości. 
 
