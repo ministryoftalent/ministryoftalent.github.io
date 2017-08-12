@@ -2,7 +2,7 @@
 layout:     post
 title:      "Sourcing na Githubie - podstawy"
 subtitle:  Sourcin na Githubie dla początkujących
-date:       2016-08-08 11:00:00 
+date:       2017-08-08 11:00:00 
 author:     "Ministry of Talent"
 img:  rsz_github1.png
 categories: praca, github, sourcing
