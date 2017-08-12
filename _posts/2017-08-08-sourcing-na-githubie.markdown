@@ -78,7 +78,6 @@ Kolejnym rozwiązaniem jest przejrzenie kto buduje dany projekt (<b>contributors
 
 <img src="/images/forks1.png" class="img-responsive" alt="Picture">
 
-Pomocny w przeszukiwania Githuba może być <a href="https://source.socialtalent.co/" target="_blank">SocialTalent</a> pozwalający bezboleśnie się przeprawić przez booleanowskie zawiłości. 
 
 
 <b><font size="5,5">Za pan brat z zaawansowaną wyszukiwarką</font></b>
@@ -110,6 +109,7 @@ Jeśli szukamy bardziej doświadczonych programistów warto zwrócić uwagę na 
 
 Możemy także przeszukiwać paltformę pod kątem ilości projektów na profilu. Paradoksalnie liczba repozytoriów jest najmniej ważna - ilość nie zawsze idzie w parze z jakością.
 
+Pomocny w przeszukiwania Githuba może być <a href="https://source.socialtalent.co/" target="_blank">SocialHub</a> pozwalający bezboleśnie się przeprawić przez booleanowskie zawiłości. 
 
 Warto dodać sobie do przeglądarki <a href="https://chrome.google.com/webstore/detail/octohr/beiklbdjdmfkgchmiabjejdlpaoicbef/" target="_blank"> OctoHR</a>. Ten dodatek do Chroma pozwoli ci  sprawdzić co jest dominującą technologią na profilu kandydata, dodatkowo zazwyczaj wskazuje adres emailowy z profilu właściciela konta. 
 
