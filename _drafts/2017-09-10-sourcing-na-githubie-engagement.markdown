@@ -57,7 +57,7 @@ Oryginał zdjęcia <a href="http://lifehacker.com/5983680/how-the-heck-do-i-use-
 
 Z kodem jak z fotografiami, zdarzają się mniej lub bardziej udane. 
 
-Programiści dzielą się na GitHubie projektami z których są dumni, ale gro z nich wrzuca tamże swoje wprawki w technologii w której po prostu chcieli spróbować swoich sił. Dlatego też obecność <b>repozytorium</b> z JavaScriptem na czele nie od razu oznacza, że mamy do czynienia z front-endowcem. 
+Programiści na Githuba wrzucają projekty z których są dumni, ale gro z nich wrzuca tamże  swoje wprawki w technologii w którą po prostu chcieli się pobawić. Obecność <b>repozytorium</b> z JavaScriptem na czele nie od razu oznacza, że mamy do czynienia z front-endowcem. 
 
 Github to taka duża <b>programistyczna piaskownica</b>. Sztuką jest odnaleźć te kilka nieodkrytych jeszcze diamentów zakopane pod kupą piachu. 
 
@@ -70,11 +70,11 @@ Github umożliwia przeszukanie przez: miejsce zamieszkania (<b>location</b>), j�
 
 <img src="/images/github_all.png" class="img-responsive" alt="Pict ure">
 
-Na GitHubie sporo jest profili nie aktualizowanych przez lata. Z pomocą przychodzi moduł monitorujący aktywność użytkownika. Na dole profilu można zobaczyć okienko wkazujące kiedy ostatni raz zanotowano <b>commity</b> użytkownika na GitHubie (w tym przypadku <i>"971 contributions in the last year"</i>). Im więcej zielonych kwadracików, tych więcej jego/jej aktywności. Możemy kliknąć na kwadracik i zobaczyć nad czym pracował użytkownik danego dnia. Będzie ono o tyle istotne jeśli zależy nam na kandydacie aktywnie kodującym w danym języku lub committującym do danego projektu open sourcowego. 
+Na GitHubie sporo jest profili nie aktualizowanych przez lata i właściwie jedyne co możemy się z nich dowiedzieć to adres e-mail. Z pomocą przychodzi moduł monitorujący aktywność użytkownika. Na dole profilu można zobaczyć okienko wkazujące kiedy ostatni raz zanotowano <b>commity</b> użytkownika na GitHubie (w tym przypadku <i>"971 contributions in the last year"</i>). Im więcej zielonych kwadracików, tych więcej jego/jej aktywności. Możemy kliknąć na kwadracik i zobaczyć nad czym pracował użytkownik danego dnia. Będzie ono o tyle istotne jeśli zależy nam na kandydacie aktywnie kodującym w danym języku lub committującym do danego projektu open sourcowego. 
 
-Przy przeglądaniu profilu kandydata zwróć uwagę na liczbę <b>forków</b> czyli tego ile osób skopiowało projekt. Świadczy to o popularności repozytorium w społeczności GitHuba, co w teorii powinno się przełożyć na wyższą jakość kodu i umiejętności programistyczne użytkownika. Podobnie rzecz ma się z <b>gwiazdkowaniem</b> repozytoriów.
+Przy przeglądaniu profilu kandydata zwróć uwagę na liczbę <b>forków</b> czyli tego ile osób skopiowało projekt. Świadczy to o popularności repozytorium wśród użytkowników społeczności, co w teorii powinno się przełożyć na wyższą jakość kodu i umiejętności programistyczne użytkownika. Podobnie rzecz ma się z <b>gwiazdkowaniem</b> repozytoriów.
 
-Kolejnym rozwiązaniem jest przejrzenie kto buduje dany projekt (<b>contributors</b>, pomarańczowa ramka poniżej: 6 contributors).  W ten sposób można wyłonić kolejnych potencjalnych kandydatów. 
+Kolejnym rozwiązaniem jest przejrzenie kto buduje dany projekt (<b>contributors</b>, pomarańczowa ramka poniżej: 6 contributors) i wten sposób można wyłonić kolejnych potencjalnych kandydatów. 
 
 <img src="/images/forks1.png" class="img-responsive" alt="Picture">
 
@@ -84,9 +84,9 @@ Kolejnym rozwiązaniem jest przejrzenie kto buduje dany projekt (<b>contributors
 
 Github to nie LinkedIn. Koniec i kropka. 
 
-Ale nawet na GitHubie można wykorzystać logikę booleanowską. Ale dużo prostsze wydaje się wykorzystanie wbudowanej <a href="https://github.com/search/advanced" target="_blank">wyszukiwarki zaawansowanej</a>.
+Na GitHubie można wykorzystać logikę booleanowską, ale dużo prostsze jest wykorzystanie <a href="https://github.com/search/advanced" target="_blank">wyszukiwarki zaawansowanej</a>.
 
-Załóżmy, że poszukujemy programisty JavaScript z więcej niż 150 śledzących użytkowników i z co najmniej pięcioma repozytorium. Owe kryteria powinny pomóc nam przesiać mało aktywnych użytkowników z niską reputacją.
+Załóżmy, że poszukujemy programisty JavaScript z więcej niż 150 śledzących użytkowników i z co najmniej pięcioma repozytorium.
 
 <img src="/images/github_advanced_search.png" class="img-responsive" alt="Picture">
 
@@ -99,15 +99,14 @@ Poniższy string można wykorzystać przy wykorzystaniu prostej wyszukiwarki w G
 <b><font size="5,5">Jak w poszukiwaniach wykorzystać "x-ray search"</font></b>
 
 
-W wielu przypadkach szybciej i skuteczniej będzie prześwietlić GitHuba za pomocą wyszukiwarki Google. 
-Zakładamy, że reputacja programisty oceniania jest w liczbie osób śledzących na Githubie. Teoretycznie, im więcej tym lepiej. W poniższym przypadku powinniśmy otrzymać wyniki z profilami powyżej 100 śledzących. 
-Jeśli szukamy bardziej doświadczonych programistów warto zwrócić uwagę na datę dołączenia do Githuba. Tutaj zaznaczamy, że interesują nas użytkownicy, którzy dołączyli do GitHuba w 2009 roku, czyli powinni być w branży programistycznej przez co najmniej ostatnie 8 lat.
-
-Poniże przykład do wykorzystania w przeglądarce Google:
+Przykład do wykorzystania w przeglądarce Google z wykorzystanie x-ray Githuba:
 
 <i>site:github.com London “Javascript” "joined on" "100..1000 followers" "joined on* 2009"</i>
 
 
+Zakładamy, że reputacja programisty oceniania jest w liczbie osób śledzących na Githubie. Teoretycznie, im więcej tym lepiej.
+
+Jeśli szukamy bardziej doświadczonych programistów warto zwrócić uwagę na datę dołączenia do Githuba. 
 
 Możemy także przeszukiwać paltformę pod kątem ilości projektów na profilu. Paradoksalnie liczba repozytoriów jest najmniej ważna - ilość nie zawsze idzie w parze z jakością.
 
