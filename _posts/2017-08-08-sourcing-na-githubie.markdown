@@ -86,12 +86,12 @@ Github to nie LinkedIn. Koniec i kropka.
 
 Na GitHubie można wykorzystać logikę booleanowską, ale dużo prostsze jest wykorzystanie <a href="https://github.com/search/advanced" target="_blank">wyszukiwarki zaawansowanej</a>.
 
-Załóżmy, że poszukujemy programisty JavaScript. 
+Załóżmy, że poszukujemy programisty JavaScript z więcej niż 150 śledzących użytkowników i z co najmniej pięcioma repozytorium.
 
 <img src="/images/github_advanced_search.png" class="img-responsive" alt="Picture">
 
 
-A taki string można wykorzystać przy wykorzystaniu prostej wyszukiwarki w GitHubie:
+Poniższy string można wykorzystać przy wykorzystaniu prostej wyszukiwarki w GitHubie:
 
 <i>type:user language:javascript location:"london" created:"2009-01-01 .. 2009-12-31" followers:"20 .. *"</i>
 
@@ -102,6 +102,7 @@ A taki string można wykorzystać przy wykorzystaniu prostej wyszukiwarki w GitH
 Pzykład do wykorzystania w przeglądarce Google z wykorzystanie x-ray Githuba:
 
 <i>site:github.com London “Javascript” "joined on" "100..1000 followers" "joined on* 2009"</i>
+
 
 Zakładamy, że reputacja programisty oceniania jest w liczbie osób śledzących na Githubie. Teoretycznie, im więcej tym lepiej.
 
