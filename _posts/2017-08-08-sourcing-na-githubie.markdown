@@ -63,7 +63,7 @@ Github to taka duża <b>programistyczna piaskownica</b>. Sztuką jest odnaleźć
 
 Jeśli jeszcze nie masz konta na Githubie, to właśnie teraz jest najlepszy moment na jego założenie. Bez posiadania konta będziecie mieli ograniczone możliwości przeszukiwania platformy.
 
-Github umożliwia przeszukanie przez: lokalizację (<b>location</b>), język programowania (<b>language</b>), liczbę śledzących dany profil (<b>followers</b>), gwiazdki, które można uznać za odpowiednik Facebookowego lajka (<b>stars</b>), datę stworzenia profilu (<b>created</b>), pełne imię i nazwisko użytkownika (<b>fullname</b>). Teoretycznie im więcej gwiazdek ma repozytorium i im więcej śledzących na uzytkownik, tym lepiej. Trochę jak z pokemonami i ich mocami ;)
+Github umożliwia przeszukanie przez: miejsce zamieszkania (<b>location</b>), język programowania (<b>language</b>), liczbę śledzących dany profil (<b>followers</b>), gwiazdki, które można uznać za odpowiednik Facebookowego lajka (<b>stars</b>), datę stworzenia profilu (<b>created</b>), pełne imię i nazwisko użytkownika (<b>fullname</b>). Teoretycznie im więcej gwiazdek ma repozytorium i im więcej śledzących na uzytkownik, tym lepiej. Trochę jak z pokemonami i ich mocami ;)
 
 <b>Nick</b> (w tym przypadku "bart") będzie nam potrzebny do zweryfikowania tożsamości użytkownika, a potem jego e-maila. (o tym w kontynuacji artykułu)
 
@@ -103,7 +103,7 @@ Pzykład do wykorzystania w przeglądarce Google z wykorzystanie x-ray Githuba:
 
 <i>site:github.com London “Javascript” "joined on" "100..1000 followers" "joined on* 2009"</i>
 
-Zakładamy, że reputacja programisty oceniania jest w liczbie osób śledzących na Githubie. Skupiamy się zatem na liczbie followersów. To ilu followersów jest liczbą pożądaną jest względne.
+Zakładamy, że reputacja programisty oceniania jest w liczbie osób śledzących na Githubie. Teoretycznie, im więcej tym lepiej.
 
 Jeśli szukamy bardziej doświadczonych programistów warto zwrócić uwagę na datę dołączenia do Githuba. 
 
