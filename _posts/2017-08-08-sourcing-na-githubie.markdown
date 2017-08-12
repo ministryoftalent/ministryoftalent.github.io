@@ -65,7 +65,7 @@ Jeśli jeszcze nie masz konta na Githubie, to właśnie teraz jest najlepszy mom
 
 Github umożliwia przeszukanie przez: lokalizację (<b>location</b>), język programowania (<b>language</b>), liczbę śledzących dany profil (<b>followers</b>), gwiazdki, które można uznać za odpowiednik Facebookowego lajka (<b>stars</b>), datę stworzenia profilu (<b>created</b>), pełne imię i nazwisko użytkownika (<b>fullname</b>). Teoretycznie im więcej gwiazdek ma repozytorium i im więcej śledzących na uzytkownik, tym lepiej. Trochę jak z pokemonami i ich mocami ;)
 
-<b>Nick</b> (w tym przypadku "bart") będzie nam potrzebny do zweryfikowania tożsamości użytkownika, a potem jego e-maila.
+<b>Nick</b> (w tym przypadku "bart") będzie nam potrzebny do zweryfikowania tożsamości użytkownika, a potem jego e-maila. (o tym w kontynuacji artykułu)
 
 
 <img src="/images/github_all.png" class="img-responsive" alt="Pict ure">
