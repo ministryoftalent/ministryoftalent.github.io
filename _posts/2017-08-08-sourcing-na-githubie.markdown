@@ -86,7 +86,7 @@ Możemy także przeszukiwać platformę pod kątem ilości projektów na profilu
 
 Github to nie LinkedIn. Koniec i kropka. 
 
-Ale nawet na GitHubie można wykorzystać logikę booleanowską. Ale dużo prostsze wydaje się wykorzystanie wbudowanej <a href="https://github.com/search/advanced" target="_blank">wyszukiwarki zaawansowanej</a>.
+Ale nawet na GitHubie można wykorzystać logikę booleanowską. Dużo prostsze jednak wydaje się wykorzystanie wbudowanej <a href="https://github.com/search/advanced" target="_blank">wyszukiwarki zaawansowanej</a>.
 
 Załóżmy, że poszukujemy programisty JavaScript z więcej niż 150 śledzących użytkowników i z co najmniej pięcioma repozytorium. Owe kryteria powinny pomóc nam przesiać mało aktywnych użytkowników z niską reputacją.
 
