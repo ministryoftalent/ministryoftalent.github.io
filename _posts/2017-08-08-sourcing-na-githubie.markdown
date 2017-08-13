@@ -114,7 +114,7 @@ Poniże przykład do wykorzystania w przeglądarce Google:
 
 Pomocny w przeszukiwania Githuba może być <a href="https://source.socialtalent.co/" target="_blank">SocialHub</a> pozwalający bezboleśnie się przeprawić przez booleanowskie zawiłości. 
 
-Warto dodać sobie do przeglądarki <a href="https://chrome.google.com/webstore/detail/octohr/beiklbdjdmfkgchmiabjejdlpaoicbef/" target="_blank"> OctoHR</a>. Ten dodatek do Chroma pozwoli ci  sprawdzić co jest dominującą technologią na profilu kandydata, dodatkowo zazwyczaj wskazuje adres emailowy z profilu właściciela konta. 
+Warto dodać sobie do przeglądarki <a href="https://chrome.google.com/webstore/detail/octohr/beiklbdjdmfkgchmiabjejdlpaoicbef/" target="_blank"> OctoHR</a>. Ten dodatek do Chroma pozwoli ci  sprawdzić co jest dominującą technologią na profilu kandydata, dodatkowo w większości przypadków wskazuje adres emailowy właściciela konta. 
 
 ----------------------------
 
