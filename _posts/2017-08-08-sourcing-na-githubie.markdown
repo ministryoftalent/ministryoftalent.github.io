@@ -88,7 +88,7 @@ Github to nie LinkedIn. Koniec i kropka.
 
 Ale nawet na GitHubie można wykorzystać logikę booleanowską. Dużo prostsze jednak wydaje się wykorzystanie wbudowanej <a href="https://github.com/search/advanced" target="_blank">wyszukiwarki zaawansowanej</a>.
 
-Załóżmy, że poszukujemy programisty JavaScript z więcej niż 150 śledzących użytkowników i z co najmniej pięcioma repozytorium. Owe kryteria powinny pomóc nam przesiać mało aktywnych użytkowników z niską <b>reputacją</a>.
+Załóżmy, że poszukujemy programisty JavaScript z więcej niż 150 śledzących użytkowników i z co najmniej pięcioma repozytorium. Owe kryteria powinny pomóc nam przesiać mało aktywnych użytkowników z niską <b>reputacją</b>.
 
 <img src="/images/github_advanced_search.png" class="img-responsive" alt="Picture">
 
