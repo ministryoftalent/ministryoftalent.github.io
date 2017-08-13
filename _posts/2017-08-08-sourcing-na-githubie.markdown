@@ -42,7 +42,7 @@ Github umożliwia umieszczenie kodu w repozytoriach na ich serwerach.
  
 Cały koncept można porównać do zapobiegawczych pasjonatów fotografii wrzucających swoje zdjęcia na wirtualne dyski, po to aby ich nie utracić w najbardziej niespodziewanym momencie. 
 
-Jako, że zdjęcia zostały wrzucone na darmowy serwer, aby je tam umieścić zrzekasz się praw autorskich i każdy ze społeczności może ściągnąć twoje fotografie, przerobić na kolaż, wydrukować i powiesić na ścianie. 
+Jako, że zdjęcia zostały wrzucone na darmowy serwer, każdy ze społeczności może ściągnąć twoje fotografie, przerobić na kolaż, wydrukować i powiesić na ścianie. 
 
 Jeśli chcesz je zachować tylko dla siebie, oczywiście musisz zapłacić za korzystanie z serwera. Ale jeśli pozostaniesz przy darmowej opcji, <b>obecność społeczności pasjonatów</b> takich jak ty pozwoli ci do woli chwalić się swoją twórczością, dzielić się ciekawymi rozwiązaniami, uczyć od innych, poznać najnowsze nowinki z branży czy poprosić o opinię na temat twojej pracy. 
 
@@ -76,7 +76,7 @@ Przy przeglądaniu profilu kandydata zwróć uwagę na liczbę <b>forków</b> cz
 
 Kolejnym rozwiązaniem jest przejrzenie kto buduje dany projekt (<b>contributors</b>, pomarańczowa ramka poniżej: 6 contributors).  W ten sposób można wyłonić kolejnych potencjalnych kandydatów. 
 
-Możemy także przeszukiwać platformę pod kątem ilości projektów na profilu. Paradoksalnie liczba repozytoriów jest najmniej ważna - ilość nie zawsze idzie w parze z jakością.
+Możemy także przeszukiwać platformę pod kątem ilości projektów na profilu. Paradoksalnie liczba repozytoriów jest najmniej ważna - ilość nie zawsze idzie w parze z jakością.  Można też wspomnieć, że generalnie back-endowcy zazwyczaj mają mniej repozytoriów na swoich GitHubach niż koledzy front-endowcy.
 
 <img src="/images/forks1.png" class="img-responsive" alt="Picture">
 
@@ -88,7 +88,7 @@ Github to nie LinkedIn. Koniec i kropka.
 
 Ale nawet na GitHubie można wykorzystać logikę booleanowską. Dużo prostsze jednak wydaje się wykorzystanie wbudowanej <a href="https://github.com/search/advanced" target="_blank">wyszukiwarki zaawansowanej</a>.
 
-Załóżmy, że poszukujemy programisty JavaScript z więcej niż 150 śledzących użytkowników i z co najmniej pięcioma repozytorium. Owe kryteria powinny pomóc nam przesiać mało aktywnych użytkowników z niską reputacją.
+Załóżmy, że poszukujemy programisty JavaScript z więcej niż 150 śledzących użytkowników i z co najmniej pięcioma repozytorium. Owe kryteria powinny pomóc nam przesiać mało aktywnych użytkowników z niską <b>reputacją</a>.
 
 <img src="/images/github_advanced_search.png" class="img-responsive" alt="Picture">
 
@@ -136,7 +136,7 @@ W kolejnej części dowiesz się:</b>
 - Co różni BitBucket od GitHuba?
 
 
-NA DOKŁADKĘ:
+<b>NA DOKŁADKĘ:</b>
 
 <a href="https://www.eremedia.com/sourcecon/secrets-you-may-not-know-about-github-sourcing/" target="_blank"> Secrets you may know about GitHub Sourcing - EREmedia </a>
 
