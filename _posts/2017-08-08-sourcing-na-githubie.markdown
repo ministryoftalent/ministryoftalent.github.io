@@ -44,7 +44,7 @@ Cały koncept można porównać do zapobiegawczych pasjonatów fotografii wrzuca
 
 Jako, że zdjęcia zostały wrzucone na darmowy serwer, każdy ze społeczności może ściągnąć twoje fotografie, przerobić na kolaż, wydrukować i powiesić na ścianie. 
 
-Jeśli chcesz je zachować tylko dla siebie, oczywiście musisz zapłacić za korzystanie z serwera. Ale jeśli pozostaniesz przy darmowej opcji, <b>obecność społeczności pasjonatów</b> takich jak ty pozwoli ci do woli chwalić się swoją twórczością, dzielić się ciekawymi rozwiązaniami, uczyć od innych, poznać najnowsze nowinki z branży czy poprosić o opinię na temat twojej pracy. 
+Jeśli chcesz je zachować tylko dla siebie, oczywiście musisz zapłacić za korzystanie z serwera. Ale jeśli pozostaniesz przy darmowej opcji, <b>społeczność pasjonatów</b> takich jak ty pozwoli ci do woli chwalić się swoją twórczością, dzielić się ciekawymi rozwiązaniami, uczyć od innych, poznać najnowsze nowinki z branży czy poprosić o opinię na temat twojej pracy. 
 
 Mniej więcej tak samo jest kodem tworzonym przez programistów. 
 
@@ -63,7 +63,7 @@ Github to taka duża <b>programistyczna piaskownica</b>. Sztuką jest odnaleźć
 
 Jeśli jeszcze nie masz konta na Githubie, to właśnie teraz jest najlepszy moment na jego założenie. Bez posiadania konta będziecie mieli ograniczone możliwości przeszukiwania platformy.
 
-Github umożliwia przeszukanie przez: miejsce zamieszkania (<b>location</b>), język programowania (<b>language</b>), liczbę śledzących dany profil (<b>followers</b>), gwiazdki, które można uznać za odpowiednik Facebookowego lajka (<b>stars</b>), datę stworzenia profilu (<b>created</b>), pełne imię i nazwisko użytkownika (<b>fullname</b>). Teoretycznie im więcej gwiazdek ma repozytorium i im więcej śledzących na uzytkownik, tym lepiej. Trochę jak z pokemonami i ich mocami ;)
+Github umożliwia przeszukanie przez: miejsce zamieszkania (<b>location</b>), język programowania (<b>language</b>), liczbę śledzących dany profil (<b>followers</b>), gwiazdki, które można uznać za odpowiednik Facebookowego lajka (<b>stars</b>), datę stworzenia profilu (<b>created</b>), pełne imię i nazwisko użytkownika (<b>fullname</b>). Teoretycznie im więcej gwiazdek ma repozytorium i im więcej śledzących ma użytkownik, tym lepiej. Trochę jak z pokemonami i ich mocami ;)
 
 <b>Nick</b> (w tym przypadku "bart") będzie nam potrzebny do zweryfikowania tożsamości użytkownika, a potem jego e-maila. (o tym w kontynuacji artykułu)
 
