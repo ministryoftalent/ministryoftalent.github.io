@@ -103,7 +103,7 @@ Poniższy string można wykorzystać przy wykorzystaniu prostej wyszukiwarki w G
 
 W wielu przypadkach szybciej i skuteczniej będzie prześwietlić GitHuba za pomocą wyszukiwarki Google. 
 Zakładamy, że reputacja programisty oceniania jest w liczbie osób śledzących na Githubie. Teoretycznie, im więcej tym lepiej. W poniższym przypadku powinniśmy otrzymać wyniki z profilami powyżej 100 śledzących. 
-Jeśli szukamy bardziej doświadczonych programistów warto zwrócić uwagę na datę dołączenia do Githuba. Tutaj zaznaczamy, że interesują nas użytkownicy, którzy dołączyli do GitHuba w 2009 roku, czyli powinni być w branży programistycznej przez co najmniej ostatnie 8 lat.
+Jeśli szukamy bardziej doświadczonych programistów <b>warto zwrócić uwagę na datę dołączenia do Githuba</b>. Tutaj zaznaczamy, że interesują nas użytkownicy, którzy dołączyli do GitHuba w 2009 roku, czyli powinni być w branży programistycznej przez co najmniej ostatnie 8 lat.
 
 Poniże przykład do wykorzystania w przeglądarce Google:
 
