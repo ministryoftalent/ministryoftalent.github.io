@@ -15,6 +15,7 @@ permalink: /dlahr/
 
 [Storytelling w rekrutacji i sourcingu. Część 1.](http://ministryoftalent.co.uk/2017/06/05/storytelling-w-rekrutacji-1/)
 
+[Sourcing na GitHubie dla technicznego rekrutera. Podstawy](http://ministryoftalent.co.uk/2017/08/08/sourcing-na-githubie/)
 
 <b>Recruitment lifestyle!</b>
 
