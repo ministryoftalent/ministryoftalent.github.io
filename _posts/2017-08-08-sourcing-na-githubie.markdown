@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Sourcing na Githubie - podstawy"
+title:      "Sourcing na Githubie - jak zaangażować kandydata?"
 subtitle:  Sourcin na Githubie dla początkujących
 date:       2017-08-08 11:00:00 
 author:     "Ministry of Talent"
@@ -9,17 +9,23 @@ categories: praca, github, sourcing
 index: true
 ---
 
-<b>Jeśli jesteś technicznym rekruterem, a gwiazdki, forki i commity brzmią dla ciebie jak rapowy slang, to najwyższa pora to zmienić. Dzisiaj serwujemy podstawy sourcingu na GitHubie! Bon appétit!</b>
+<b>Czytaj jak ze szklanej kuli
+Jeśli jesteś technicznym rekruterem, a gwiazdki, forki i commity brzmią dla ciebie jak rapowy slang, to najwyższa pora to zmienić. Dzisiaj serwujemy podstawy sourcingu na GitHubie! Bon appétit!</b>
 
 Odpowiem na poniższe pytania:
 
--  Do czego służy GitHub?
 
--  Jak szukać programistów na Githubie?
+- Jak wykorzystać trendy w repozytoriach? Co to jest GitHub awards?
 
--  Jak sourcować z zaawansowaną wyszukiwarką? 
+- Jak interpretować dane z GitHuba?
 
--  Jak w poszukiwaniach wykorzystać "x-ray search"?
+- Jak wykorzystywać owe informacje w wiadomościach rekrutacyjnych? 
+
+- Jak odnaleźć adres e-mail na GitHubie?
+
+- Co to jest open source i co to ma wspólnego z Githubem
+
+- Co różni BitBucket od GitHuba?
 
 
  <img src="/images/monitor.jpg" class="img-responsive" alt="Picture">
