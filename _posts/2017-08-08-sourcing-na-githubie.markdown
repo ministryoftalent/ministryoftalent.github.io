@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Sourcing na Githubie - jak zaangażować kandydata?"
+title:      "Sourcing na Githubie - podstawy"
 subtitle:  Sourcin na Githubie dla początkujących
 date:       2017-08-08 11:00:00 
 author:     "Ministry of Talent"

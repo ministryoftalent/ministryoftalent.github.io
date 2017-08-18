@@ -13,13 +13,18 @@ index: true
 
 Odpowiem na poniższe pytania:
 
--  Do czego służy GitHub?
+- Jak wykorzystać trendy w repozytoriach? Co to jest GitHub awards?
 
--  Jak szukać programistów na Githubie?
+- Jak interpretować dane z GitHuba?
 
--  Jak sourcować z zaawansowaną wyszukiwarką? 
+- Jak wykorzystywać owe informacje w wiadomościach rekrutacyjnych? 
 
--  Jak w poszukiwaniach wykorzystać "x-ray search"?
+- Jak odnaleźć adres e-mail na GitHubie?
+
+- Co to jest open source i co to ma wspólnego z Githubem
+
+- Co różni BitBucket od GitHuba?
+
 
 
  <img src="/images/monitor.jpg" class="img-responsive" alt="Picture">
