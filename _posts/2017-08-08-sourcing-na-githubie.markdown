@@ -9,27 +9,18 @@ categories: praca, github, sourcing
 index: true
 ---
 
-<<<<<<< HEAD
-<b>Czytaj jak ze szklanej kuli
-Jeśli jesteś technicznym rekruterem, a gwiazdki, forki i commity brzmią dla ciebie jak rapowy slang, to najwyższa pora to zmienić. Dzisiaj serwujemy podstawy sourcingu na GitHubie! Bon appétit!</b>
-=======
 <b>Jeśli jesteś technicznym rekruterem, a gwiazdki, forki i commity brzmią dla ciebie jak rapowa zajawka, to najwyższa pora to zmienić. Dzisiaj serwujemy podstawy sourcingu na GitHubie! Bon appétit!</b>
->>>>>>> origin/master
 
 Odpowiem na poniższe pytania:
 
 
-- Jak wykorzystać trendy w repozytoriach? Co to jest GitHub awards?
+-  Do czego służy GitHub?
 
-- Jak interpretować dane z GitHuba?
+-  Jak szukać programistów na Githubie?
 
-- Jak wykorzystywać owe informacje w wiadomościach rekrutacyjnych? 
+-  Jak sourcować z zaawansowaną wyszukiwarką? 
 
-- Jak odnaleźć adres e-mail na GitHubie?
-
-- Co to jest open source i co to ma wspólnego z Githubem
-
-- Co różni BitBucket od GitHuba?
+-  Jak w poszukiwaniach wykorzystać "x-ray search"?
 
 
  <img src="/images/monitor.jpg" class="img-responsive" alt="Picture">
@@ -129,7 +120,7 @@ Warto dodać sobie do przeglądarki <a href="https://chrome.google.com/webstore/
 ----------------------------
 
 
-<b>Happy Sourcing! 
+<b>
 W kolejnej części dowiesz się:</b>
 
 
