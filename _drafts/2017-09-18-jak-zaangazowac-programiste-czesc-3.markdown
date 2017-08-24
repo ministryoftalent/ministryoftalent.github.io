@@ -1,19 +1,22 @@
 ---
 layout:     post
-title:      "Sourcing na Githubie - podstawy"
+title:      "Super-programiści czyli rzecz o trendach na GitHubie?(część 2)"
 subtitle:  Sourcin na Githubie dla początkujących
 date:       2017-08-08 11:00:00 
 author:     "Ministry of Talent"
-img:  rsz_github1.png
+img:  octowan1.png
 categories: praca, github, sourcing
 index: true
 ---
 
-<b>Jeśli jesteś technicznym rekruterem, a gwiazdki, forki i commity brzmią dla ciebie jak rapowy slang, to najwyższa pora to zmienić. Dzisiaj serwujemy podstawy sourcingu na GitHubie! Bon appétit!</b>
+ <img src="/images/supercat.png" class="img-responsive" alt="Picture">
+ 
+ https://octodex.github.com/okal-eltocat Gif pochodzi stąd
+ 
+<b>Wróżenie z kuli, połączyć kropki?
+Czy rekruter może posiadać wystraczające kompetencje do interpretacji kodu na githubie?</b>
 
 Odpowiem na poniższe pytania:
-
-- Jak wykorzystać trendy w repozytoriach? Co to jest GitHub awards?
 
 - Jak interpretować dane z GitHuba?
 
@@ -21,59 +24,43 @@ Odpowiem na poniższe pytania:
 
 - Jak odnaleźć adres e-mail na GitHubie?
 
-- Co to jest open source i co to ma wspólnego z Githubem
-
-- Co różni BitBucket od GitHuba?
 
 
 
- <img src="/images/monitor.jpg" class="img-responsive" alt="Picture">
 
-<b><font size="5,5">Dlaczego warto posługiwać się Githubem w rekrutacji?</font></b>
+<b><font size="5,5"> Dlaczego warto posługiwać się Githubem w rekrutacji?</font></b>
 
-<a href="https://github.com/" target="_blank">GitHub</a>  to społeczność zrzeszająca <b>26 milionów użytkowników</b> (marzec 2017) i miliony stworzonych przez nich projektów (<b>repositories</b>). Platforma może służyć za alternatywę LinkedIn, albo być uzupełnieniem profilu kandydata dając wgląd w jego praktyczne umiejętności. 
-
-Dobre repozytorium powie nam o programiście więcej niż jakiekolwiek CV. Ale co najważniejsze, dzięki GitHubowi można odnaleźć <b>prawdziwe programistyczne perełki</b> nieobecne w żadnych innych sieciach społecznościowych.
-
-Github może być doskonałym miejscem na sourcing szczególnie w przypadku stanowisk związanych z tworzeniem rozwiązań front-endowych (bo takich projektów jest na GitHubie najwięcej). 
+<a href="https://github.com/" target="_blank">GitHub</a>  
 
 
-<iframe src="https://giphy.com/embed/3oD3YveOJWdwIAfZ5e" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/silicon-valley-3oD3YveOJWdwIAfZ5e"></a></p>
+<b><font size="5,5">Trendy na Githubie czyli co w trawie piszczy</font></b>
 
 
-<b><font size="5,5">Do czego służy GitHub?</font></b>
+Pierwsza zakładka na <a href="https://github.com/trending" target="_blank">Github Trending</a> pozwoli ci poznać co w GitHubie piszczy czyli jakimi projektami ekscytują się jego użytkownicy. Wyrazem uznania repozytorium jest oczywiście liczba gwiazdek. Trendy są przejawem tego jak rozwija się technologia w sferze open source. Do każdego repozytorium można zaglądnąć i przejrzeć kto udziela w projekcie. Często są to programiści nieobecni w żadnych innych sieciach społecznościowych. 
 
-Github umożliwia umieszczenie kodu w repozytoriach na ich serwerach.
+W następnej zakładce znajdziesz <b>ranking deweloperów</b>. Na czele rankingu znajdziesz firmy które na co dzień współtworzą oprogramowanie open source. Możesz przeszukiwać obie kategorie w kontekście interesujących cię języków programowania.
+
+Kolejną znakomitą opcją są Open source showcases  
+
+
+<img src="/images/showcases.png" class="img-responsive" alt="Pict ure">
+
+
+
+<b><font size="5,5">Github Awards czyli ranking top programistów</font></b>
+
+
+<a href="http://git-awards.com/" target="_blank">Github Awards</a> nie jest narzędziem GitHuba. Pewien programista hobbystycznie zaciągnął z API Githuba dane i tak powstał ranking najlepszych programistów. Dadam, że całkiem rzetelny. 
+
+Dzięki wyszukiwarce z łatwością możemy odnaleźć programistów z największą reputacją w danym <b>mieście</b>, <b>kraju</b> i w danej <b>technologii programistycznej</b>. Jeśli sama/sam sie udzielasz w serwisie możesz sprawdzić jak wygląda twoja punktacja.
  
-Cały koncept można porównać do zapobiegawczych pasjonatów fotografii wrzucających swoje zdjęcia na wirtualne dyski, po to aby ich nie utracić w najbardziej niespodziewanym momencie. 
-
-Jako, że zdjęcia zostały wrzucone na darmowy serwer, aby je tam umieścić zrzekasz się praw autorskich i każdy ze społeczności może ściągnąć twoje fotografie, przerobić na kolaż, wydrukować i powiesić na ścianie. 
-
-Jeśli chcesz je zachować tylko dla siebie, oczywiście musisz zapłacić za korzystanie z serwera. Ale jeśli pozostaniesz przy darmowej opcji, <b>obecność społeczności pasjonatów</b> takich jak ty pozwoli ci do woli chwalić się swoją twórczością, dzielić się ciekawymi rozwiązaniami, uczyć od innych, poznać najnowsze nowinki z branży czy poprosić o opinię na temat twojej pracy. 
-
-Mniej więcej tak samo jest kodem tworzonym przez programistów. 
+Załóżmy, że interesują nas programiści JavaScript w Warszawie. <a href="http://git-awards.com/users?utf8=%E2%9C%93&type=city&language=javascript&city=Warszawa" target="_blank">Tutaj zobaczysz jak wygląda ów warszawski ranking.</a>
 
 
-<img src="/images/lifehacker.jpg" class="img-responsive" alt="Picture">
-Oryginał zdjęcia <a href="http://lifehacker.com/5983680/how-the-heck-do-i-use-github" target="_blank">tutaj</a> 
+<img src="/images/ranking.png" class="img-responsive" alt="Picture">
 
 
-<b><font size="5,5">Jak szukać programistów na Githubie czyli gwiazdki, forki i commity</font></b>
 
-Z kodem jak z fotografiami, zdarzają się mniej lub bardziej udane. 
-
-Programiści na Githuba wrzucają projekty z których są dumni, ale gro z nich wrzuca tamże  swoje wprawki w technologii w którą po prostu chcieli się pobawić. Obecność <b>repozytorium</b> z JavaScriptem na czele nie od razu oznacza, że mamy do czynienia z front-endowcem. 
-
-Github to taka duża <b>programistyczna piaskownica</b>. Sztuką jest odnaleźć te kilka nieodkrytych jeszcze diamentów zakopane pod kupą piachu. 
-
-Jeśli jeszcze nie masz konta na Githubie, to właśnie teraz jest najlepszy moment na jego założenie. Bez posiadania konta będziecie mieli ograniczone możliwości przeszukiwania platformy.
-
-Github umożliwia przeszukanie przez: miejsce zamieszkania (<b>location</b>), język programowania (<b>language</b>), liczbę śledzących dany profil (<b>followers</b>), gwiazdki, które można uznać za odpowiednik Facebookowego lajka (<b>stars</b>), datę stworzenia profilu (<b>created</b>), pełne imię i nazwisko użytkownika (<b>fullname</b>). Teoretycznie im więcej gwiazdek ma repozytorium i im więcej śledzących na uzytkownik, tym lepiej. Trochę jak z pokemonami i ich mocami ;)
-
-<b>Nick</b> (w tym przypadku "bart") będzie nam potrzebny do zweryfikowania tożsamości użytkownika, a potem jego e-maila. (o tym w kontynuacji artykułu)
-
-
-<img src="/images/github_all.png" class="img-responsive" alt="Pict ure">
 
 Na GitHubie sporo jest profili nie aktualizowanych przez lata i właściwie jedyne co możemy się z nich dowiedzieć to adres e-mail. Z pomocą przychodzi moduł monitorujący aktywność użytkownika. Na dole profilu można zobaczyć okienko wkazujące kiedy ostatni raz zanotowano <b>commity</b> użytkownika na GitHubie (w tym przypadku <i>"971 contributions in the last year"</i>). Im więcej zielonych kwadracików, tych więcej jego/jej aktywności. Możemy kliknąć na kwadracik i zobaczyć nad czym pracował użytkownik danego dnia. Będzie ono o tyle istotne jeśli zależy nam na kandydacie aktywnie kodującym w danym języku lub committującym do danego projektu open sourcowego. 
 

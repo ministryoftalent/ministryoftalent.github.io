@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Sourcing na Githubie - podstawy"
-subtitle:  Sourcin na Githubie dla początkujących
+title:      "Sourcing na Githubie - podstawy (część 1)"
+subtitle:  Sourcing i rekrutacja na Githubie dla początkujących
 date:       2017-08-08 11:00:00 
 author:     "Ministry of Talent"
 img:  rsz_github1.png
@@ -139,6 +139,5 @@ W kolejnej części dowiesz się:</b>
 
 <b>NA DOKŁADKĘ:</b>
 
-<a href="https://www.eremedia.com/sourcecon/secrets-you-may-not-know-about-github-sourcing/" target="_blank"> Secrets you may know about GitHub Sourcing - EREmedia </a>
 
-<a href="http://booleanstrings.com/2017/06/03/lesser-known-github-sourcing-tips/" target="_blank"> Więcej o X-rayu GitHuba </a> 
+Obrazek z OctobiWan pochodzi<a href="https://octodex.github.com/octobiwan" target="_blank"> stąd</a>.
