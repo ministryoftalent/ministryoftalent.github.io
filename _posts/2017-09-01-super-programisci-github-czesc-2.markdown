@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Super-programiści czyli rzecz o trendach na GitHubie (część 2)"
-subtitle:  Sourcin na Githubie dla początkujących
+subtitle:  Sourcing na Githubie 
 date:       2017-09-01 11:00:00 
 author:     "Ministry of Talent"
 img:  supercat.png
