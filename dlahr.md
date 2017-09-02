@@ -17,6 +17,8 @@ permalink: /dlahr/
 
 [Sourcing na GitHubie dla technicznego rekrutera. Podstawy](http://ministryoftalent.co.uk/2017/08/08/sourcing-na-githubie/)
 
+[Trendy i GitHubAwards w rektutacji] (http://ministryoftalent.co.uk/2017/09/01/super-programisci-github-czesc-2/)
+
 <b>Recruitment lifestyle!</b>
 
 [Tajniki rekrutacji w Izraelu czyli przez armię do start-upu](http://ministryoftalent.co.uk/2017/01/13/izrael-rekrutacja/)
