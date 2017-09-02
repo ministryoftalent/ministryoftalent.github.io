@@ -31,10 +31,10 @@ Z pomocą Oktokota odpowiem na poniższe pytania:
 
 <a href="https://github.com/" target="_blank">GitHub</a>  
 
-
+<br>
 <b><font size="5,5">Trendy na Githubie czyli co w trawie piszczy</font></b>
 
-
+<br>
 Pierwsza zakładka na <a href="https://github.com/trending" target="_blank">Github Trending</a> pozwoli ci poznać co w GitHubie piszczy czyli jakimi projektami ekscytują się jego użytkownicy. Wyrazem uznania repozytorium jest oczywiście liczba gwiazdek. Trendy są przejawem tego jak rozwija się technologia w sferze open source. Do każdego repozytorium można zaglądnąć i przejrzeć kto udziela w projekcie. Często są to programiści nieobecni w żadnych innych sieciach społecznościowych. 
 
 W następnej zakładce znajdziesz <b>ranking deweloperów</b>. Na czele rankingu znajdziesz firmy które na co dzień współtworzą oprogramowanie open source. Możesz przeszukiwać obie kategorie w kontekście interesujących cię języków programowania.
@@ -45,7 +45,7 @@ Kolejną znakomitą opcją są Open source showcases, które podają nam jak na 
 <img src="/images/showcases.png" class="img-responsive" alt="Pict ure">
 
 
-
+<br>
 <b><font size="5,5">Github Awards czyli ranking top programistów</font></b>
 
 
@@ -58,7 +58,7 @@ Załóżmy, że interesują nas programiści JavaScript w Warszawie. <a href="ht
 
 <img src="/images/ranking.png" class="img-responsive" alt="Picture">
 
-
+<br>
 W kolejnej części dowiesz się:</b>
 
 
@@ -68,11 +68,3 @@ W kolejnej części dowiesz się:</b>
 - Jak wykorzystywać owe informacje w wiadomościach rekrutacyjnych? 
 
 - Jak odnaleźć adres e-mail na GitHubie?
-
-
-
-NA DOKŁADKĘ:
-
-<a href="https://www.eremedia.com/sourcecon/secrets-you-may-not-know-about-github-sourcing/" target="_blank"> Secrets you may know about GitHub Sourcing - EREmedia </a>
-
-<a href="http://booleanstrings.com/2017/06/03/lesser-known-github-sourcing-tips/" target="_blank"> Więcej o X-rayu GitHuba </a> 
