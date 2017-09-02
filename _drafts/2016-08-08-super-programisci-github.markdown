@@ -2,14 +2,14 @@
 layout:     post
 title:      "Super-programiści czyli rzecz o trendach na GitHubie (część 2)"
 subtitle:  Sourcing na Githubie dla początkujących
-date:       2016-08-08 11:00:00 
+date:       2017-09-01 11:00:00 
 author:     "Ministry of Talent"
 img:  supercat.png
 categories: praca, github, sourcing
 index: true
 ---
 
- <img src="/images/supercat.png" class="img-responsive" alt="Picture">
+<img src="/images/supercat.png" class="img-responsive" alt="Picture">
  
 <a href="https://octodex.github.com/okal-eltocat" target="_blank"> Super Octokot pochodzi stąd</a>.
  
@@ -23,7 +23,7 @@ Z pomocą Oktokota odpowiem na poniższe pytania:
 
 - Czym są GitHub Awards?
 
-- Co różni BitBucket od GitHuba?
+
 
 
 
@@ -42,7 +42,7 @@ W następnej zakładce znajdziesz <b>ranking deweloperów</b>. Na czele rankingu
 Kolejną znakomitą opcją są Open source showcases, które podają nam jak na tacy zestaw repozytoriów z danej dziedziny np. Virtual Reality.
 
 
-<img src="/images/showcases.png" class="img-responsive" alt="Pict ure">
+<img src="/images/showcases.png" class="img-responsive" alt="Picture">
 
 
 <br>
