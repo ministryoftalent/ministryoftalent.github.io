@@ -65,7 +65,7 @@ Jeśli, załóżmy, interesują nas programiści JavaScript w Warszawie, w lokal
 
 <br>
 
-Powyższe techniki researchu mogą pozwolić wyłapać nam osoby, które pasjonują się konkretnym wycinkiem szeroko pojętego software engineering. Będą to także <b>osoby, których praca jest szanowana przez resztę społeczności, co zazwyczaj oznacza rzeczywiście wysokie umiejętności programistyczne</b>.  Jeśli szukasz własnie takich pracowników, owe rozwiązania będą dla Ciebie! 
+Powyższe techniki researchu mogą pozwolić wyłowić nam osoby, które pasjonują się konkretnym wycinkiem szeroko pojętego software engineering. Będą to także <b>osoby, których praca jest szanowana przez resztę społeczności, co zazwyczaj oznacza rzeczywiście wysokie umiejętności programistyczne</b>.  Jeśli szukasz własnie takich pracowników, owe rozwiązania będą dla Ciebie! 
 
 
 <b>W następnym odcinku odpowiem na poniższe pytania:</b>
