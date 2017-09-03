@@ -38,7 +38,7 @@ Pierwsza zakładka na <a href="https://github.com/trending" target="_blank">Gith
 W następnej zakładce znajdziesz <b>ranking deweloperów</b>. Na czele rankingu znajdziesz firmy które na co dzień współtworzą oprogramowanie open source. Możesz przeszukiwać obie kategorie w kontekście interesujących cię języków programowania.
 
 Facebook kilka lat temu zatrudnił największego kontrybutora do ich open sourcowej technologii React, który przez wiele lat współtworzył projekt zupełnie hobbystycznie. Owy programista był wówczas uznawany za gwiazdę wśród frontendowców, a swoją pozycję zawdzięczał właśnie dokonaniom na GitHubie.
-Tutaj możesz zobaczyć <a href="https://github.com/facebook/react/graphs/contributors" target="_blank"> współtwórców (contributors) wyżej wspomnianego frameworka.</a> 
+Tutaj możesz zobaczyć <a href="https://github.com/facebook/react/graphs/contributors" target="_blank"> współtwórców (contributors) wyżej wspomnianej biblioteki JavaScript.</a> 
 
 <br>
 
