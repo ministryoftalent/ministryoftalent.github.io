@@ -23,7 +23,7 @@ Konferencja to nie tylko przerwy kawowe i ciastka. To także “mięsiste” war
 Na konferencjach <b>HR na Szpilkach</b> duży nacisk położony jest na doświadczonych prelegentów, którzy dzielą się swoimi rozwiązaniami w obszarze zaangażowania pracowników i budowy kultury organizacyjnej. Niewątpliwie jednak tematem przewodnim spotkań jest niezwykle mi bliski temat jakim jest <b>przywództwo kobiet</b> i nasza rola w budowie organizacji. Na bydgoskim spotkaniu (to już zaraz, 28-29 września!) Magdalena Nowacka, trenerka, HR konsultant i  doradca biznesowy,  przepracuje z uczestniczkami warsztatu kwestię asertywności w środowisku biznesowym. 
 
 
-Hej, czy ktoś może mi sprzedać <b>patent na teleportację</b>?  Niestety, w moim kalendarzu na jesień widnieje tylko deszczowy Londyn i nie będzie mi dane uczestniczyć w najbliższych edycjach konferencji w Polsce. Drodzy organizatorzy, może teraz pora na edycję <a href="http://www.hrnaszpilkach.pl/" target="_blank">HR na Szpilkach</a> na wyspach brytyjskich? 
+Hej, czy ktoś może mi sprzedać <b>patent na teleportujące się trampki</b>?  Niestety, w moim kalendarzu na jesień widnieje tylko deszczowy Londyn i nie będzie mi dane uczestniczyć w najbliższych edycjach konferencji w Polsce. Drodzy organizatorzy, może teraz pora na edycję <a href="http://www.hrnaszpilkach.pl/" target="_blank">HR na Szpilkach</a> na wyspach brytyjskich? 
 
 <br>
 
