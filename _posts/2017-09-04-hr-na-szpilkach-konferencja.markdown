@@ -9,7 +9,7 @@ categories: praca, github, sourcing
 index: true
 ---
 
-<b>Choć tytuł konferencji to HR na Szpilkach, to w mojej opinii, jako miłośniczki trampek i obuwia sportowego, powinnien brzmieć: rzuć szpilki w kąt i pozwól sobie na rozwój zawodowy! </b>
+<b>Choć tytuł konferencji to HR na Szpilkach, to w mojej opinii, jako miłośniczki trampek i obuwia sportowego, powinnien brzmieć: rzuć szpilki w kąt i zafunduj sobie rozwój zawodowy! </b>
 
 <img src="/images/rsz_stocksnap_8lncfclz45.jpg" class="img-responsive" alt="Picture">
  
