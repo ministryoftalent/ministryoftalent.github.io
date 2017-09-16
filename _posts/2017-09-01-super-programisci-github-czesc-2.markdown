@@ -54,7 +54,7 @@ Kolejną znakomitą opcją są <b>Open source showcases</b>, które podają nam 
 <b><font size="5,5">Github Awards czyli ranking top programistów</font></b>
 
 
-<a href="http://git-awards.com/" target="_blank">Github Awards</a> nie jest narzędziem GitHuba. Pewien programista hobbystycznie zaciągnął z API Githuba dane i tak powstał ranking najlepszych programistów. Dadam, że całkiem rzetelny. 
+<a href="http://git-awards.com/" target="_blank">Github Awards</a> nie jest narzędziem GitHuba. Pewien programista hobbystycznie zaciągnął z API Githuba dane i tak powstał ranking najlepszych programistów. Dodam, że całkiem rzetelny. 
 
 Dzięki wyszukiwarce z łatwością możemy odnaleźć programistów z największą reputacją w danym <b>mieście</b>, <b>kraju</b> i w danej <b>technologii programistycznej</b>. Jeśli sama/sam sie udzielasz w serwisie możesz sprawdzić jak wygląda twoja punktacja.
  
