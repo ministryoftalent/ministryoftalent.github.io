@@ -27,5 +27,5 @@ Hej, czy ktoś może mi sprzedać <b>patent na teleportujące się trampki</b>? 
 
 <br>
 
-<img src="/images/Screen Shot 2017-09-04 at 22.53.42.png" class="img-responsive" alt="Picture">
+<a href="http://www.hrnaszpilkach.pl/" target="_blank"> <img src="/images/rsz_hr_szpilki_foto_1.png" class="img-responsive" alt="Picture"></a>
 
