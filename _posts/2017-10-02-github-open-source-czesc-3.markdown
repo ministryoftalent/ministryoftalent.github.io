@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Open source czyli rzecz o wolnym oprogramowaniu (część 3)"
-subtitle:  Sourcing na Githubie dla początkujących
+subtitle:  SOpen source czyli rzecz o wolnym oprogramowaniu 
 date:       2017-10-02 11:00:00 
 author:     "Ministry of Talent"
 img:  openhr.png
