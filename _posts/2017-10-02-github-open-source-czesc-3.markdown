@@ -60,7 +60,7 @@ Natomiast jeszcze w tym roku (2017 dla przypomnienia!) można się spodziewać <
 
 
 
-<h2 class="section-heading">W ostatniej części githubowej epoeji uszłyszycie więcej o:</h2>
+<h2 class="section-heading">W ostatniej części githubowej epoei uszłyszycie więcej o:</h2>
 
 - Jak interpretować dane z GitHuba?
 
