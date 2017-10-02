@@ -13,7 +13,7 @@ index: true
 
  <img src="/images/openhr.png" class="img-responsive" alt="Picture">
  
- <a href="https://octodex.github.com/collabocats" target="_blank"> Gif pochodzi stąd</a>
+ <a href="https://octodex.github.com/collabocats" target="_blank"> Obrazek pochodzi stąd</a>
  
 Odpowiem dziś na poniższe pytania:
 
