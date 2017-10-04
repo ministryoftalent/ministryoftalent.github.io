@@ -28,9 +28,9 @@ Odpowiem dziś na poniższe pytania:
 
 <h2 class="section-heading">Co to jest open source i co to ma wspólnego z Githubem?</h2>
 
-Misją open source jest swobodny dostępu do oprogramowania. GitHub umożliwia umieszczenie źródła kodu dla projektów opensourcowych na swoich serwerach, ale paradoksalnie sam nie jest do końca otwartym oprogramowaniem, ponieważ nie udostępnia wszystkich swoich repozytorium!
+Misją open source jest swobodny dostęp do oprogramowania. GitHub umożliwia umieszczenie źródła kodu dla projektów opensourcowych na swoich serwerach, ale paradoksalnie sam nie jest do końca otwartym oprogramowaniem, ponieważ nie udostępnia wszystkich swoich repozytorium!
  
-GitHub na pewno jednak przyczynił się do popularności ideei open source. Jeśli jesteś zainteresowana/y współtworzeniem danego projektu, na Githubie możesz po prostu się do niego przyłączyć i go współtworzyć. Działa to także w drugą stronę. Jeśli szukasz pokrewnej duszy do budowy twojego pomysłu, GitHub będzie dobrym miejscem na podzielenie się nań.
+GitHub na pewno jednak przyczynił się do popularności idei open source. Jeśli jesteś zainteresowana/y współtworzeniem danego projektu, na Githubie możesz po prostu się do niego przyłączyć i go współtworzyć. Działa to także w drugą stronę. Jeśli szukasz pokrewnej duszy do budowy twojego pomysłu, GitHub będzie dobrym miejscem na podzielenie się nań.
 
 Na co dzień wykorzystujesz oprogramowanie open sourcowe zapewne nawet o tym nie wiedząc. OpenOffice, Chrome, Firefox, Linux? To wszystko produkty open sourcowe.
 
