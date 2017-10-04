@@ -38,7 +38,7 @@ Na co dzień wykorzystujesz oprogramowanie open sourcowe zapewne nawet o tym nie
 
 - Mogą nauczyć się umiejętności, których nigdy nie nauczyliby się na studiach lub w pracy
 - Chcą poznać ludzi o podobnych zainteresowaniach i podzielić się swoją wiedzą
-- Chcą zbudować swoją reputację na rynku. Fragment kodu może zademostrować prawdziwe umiejętności programistycze.
+- Chcą zbudować swoją reputację na rynku. Fragment kodu może zademonstrować prawdziwe umiejętności programistycze.
 - Pragną zrobić coś dobrego dla społeczności lub poczuć się częścią większego np.pomagając w budowie frameworka wykorzystywanego przez miliony deweloperów
 
 <h2 class="section-heading">Wiadro pełne kodu czyli wady i zalety BitBucket</h2>
