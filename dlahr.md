@@ -19,6 +19,10 @@ permalink: /dlahr/
 
 [Trendy i GitHubAwards w rektutacji. Cykl o Githubie. Część 2.](http://ministryoftalent.co.uk/2017/09/01/super-programisci-github-czesc-2/)
 
+[Open source czyli rzecz o otwartym oprogramowaniu. Część 3.](http://ministryoftalent.co.uk/2017/10/02/github-open-source-czesc-3/)
+
+
+
 <b>Recruitment lifestyle!</b>
 
 [Tajniki rekrutacji w Izraelu czyli przez armię do start-upu](http://ministryoftalent.co.uk/2017/01/13/izrael-rekrutacja/)
