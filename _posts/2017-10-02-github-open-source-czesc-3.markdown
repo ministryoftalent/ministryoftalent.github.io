@@ -4,14 +4,14 @@ title:      "Open source czyli rzecz o otwartym oprogramowaniu (część 3)"
 subtitle:  SOpen source czyli rzecz o otwartym oprogramowaniu 
 date:       2017-10-02 11:00:00 
 author:     "Ministry of Talent"
-img:  openhr.png
+img:  opensource123.png
 categories: praca, github, sourcing
 index: true
 ---
 
 <b>W przeciwieństwie do starożytnych alchemików, twórcy otwartego oprogramowania dzielą się swoim przepisem na solidny kod. Co o Open Source powinien wiedzieć dobry rekruter?</b>
 
- <img src="/images/openhr.png" class="img-responsive" alt="Picture">
+ <img src="/images/opensource123.png" class="img-responsive" alt="Picture">
  
  <a href="https://octodex.github.com/collabocats" target="_blank"> Obrazek pochodzi stąd</a>
  
