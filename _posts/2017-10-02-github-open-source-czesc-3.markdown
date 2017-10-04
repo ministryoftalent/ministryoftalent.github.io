@@ -49,7 +49,7 @@ Od kiedy BitBucket został zakupiony przez Atlassiana korzystanie z UI serwisu j
 
 <h2 class="section-heading">Otwarte ramiona świata HR?</h2>
 
-HR nie jest tak szybko rozwijającą się branżą jak IT, ale coraz częściej udaje się przemycić do naszego świata jakieś dobre praktyki. I tak tez stało się z open sourcem. Temat w sumie nadal raczkuje - od dojrzałości Open Source w klasycznym wydaniu IT dzielą nas lata świetlne. 
+HR nie jest tak szybko rozwijającą się branżą jak IT, ale coraz częściej udaje się przemycić do naszego świata jakieś dobre praktyki. I tak też stało się z ideą Human Resources Open Source. Temat w sumie nadal raczkuje - od dojrzałości Open Source w klasycznym wydaniu IT dzielą nas lata świetlne. 
 
 Zasadniczo celem HROS jest udostępnienie wiedzy domenowej, dobry praktyk i narzędzi za darmo dla społeczności działającej w obszarze HR, po to by budować, jakkolwiek górnolotnie to zabrzmi, lepszy świat.
 Link do manifestu HR Open Source: <a href="http://hros.co/#what-is-hros" target="_blank">tutaj</a>.  
