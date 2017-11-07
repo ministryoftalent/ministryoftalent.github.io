@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Open source czyli rzecz o otwartym oprogramowaniu (część 3)"
-subtitle:  SOpen source czyli rzecz o otwartym oprogramowaniu 
+subtitle:  Open source czyli rzecz o otwartym oprogramowaniu 
 date:       2017-10-02 11:00:00 
 author:     "Ministry of Talent"
 img:  opensource123.png
