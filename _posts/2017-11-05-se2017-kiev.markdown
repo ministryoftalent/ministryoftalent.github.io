@@ -1,0 +1,50 @@
+---
+layout:     post
+title:      "Notes from SE2017 Kiev. Scale company and its culture."
+subtitle:  Notes from SE2017 - Kiev
+date:       2017-11-05 11:00:00 
+author:     "Ministry of Talent"
+img:  se2017_1.png
+categories: praca, github, sourcing
+index: true
+---
+
+<b>I have visited Kiev a couple years ago for a business trip. Due to long working hours, I did not have an opportunity for a proper sightseeing, so when I departing it felt like it's not "good bye" but "see you later" to Kiev!</b>
+
+  
+Earlier this year, totally out of blue, I received an invite to perhaps the biggest IT conference in Ukraine, which I gladly accepted. <a href="https://se2017.indevlab.com/" target="_blank">SE2017</a> happened on 28-30th October in Kiev.
+ 
+ <img src="/images/rsz_se2017_churches.jpg" class="img-responsive" alt="Picture">
+ 
+ The event attracted folks working in technology and IT industry along with a widely represented local startup scene. The venue, Art Platforma Kiev, is surprisingly quirky. The old factory buildings turned into creative spaces with gathering thousands of participants. 
+ 
+ <img src="/images/rsz_industr.jpg" class="img-responsive" alt="Picture"> <img src="/images/rsz_se2017_blue.jpg" class="img-responsive" alt="Picture">
+  
+ Some would start wondering, what recruiters are doing on technology conference if not looking for potential hires? They are obviously sharing their knowledge and experience on the topic which piques interest of all scaling organisations. Those who dropped by to listen my speech were not only software developers, actually majority of the audience were people involved in building startups, running HR function and actively hiring for their companies.
+ 
+ Generally, I was talking about good hiring practices for companies facing phase of high growth. I went through a couple of cases of organisation transformation based on their history of setting up values and the mission. I ended up discussing the contemporary model of sourcing function as an essential business partner to hiring manager. I loved the engagement of audience and how relevant questions they kept asking!
+ 
+ <img src="/images/se2017conference.jpg" class="img-responsive" alt="Picture">
+ 
+ Here you can have a sneak peek to my <a href="https://www.slideshare.net/desiak/mystery-of-hiring-building-culture-for-scale-81825174" target="_blank"> presentation</a> from the conference. 
+
+ 
+ I was pure plesaure to talk to such an amazing audience in Kiev! I regret I could not stay for another day for mingling and learning more about local market. The only downside of SE2017 was that during three days long conference there were literally just three talks in English. It’s a shame, because most of the topics seemed to be super interesting, but were available for russian speakers only. To the organisers: if you like to have more international audience please plan more English talks ahead!
+ 
+ See you later, Kiev!
+  
+  
+  
+  
+  
+ 
+ 
+ 
+  
+  
+  
+   
+   
+  
+
+
