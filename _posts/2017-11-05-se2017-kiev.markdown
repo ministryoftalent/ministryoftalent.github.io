@@ -9,7 +9,7 @@ categories: praca, github, sourcing
 index: true
 ---
 
-<b>I have visited Kiev a couple years ago for a business trip. Due to long working hours, I did not have an opportunity for a proper sightseeing, so when I departing it felt like it's not "good bye" but "see you later" to Kiev!</b>
+<b>I have visited Kiev a couple years ago for a business trip. Due to long working hours, I did not have an opportunity for a proper sightseeing, so when I departing it felt like it's not "good bye", but "see you later" Kiev!</b>
 
   
 Earlier this year, totally out of blue, I received an invite to perhaps the biggest IT conference in Ukraine, which I gladly accepted. <a href="https://se2017.indevlab.com/" target="_blank">SE2017</a> happened on 28-30th October in Kiev.
