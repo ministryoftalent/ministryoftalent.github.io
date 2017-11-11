@@ -20,7 +20,9 @@ Earlier this year, totally out of blue, I received an invite to perhaps the bigg
  
  <img src="/images/rsz_industr.jpg" class="img-responsive" alt="Picture"> <img src="/images/rsz_se2017_blue.jpg" class="img-responsive" alt="Picture">
   
- Some would start wondering, what recruiters are doing on technology conference if not looking for potential hires? They are obviously sharing their knowledge and experience on the topic which piques interest of all scaling organisations. Those who dropped by to listen my speech were not only software developers, actually majority of the audience were people involved in building startups, running HR function and actively hiring for their companies.
+ Some would start wondering, what recruiters are doing on technology conference if not looking for potential hires? They are obviously sharing their knowledge and experience on the topic which piques interest of all scaling organisations which is hiring. 
+ 
+ Those who dropped by to listen my speech were not only software developers, actually majority of the audience were people involved in building startups, running HR function and actively hiring for their companies.
  
  Generally, I was talking about good hiring practices for companies facing phase of high growth. I went through a couple of cases of organisation transformation based on their history of setting up values and the mission. I ended up discussing the contemporary model of sourcing function as an essential business partner to hiring manager. I loved the engagement of audience and how relevant questions they kept asking!
  
