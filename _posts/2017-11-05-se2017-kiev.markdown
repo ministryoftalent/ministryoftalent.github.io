@@ -4,7 +4,7 @@ title:      "Notes from SE2017 Kiev. Scale company and its culture."
 subtitle:  Notes from SE2017 - Kiev
 date:       2017-11-05 11:00:00 
 author:     "Ministry of Talent"
-img:  se2017_1.png
+img:  se2017_3.png
 categories: praca, github, sourcing
 index: true
 ---
