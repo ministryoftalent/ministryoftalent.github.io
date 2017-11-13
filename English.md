@@ -19,6 +19,8 @@ Please find some of my posts in English below (sorry for a grammar mistakes and 
 
 <a href="http://ministryoftalent.co.uk/2016/10/15/agilehr_en/">Agile HR</a> //About a romance of Human Resources with Agile metodologies.
 
+<a href="http://ministryoftalent.co.uk/2017/11/05/se2017-kiev/"> Notes from SE2017 Kiev.</a> //My talk on scaling company and its culture by hiring
+
 <br>
 <br>
 <br>
