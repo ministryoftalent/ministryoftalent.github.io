@@ -23,9 +23,9 @@ Przegryzając karpia barszczykiem z uszkami, zapraszam do przeczytania moich ref
  
  <h2 class="section-heading">Formuła Un-conference</h2>
   
- ROCday był napakowany mini-warsztatami prowadzonymi przez specjalistów w swojej dziedzinie przybywających z całej Polski. Pojawły się również dwa panele dyskusyjne z gośćmi. Miałam przyjemność uczestniczyć w panelu “Wyszukiwanie kandydatów - jak robią to najlepsi?” wraz z Mateuszem Machą i Ekinem Bayıldıran.
+ ROCday był napakowany mini-warsztatami prowadzonymi przez specjalistów w swojej dziedzinie przybywających z całej Polski. Pojawiły się również dwa panele dyskusyjne z gośćmi. Miałam przyjemność uczestniczyć w panelu “Wyszukiwanie kandydatów - jak robią to najlepsi?” wraz z Mateuszem Machą i Ekinem Bayıldıran.
  
- Wisieńką na torcie był wykład "Rekrutacja i zarządzanie talentami oparte na dowodach" Piotrka Prokopowicza, wykładowcy akademickiego i autora książki traktującej właśnie o tej materii. I zdaje się, że prezentacja nie zawiodła oczekiwań publiczności!
+ Wisieńką na torcie był wykład "Rekrutacja i zarządzanie talentami oparte na dowodach" Piotra Prokopowicza, wykładowcy akademickiego i autora książki traktującej właśnie o tej materii. I zdaje się, że prezentacja nie zawiodła oczekiwań publiczności!
  
  
  <img src="/images/roc_days_1.jpg" class="img-responsive" alt="Picture">
@@ -38,7 +38,7 @@ Przegryzając karpia barszczykiem z uszkami, zapraszam do przeczytania moich ref
  
 <h2 class="section-heading"> W poszukiwaniu różnorodności</h2>
   
- Na ROCday podzieliłam się moim doświadczeniem w rekutacji w obszarze diversity w branży technologicznej. Moją prezentację można już teraz przejrzeć <a href="https://www.slideshare.net/secret/6jMKCqYObi0f0j" target="_blank">tutaj</a>, ale więcej o zagadnieniu <b>diversity sourcing</b> postaram się napisać w <b>osobnym poście</b>. 
+ Na ROCday podzieliłam się moim doświadczeniem w rekrutacji w obszarze diversity w branży technologicznej. Moją prezentację można już teraz przejrzeć <a href="https://www.slideshare.net/secret/6jMKCqYObi0f0j" target="_blank">tutaj</a>, ale więcej o zagadnieniu <b>diversity sourcing</b> postaram się napisać w <b>osobnym poście</b>. 
  
  Diversity recruitment to temat dopiero co raczkujący w Polsce i zwyczajnie jest nieco inaczej interpretowany niż na Stanach czy w Wielkiej Brytanii. Nic dziwnego, ponieważ przed naszymi specjalistami zajmujących się rozwojem zespołów stoją zupełnie inne wyzwania rekrutacyjne niż u kolegów zza wielkiej wody.
 
