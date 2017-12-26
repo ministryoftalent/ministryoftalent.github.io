@@ -23,9 +23,9 @@ Przegryzając karpia barszczykiem z uszkami, zapraszam do przeczytania moich ref
  
  <h2 class="section-heading">Formuła Un-conference</h2>
   
- ROCday był napakowany mini-warsztatami ze specjalistami w swojej dziedzinie przybywający z całej Polski, poprzeplatany dwoma panelami dyskusyjnymi z gośćmi. Miałam przyjemność uczestniczyć w panelu “Wyszukiwanie kandydatów - jak robią to najlepsi?” wraz z Mateuszem Machą i Ekinem Bayıldıran.
+ ROCday był napakowany mini-warsztatami prowadzonymi przez specjalistów w swojej dziedzinie przybywających z całej Polski. Pojawły się również dwa panele dyskusyjne z gośćmi. Miałam przyjemność uczestniczyć w panelu “Wyszukiwanie kandydatów - jak robią to najlepsi?” wraz z Mateuszem Machą i Ekinem Bayıldıran.
  
- Wykładem na który chyba wszyscy czekali była "Rekrutacja i zarządzanie talentami oparte na dowodach" Piotrka Prokopowicza, wykładowcy akademickiego i autora książki traktującej właśnie o tej materii. I zdaje się, że prezentacja nie zawiodła oczekiwań publiczności!
+ Wisieńką na torcie był wykład "Rekrutacja i zarządzanie talentami oparte na dowodach" Piotrka Prokopowicza, wykładowcy akademickiego i autora książki traktującej właśnie o tej materii. I zdaje się, że prezentacja nie zawiodła oczekiwań publiczności!
  
  
  <img src="/images/roc_days_1.jpg" class="img-responsive" alt="Picture">
@@ -33,7 +33,7 @@ Przegryzając karpia barszczykiem z uszkami, zapraszam do przeczytania moich ref
 
 
 
- To co było wyjątkowe w całym dniu to formuła “un-conference”. ROCday utrzymane było w nurcie spotkań <a href="https://trumunity.com/" target="_blank">społeczności rekrutacyjnej pod szyldem #tru </a> odbywających się cyklicznie w całej Europie. Warsztaty na ROCday miały luźną formę otwartej dyskusji i wymiany doświadczeń uczestników, odrzucając jednocześnie sztywne reguły spotkań konferencyjnych.
+ To co sprawiło, że cały dzień był tak wyjątkowy to formuła “un-conference”. ROCday utrzymane było w nurcie spotkań <a href="https://trumunity.com/" target="_blank">społeczności rekrutacyjnej pod szyldem #tru </a> odbywających się cyklicznie w całej Europie. Warsztaty na ROCday miały luźną formę otwartej dyskusji i wymiany doświadczeń uczestników, odrzucając jednocześnie sztywne reguły spotkań konferencyjnych.
  Jeśli w trakcie dyskusji uznałaś, że jednak ten temat to nie to, można było swobodnie, bez wyrzutów sumienia, przewędrować do dyskusji odbywającej się równolegle.
  
 <h2 class="section-heading"> W poszukiwaniu różnorodności</h2>
