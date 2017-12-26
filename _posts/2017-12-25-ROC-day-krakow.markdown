@@ -17,7 +17,7 @@ Przegryzając karpia barszczykiem z uszkami, zapraszam do przeczytania moich ref
  <img src="/images/roc_days_logo.jpg" class="img-responsive" alt="Picture">
  
  Dzięki niezawodnej grupie  <a href="https://www.facebook.com/groups/polandsourcingcommunity" target="_blank">Polish Sourcing Community</a> udało się stworzyć wartościowe wydarzenie, które przyciągnęło ponad setkę osób z branży rekrutacyjnej do Krakowa 20 listopada 2017. 
- Owocem wydarzenia jest <a href="http://roc-day.pl/prezentacje/podstawy-wyszukiwania-kandydatow-cwiczenia/" target="_blank"> strona gromadząca więdzę specjalistyczną</a>, od stycznia będzie także wysyłamy newsletter z ciekawymi wydarzeniami i polecanymi lekturami. 
+ Owocem wydarzenia jest <a href="http://roc-day.pl/prezentacje/podstawy-wyszukiwania-kandydatow-cwiczenia/" target="_blank"> strona gromadząca wiedzę specjalistyczną</a>, od stycznia będzie także wysyłany newsletter z ciekawymi wydarzeniami i polecanymi lekturami dla HR/rekrutacji. 
  Wielkie brawa dla Kasi Borowicz za organizację wydarzenia takiego formatu!
  
  
