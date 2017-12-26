@@ -10,7 +10,7 @@ index: true
 ---
 
 <b>Wstyd się przyznać, ale to podsumowanie miało powstać dobrych kilka tygodni temu. 
-Listopad zamienił się niepostrzeżenie w grudzień, w końcu dotarliśmy do końcówki roku, a ja wciąż nie napisałam notki z ROCday z Krakowa. 
+Listopad zamienił się niepostrzeżenie w grudzień, w końcu dotarliśmy do świąt, a ja wciąż nie napisałam notki z ROCday z Krakowa. 
 Przegryzając karpia barszczykiem z uszkami, zapraszam do przeczytania moich refleksji nad prawdopodobnie największym jak do tej pory wydarzeniem rekrutacyjno-sourcingowym w Polsce.</b>
   
  
