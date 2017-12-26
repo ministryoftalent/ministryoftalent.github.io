@@ -35,7 +35,12 @@ permalink: /dlahr/
 
 [O życiu rekrutera-freelancera z podróżami w tle](http://ministryoftalent.co.uk/2016/11/29/nomad-pl/) 
 
+
+<b>Konferencje i wydarzenia branżowe</b>
+
 [Zapis najciekawszych wydarzeń z konferencji SOSUEU 2016](http://ministryoftalent.co.uk/2016/10/08/sosueu2016/) 
+
+[ROCDay w Krakowie. Listopad 2017](http://ministryoftalent.co.uk/2017/12/25/ROC-day-krakow/)
 
 
 
