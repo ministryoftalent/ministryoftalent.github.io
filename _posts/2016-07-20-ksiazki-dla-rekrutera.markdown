@@ -27,7 +27,7 @@ img: ksiazki.jpg
 
 <h2 class="section-heading">Full Stack Recruiter: The Modern Recruiter's Guide.</h2>
 
-Chyba najświeższa pozycja na liście [update ze stycznia 2018]. Kompendium wiedzy rekrutersko-sourrcerskiej stworzone przez Jana Tegze zza naszej południowej granicy. 
+Chyba najświeższa pozycja na liście [update ze stycznia 2018]. Kompendium wiedzy rekrutersko-sourcerskiej stworzone przez Jana Tegze zza naszej południowej granicy. 
 
 Książka wciąż wisi na mojej liście "to-read", ale komentarze na Amazonie i w internecie są bardzo pochlebne, więc na pewno wkrótce do niej sięgnę.
 
