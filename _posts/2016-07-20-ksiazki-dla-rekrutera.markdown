@@ -25,6 +25,16 @@ img: ksiazki.jpg
 <i>Niby suchar, ale zawsze aktualny. Więcej o różnicy między Javą a Javascriptem na <a href="http://stackoverflow.com/questions/245062/whats-the-difference-between-javascript-and-java" target="_blank">Stackoverflow</a>
 </i>
 
+<h2 class="section-heading">Full Stack Recruiter: The Modern Recruiter's Guide.</h2>
+
+Chyba najświeższa pozycja na liście [update ze stycznia 2018]. Kompendium wiedzy rekrutersko-sourrcerskiej stworzone przez Jana Tegze zza naszej południowej granicy. 
+
+Książka wciąż wisi na mojej liście "to-read", ale komentarze na Amazonie i w internecie są bardzo pochlebne, więc na pewno wkrótce do niej sięgnę.
+
+Link do książki: <a target="_blank" href="https://www.amazon.co.uk/gp/product/1976130735/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1976130735&linkCode=as2&tag=ministryoftal-21&linkId=0e7240efac4d72f689283eb8b5329176">Full Stack Recruiter: The Modern Recruiter's Guide.</a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=am2&o=2&a=1976130735" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<img src="/img/fs.jpg" class="img-responsive" alt="Picture">
+
 
 <h2 class="section-heading">"Work Rules! Insights from Inside Google That Will Transform How You Live and Lead" by Laszlo Bock</h2>
 
