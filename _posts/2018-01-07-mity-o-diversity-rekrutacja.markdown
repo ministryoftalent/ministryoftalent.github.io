@@ -9,7 +9,7 @@ categories: praca, github, sourcing
 index: true
 ---
 
-<b>ZZagadnienie zarządzania różnorodnością budzi skrajne emocje, od zachwytu nad ideą wyrównania szans, po przekleństwa nad tym przebrzydłym "genderem". Na pewno za tym terminem kryje się dużo niezrozumienia i nadinterpretacji.  Czy w takim razie jest diversity & inclusion w rekrutacji?
+<b>Zagadnienie zarządzania różnorodnością budzi skrajne emocje, od zachwytu nad ideą wyrównania szans, po przekleństwa nad tym przebrzydłym "genderem". Na pewno za tym terminem kryje się dużo niezrozumienia i nadinterpretacji.  Czy w takim razie jest diversity & inclusion w rekrutacji?
 </b>
  
 Samo pojęcie <i>diversity recruitment/sourcing</i> zawsze gdzieś się tam przewijało pomiędzy zamykaniem kolejnych rekrutacji i negocjacjami z hiring managerem. <i>Diversity recruitment</i> zaskoczyło mnie po pierwszy na rozmowie rekrutacyjnej na gdzieś po koniec 2014 roku. Zadano dość konkretne pytanie:“ W jaki sposób, celowo (nie przypadkiem) znajdziesz kobiety programistki? Jaką strategię obierzesz? W jaki sposób zaangażujesz takie kandydatki” Moje zdziwienie nie miało granic. Czy takie pytanie jest zgodne z prawem? Gdzie się podziała poprawność polityczna?
@@ -17,7 +17,7 @@ Samo pojęcie <i>diversity recruitment/sourcing</i> zawsze gdzieś się tam prze
 
 <h2 class="section-heading">Wszyscy jesteśmy uprzedzeni</h2>
 
-Iris Bohnet w swojej książkce <a target="_blank" href="https://www.amazon.co.uk/gp/product/0674089030/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0674089030&linkCode=as2&tag=ministryoftal-21&linkId=54f5146e7a17174d308c054b23f68ef3">What Works: Gender Equality by Design</a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=am2&o=2&a=0674089030" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />przytacza przykład orkiestry symfonicznej z Bostonu, która jako jedna z pierwszych wprowadziła zasadę <a href="https://en.wikipedia.org/wiki/Blind_audition" target="_blank" >“ślepych przesłuchań”</a> . W latach siedemdziesiątych tylko 5% muzyków stanowiły kobiety. Po wprowadzenie przesłuchań z wykorzystaniem zasłony zakrywającą muzyka, liczba zatrudnionych kobiet w orkiestrze wzrosła do 35%. Skąd ta nagła zmiana? 
+Iris Bohnet w swojej książkce <a target="_blank" href="https://www.amazon.co.uk/gp/product/0674089030/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0674089030&linkCode=as2&tag=ministryoftal-21&linkId=54f5146e7a17174d308c054b23f68ef3">What Works: Gender Equality by Design</a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=am2&o=2&a=0674089030" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> przytacza przykład orkiestry symfonicznej z Bostonu, która jako jedna z pierwszych wprowadziła zasadę <a href="https://en.wikipedia.org/wiki/Blind_audition" target="_blank" >“ślepych przesłuchań”</a> . W latach siedemdziesiątych tylko 5% muzyków stanowiły kobiety. Po wprowadzenie przesłuchań z wykorzystaniem zasłony zakrywającą muzyka, liczba zatrudnionych kobiet w orkiestrze wzrosła do 35%. Skąd ta nagła zmiana? 
 Osoby budujące zespoły, w zdecydowanej większości biali mężczyźni, podświadomie preferowali wybór podobnych sobie, przez lata utrwalając ów schemat. Dopiero przedsięwzięcie praktyk utrudniających podjęcie decyzji na podstawie zewnętrznych cech kandydata (wygląd, płeć, wiek, status społeczny wynikający z ubioru), zmieniło smutne statystyki. 
 
 <img src="/images/rsz_stocksnap_56r2a4ujyn.jpg" class="img-responsive" alt="Picture">
