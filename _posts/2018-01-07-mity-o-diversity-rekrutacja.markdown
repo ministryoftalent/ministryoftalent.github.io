@@ -46,7 +46,7 @@ Na ile skutecznie? Obawiam się, że nie jesteśmy w stanie wyelimować z naszyc
 
 Tutaj możesz zaglądnąć do <a href="https://www.slideshare.net/secret/6jMKCqYObi0f0j" target="_blank">mojej prezentacji </a> z warsztatów <a href="http://ministryoftalent.co.uk/2017/12/25/ROC-day-krakow/" target="_blank"> ROCDay</a> mówiący o metodach wyszukiwania kandydatów zgodnie z tą filozofią. 
 
-Obszar zarządzania różnorodnością jest tematem głębokim jak studnia, więc z pewnością wrócę do niego w innej blogowej notce.
+Obszar zarządzania różnorodnością to temat bez dna, więc z pewnością wrócę do niego w innej blogowej notce.
 
 
  
