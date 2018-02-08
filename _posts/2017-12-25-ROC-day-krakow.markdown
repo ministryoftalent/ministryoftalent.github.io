@@ -38,7 +38,7 @@ Przegryzając karpia barszczykiem z uszkami, zapraszam do przeczytania moich ref
  
 <h2 class="section-heading"> W poszukiwaniu różnorodności</h2>
   
- Na ROCday podzieliłam się moim doświadczeniem w rekrutacji w obszarze diversity w branży technologicznej. Moją prezentację można już teraz przejrzeć <a href="https://www.slideshare.net/secret/6jMKCqYObi0f0j" target="_blank">tutaj</a>, ale więcej o zagadnieniu <b>diversity sourcing</b> napisałam w artykule o Diversity Sourcing [tutaj](http://ministryoftalent.co.uk/2018/02/05/mity-o-diversity-rekrutacja/).
+ Na ROCday podzieliłam się moim doświadczeniem w rekrutacji w obszarze diversity w branży technologicznej. Moją prezentację można już teraz przejrzeć <a href="https://www.slideshare.net/secret/6jMKCqYObi0f0j" target="_blank">tutaj</a>, ale więcej o tym zagadnieniu napisałam w artykule o Diversity Sourcing [tutaj](http://ministryoftalent.co.uk/2018/02/05/mity-o-diversity-rekrutacja/).
  
  Diversity recruitment to temat dopiero co raczkujący w Polsce i zwyczajnie jest nieco inaczej interpretowany niż na Stanach czy w Wielkiej Brytanii. Nic dziwnego, ponieważ przed naszymi specjalistami zajmujących się rozwojem zespołów stoją zupełnie inne wyzwania rekrutacyjne niż u kolegów zza wielkiej wody.
 
