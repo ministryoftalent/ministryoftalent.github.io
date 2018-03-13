@@ -21,6 +21,8 @@ permalink: /dlahr/
 
 [Open source czyli rzecz o otwartym oprogramowaniu. Część 3.](http://ministryoftalent.co.uk/2017/10/02/github-open-source-czesc-3/)
 
+[Diversity sourcing - fakty i mity](http://ministryoftalent.co.uk/2018/02/05/mity-o-diversity-rekrutacja/) 
+
 
 
 <b>Recruitment lifestyle!</b>
