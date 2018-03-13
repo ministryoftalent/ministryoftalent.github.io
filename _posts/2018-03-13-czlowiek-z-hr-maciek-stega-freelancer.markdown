@@ -42,7 +42,9 @@ Działam jako konsultant, doradzam i wspieram w obszarze problematyki HR. Wracaj
 
 <h3 class="section-heading">Społeczność rekruterska w Polsce dojrzewa i pojawia się coraz więcej ciekawych inicjatyw. Jednej z nich jesteś twórcą. Czym jest WebskiHR?</h3>   
 <a href="https://www.facebook.com/groups/1513504555423026/?ref=br_rs" target="_blank">WebskiHR</a> to comiesięczne śniadania nastawione na wymianę wiedzy na tematy HRowe i Employer Brandingowe z naciskiem na branżę technologiczną. To co je wyróżnia to formuła panelu dyskusyjnego.  Dzięki mojej rozbudowanej siatce kontaktów z łatwością mogę dotrzeć do interesujących panelistów. 
-Mówimy o rzeczach prostych w sposób bezpośredni. Bez zbędnego lukru i lokowania produktu. Ludzie doceniają wysoką wartość merytoryczną i nieformalną atmosferę eventu. Jak na razie jestem po trzech spotkaniach w Krakowie i właśnie ruszamy z warszawskim debiutem wydarzenia. Jestem pod wrażeniem, bo frekwencja niezmiennie dopisuje! Na każdym spotkaniu stawia się ponad 70 osób. Piszą do mnie osoby z miast takich jak Łódź, Wrocław, Gdańsk czy Lublin z prośbą o organizację lokalnej edycji naszych śniadań. 
+Mówimy o rzeczach prostych w sposób bezpośredni. Bez zbędnego lukru i lokowania produktu. 
+
+Ludzie doceniają wysoką wartość merytoryczną i nieformalną atmosferę eventu. Jak na razie jestem po trzech spotkaniach w Krakowie i właśnie ruszamy z warszawskim debiutem wydarzenia. Jestem pod wrażeniem, bo frekwencja niezmiennie dopisuje! Na każdym spotkaniu stawia się ponad 70 osób. Piszą do mnie osoby z miast takich jak Łódź, Wrocław, Gdańsk czy Lublin z prośbą o organizację lokalnej edycji naszych śniadań. 
 
 <img src="/images/przemowienie atre1.jpg" class="img-responsive" alt="Picture">   
 
@@ -53,7 +55,7 @@ Poza pracą jestem tancerzem, zatem każdy weekend też jest dobrym argumentem n
 
 
 <h3 class="section-heading">Plany na resztę 2018?</h3>  
-W agendzie mam rozwój spotkań WebskiHR w Warszawie, ale może i jeszcze w jednej lokalizacji. Gdzie? To na razie tajemnica :) W kalendarzu mam już sporo zaplanowanych prelekcji i wystąpień. Poza tym, że zajmuje się rekrutacją, organizuję również warsztaty zamknięte dla firm, które nie mają działu HRu, ale są na tyle świadome potrzeb rynku, że chcą się doskonalić w tym obszarze. Tematyka to głównie HR miękki: rekrutacja, onboarding, rozwój, szkolenia, employer branding. Niewątpliwie, reszta roku zapowiada się pracowicie!
+W agendzie mam rozwój spotkań WebskiHR w Warszawie, ale może i jeszcze w jednej lokalizacji. Gdzie? To na razie tajemnica :) W kalendarzu mam już sporo zaplanowanych prelekcji i wystąpień. Poza tym, że zajmuję się rekrutacją, organizuję również warsztaty zamknięte dla firm, które nie mają działu HRu, ale są na tyle świadome potrzeb rynku, że chcą się doskonalić w tym obszarze. Tematyka to głównie HR miękki: rekrutacja, onboarding, rozwój, szkolenia, employer branding. Niewątpliwie, reszta roku zapowiada się pracowicie!
 
 
 Link do fanpage <a href="https://www.facebook.com/groups/1513504555423026/?ref=br_rs" target="_blank">WebskiHR</a> i kontakt do Maćka na <a href="https://www.facebook.com/maciek.stega" target="_blank">FB</a>. 
