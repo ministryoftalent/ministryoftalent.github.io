@@ -9,7 +9,7 @@ categories: praca, github, sourcing
 index: true
 ---
 
-<b>Jak wielu w tej branży, swoją karierę rozpoczął dość przypadkowo. Nieprzypadkowe są jednak jego inicjatywy w polskim świecie HR i rekrutacji. Maciek Stęga nie tylko  prowadzi własny, prężnie działający rekrutacyjny biznes, jeździ po całym kraju ewangelizując z idei networkingu, ale rozpoczął także pionierski cykl spotkań eksperckich pod szyldem Webski HR. Dziś rozmawiam z Maćkiem o wyzwaniach w pracy freelancera w branży rekrutacyjnej.</b>
+<b>Jak wielu w tej branży, swoją karierę rozpoczął dość przypadkowo. Nieprzypadkowe są jednak jego inicjatywy w polskim świecie HR i rekrutacji. Maciek Stęga nie tylko prowadzi własny, prężnie działający rekrutacyjny biznes, jeździ po całym kraju ewangelizując z idei networkingu, ale rozpoczął także pionierski cykl spotkań eksperckich pod szyldem Webski HR. Dziś rozmawiam z Maćkiem o wyzwaniach w pracy freelancera w branży rekrutacyjnej.</b>
 
 <img src="/images/maciek_stega1.jpg" class="img-responsive" alt="Picture">
 
@@ -23,7 +23,7 @@ Od pierwszego dnia pracy otrzymałem dużą dawkę zaufania oraz wiedzy. Czułem
 
 
 <h3 class="section-heading">Twoja kariera odbiega od typowej ścieżki zawodowej rekrutera na etacie. Kiedy uznałeś, że pora wziąć sprawy we własne ręce i rozpocząć żywot freelancera?</h3>
-Ta decyzja długo we mnie kiełkowała. Choć wiem, że zabrzmi to egocentrycznie, ale tak naprawdę nigdy nie nie znalazłem organizacji swoich marzeń. Postanowiłem więc sam stworzyć sobie idealne miejsce pracy!   Zawsze to co robię lubię robić w zgodzie z samym sobą. Organizacje w których pracowałem czesto miały odmienne podejście do kandydatów czy do metod ich pozyskiwania. Raz usłyszałem, że Facebook to przecież nie kanał do rekrutacji i rozmów z kandydatami! Bez niego dzisiaj nie mogę sobie wyobrazić mojej pracy.
+Ta decyzja długo we mnie kiełkowała. Choć wiem, że zabrzmi to egocentrycznie, ale tak naprawdę nigdy nie nie znalazłem organizacji swoich marzeń. Postanowiłem więc sam stworzyć sobie idealne miejsce pracy! Zawsze to co robię lubię robić w zgodzie z samym sobą. Organizacje w których pracowałem czesto miały odmienne podejście do kandydatów czy do metod ich pozyskiwania. Raz usłyszałem, że Facebook to przecież nie kanał do rekrutacji i rozmów z kandydatami! Bez niego dzisiaj nie mogę sobie wyobrazić mojej pracy.
 
 W freelancingu w branży rekrutacyjnej niezwykle istotny jest odpowiedni personal branding. Pisanie artykułów eksperckich, wystąpienia, warsztaty i prelekcje - to wszystko składa się się na siłę twojej osobistej marki.
 
