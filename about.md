@@ -13,9 +13,9 @@ Cześć! Jestem Aga :-)
 <p>W listopadzie 2014 roku porzuciłam smog Krakowa dla deszczowego Londynu.
 <p>Od tamtej pory miałam okazję pracować jako rekruter zarówno dla globalnych korporacji jak i startupów.
 Tutaj znajdziesz mnie na <a href="http://www.linkedin.com/in/adeszczka" target="_blank">LinkedIn</a>.</p>
-<p>Poza tym trenuję kick-boxing, jestem uzależniona od wyszukiwania tanich lotów na Skyscannerze.</p>
 <p>Kocham ludzi, technologię i podróże.
-<br>
+    
+<br>Od 2017 roku ćwiczę występy publiczne, które zaaowocowały prezentacją dla ponad stu osób na <a href=http://ministryoftalent.co.uk/2017/11/05/se2017-kiev/ target="_blank"> konferencji dla start-upów w Kijowie >/a> oraz warsztatem na temat diversity sourcing <a href="http://ministryoftalent.co.uk/2017/12/25/ROC-day-krakow/" target="_blank"> ROC Day w Krakowie</a>. 
 <br>
 Blog to moje i tylko moje subiektywne spostrzeżenie na branżę rekrutacyjną, emigrację i życie w Londynie.
 
