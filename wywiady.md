@@ -18,6 +18,10 @@ O życiu rekrutera freelancera w podróży opowiada Artur.
 
 O zmianie zawodowej opowiada Sylwia, która rozpoczęła karierę od rekrutacji programistów. Po pewnym czasie okazało się, że lepiej czułaby się po “drugiej stronie mocy” i rozpoczęła przygodę z kodowaniem. 
 
+<a href="http://ministryoftalent.co.uk/2018/03/12/czlowiek-z-hr-maciek-stega-freelancer/" target="_blank"> Człowiek z HRu</a>
+
+Wywiad z Maćkiem Stęgą, pasjonatem networkingu, rekruterem-freelancerem, twórcą wydarzenia Webski HR i wielu innych.
+
 
 
 
