@@ -13,18 +13,14 @@ Cześć! Jestem Aga :-)
 <p>W listopadzie 2014 roku porzuciłam smog Krakowa dla deszczowego Londynu.
 <p>Od tamtej pory miałam okazję pracować jako rekruter zarówno dla globalnych korporacji jak i startupów.
 Tutaj znajdziesz mnie na <a href="http://www.linkedin.com/in/adeszczka" target="_blank">LinkedIn</a>.</p>
+
 <p>Kocham ludzi, technologię i podróże.
     
 <br>Od 2017 moim nowym hobby jest Toastmasters i występy publiczne, które zaaowocowały prezentacją dla ponad stu osób na <a href="http://ministryoftalent.co.uk/2017/11/05/se2017-kiev/" target="_blank"> konferencji dla start-upów w Kijowie </a> oraz warsztatem na temat diversity sourcing <a href="http://ministryoftalent.co.uk/2017/12/25/ROC-day-krakow/" target="_blank"> ROC Day w Krakowie </a>. 
 
-<br>
 Blog to moje i tylko moje subiektywne spostrzeżenie na branżę rekrutacyjną, emigrację i życie w Londynie.
 
-
 <p>Masz pytania? Napisz do mnie: <b>Aga@Ministryoftalent.co.uk</b></p>
-
-<br>
-<br>
 
     
 <p>Zdjęcia na stronie pochodzą z banków zdjęć: <a href="https://stocksnap.io" target="_blank"> Stocksnap</a> oraz <a href="http://www.freedigitalphotos.net/" target="_blank"> Freedigitalphotos</a>.</p>
