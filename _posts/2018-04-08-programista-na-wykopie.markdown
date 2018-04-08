@@ -2,7 +2,7 @@
 layout:     post
 title:      "Programista w środowisku naturalnym"
 subtitle:  Programista na Wykopie
-date:       2018-03-12 11:00:00 
+date:       2018-04-07 11:00:00 
 author:     "Ministry of Talent"
 img:  BCCA37B5F2.jpg
 categories: praca, github, sourcing
