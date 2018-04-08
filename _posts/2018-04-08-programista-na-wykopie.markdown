@@ -20,10 +20,10 @@ index: true
 
 Od dziecka uwielbiałam encyklopedie. Pociągało mnie usystematyzowanie pełni wiedzy ludzkości (tak mi się wówczas wydawało!) i możliwość jej eksplorowania za pomocą jednej książki. Jako, że z lubością przeglądałam hasła alfabetycznie początkowe karty znałam czasem na pamięć. Może i dobrze, że Wikipedię poznałam dopiero jako dorosła osoba.
 
-Hasła Wikipedii tworzą pasjonaci. I oczywiście nie brakuje tam zapaleńców za dnia pracujących na etacie programisty, a w nocy działających pełną parą jako wikipedysta.
+Hasła Wikipedii tworzą pasjonaci. I oczywiście wśród nich nie brakuje zapaleńców za dnia pracujących na etacie programisty, a w nocy działających pełną parą jako wikipedysta.
 
 
-Szukasz programistów Python? Wejdźmy na hasło Python w polskiej wersji językowej Wikipedii, i od razu przejdźmy do zakładki <a href="https://pl.wikipedia.org/w/index.php?title=Python&action=history" target="_blank"> Historia i autorzy</a>.
+Szukasz programistów Python? Wejdźmy na hasło "Python" w polskiej wersji językowej Wikipedii, i od razu przejdźmy do zakładki <a href="https://pl.wikipedia.org/w/index.php?title=Python&action=history" target="_blank"> Historia i autorzy</a>.
 
 Przechodząc przez historię zobaczysz, kto i kiedy edytował wpis. Właściwie musisz wejść w każdy Nick wikipedysty i sprawdzić, czy nie ma tam więcej informacji. Na takim profilu często znajdzie informację na temat ich zainteresowań, czasem odnośnik do strony domowej, niekiedy kontakt emailowy. Jeśli mamy tylko nick i dużo sygnałów z profilu wikipedysty, że potencjalnie zajmuje się tym, czego poszukujemy, możemy już w niemal tradycyjny sposób zweryfikować tożsamość za pomocą Googla czy Githuba (tutaj więcej o <a href="http://ministryoftalent.co.uk/2017/08/08/sourcing-na-githubie/" target="_blank">sourcingu na Githubie</a>). 
 
