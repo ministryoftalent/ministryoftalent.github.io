@@ -18,7 +18,7 @@ index: true
 <h3 class="section-heading">Wikipedyści</h3>
 
 
-Od dziecka uwielbiałam encyklopedie. Pociągało mnie usystematyzowanie pełni wiedzy ludzkości (tak mi się wówczas wydawało!) i możliwość jej eksplorowania za pomocą jednej książki. Jako, że z lubością przeglądałam hasła alfabetycznie początkowe karty znałam czasem na pamięć. Może i dobrze, że Wikipedię poznałam dopiero jako dorosła osoba.
+Od dziecka uwielbiałam encyklopedie. Pociągało mnie usystematyzowanie pełni wiedzy ludzkości (tak mi się wówczas wydawało!) i możliwość jej eksplorowania za pomocą jednej książki. Jako, że z lubością przeglądałam hasła alfabetycznie początkowe karty znałam czasem na pamięć. Może i dobrze, że Wikipedię poznałam dopiero jako niemal dorosły człowiek.
 
 Hasła Wikipedii tworzą pasjonaci. I oczywiście wśród nich nie brakuje zapaleńców za dnia pracujących na etacie programisty, a w nocy działających pełną parą jako wikipedysta.
 
@@ -34,7 +34,7 @@ Przeszukiwanie bazy wikipedystów może być dla nas niezwykle pomocne jeśli sz
 
 <img src="/images/APJFUAE4M5.jpg" class="img-responsive" alt="Picture">
 
-Dobry programista rozwija się przez całe życie. Dla wielu wciąż nieocenionym źródłem wiedzy są tradycyjne książki. A jako, że większość z nich jest dostępna tylko w języku angielskim, tutaj z pomocą przychodzi Amazon. 
+Dobry programista rozwija się przez całe życie. Dla wielu wciąż nieocenionym źródłem wiedzy są tradycyjne książki. A jako, że większość z nich jest dostępna tylko w języku angielskim, tutaj z pomocą przychodzi gigant Bezosa, Amazon. 
 
 O wyszukiwaniu kandydatów poprzez recenzje książek na Goodreads pisała nie tak dawno <a href="http://kmborowicz.com/2018/01/25/wyszukiwanie-kandydatow-po-ksiazkach/" target="_blank">tutaj</a> Kasia Borowicz. Gorąco zachęcam do zapoznania się z notką! 
 
@@ -47,7 +47,7 @@ W analogiczny sposób, na rynku międzynarodowym do celu sourcingu wykorzystać 
 
 <img src="/images/PFPNV9W5HK.jpg" class="img-responsive" alt="Picture">
 
-Przez Wikipedię i Amazona, docieramy do Wykopu. Dla jednych ten portal to okrutna loża szyderców skrycie modląca się o #15knamiesiac, dla innych główne źródło informacji o świecie i pole do dyskusji do wartościowej dyskusji. Myślę, że spokojnie można by stworzyć doktorat na podstawie zachowań społecznych na tym portalu. Cóż, takiego mamy polskiego Reditta na jakiego sobie zasłużyliśmy. Nie mniej jednak, wielu z użytkowników Wykopu mniej lub bardziej zakorzeniona jest w branży IT. 
+Przez Wikipedię i Amazona, docieramy do Wykop.pl. Dla jednych ta społeczność to okrutna loża szyderców skrycie modląca się o #15knamiesiac, dla innych główne źródło informacji o świecie i pole do dyskusji do wartościowej dyskusji. Myślę, że spokojnie można by stworzyć doktorat na podstawie zachowań społecznych na tym portalu. Cóż, takiego mamy polskiego Reditta na jakiego sobie zasłużyliśmy. Nie mniej jednak, wielu z użytkowników Wykopu mniej lub bardziej zakorzeniona jest w branży IT. 
 
 Jak szukać programistów na Wykopie?
 
