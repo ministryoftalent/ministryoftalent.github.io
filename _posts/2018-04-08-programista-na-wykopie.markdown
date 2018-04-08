@@ -36,9 +36,9 @@ Przeszukiwanie bazy wikipedystów może być dla nas niezwykle pomocne jeśli sz
 
 Dobry programista rozwija się przez całe życie. Dla wielu wciąż nieocenionym źródłem wiedzy są tradycyjne książki. A jako, że większość z nich jest dostępna tylko w języku angielskim, tutaj z pomocą przychodzi Amazon. 
 
-O wyszukiwaniu kandydatów poprzerzez recenzje książek na Goodreads pisała nie tak dawno <a href="http://kmborowicz.com/2018/01/25/wyszukiwanie-kandydatow-po-ksiazkach/" target="_blank">tutaj</a> Kasia Borowicz. Gorąco zachęcam do zapoznania się z notką! 
+O wyszukiwaniu kandydatów poprzez recenzje książek na Goodreads pisała nie tak dawno <a href="http://kmborowicz.com/2018/01/25/wyszukiwanie-kandydatow-po-ksiazkach/" target="_blank">tutaj</a> Kasia Borowicz. Gorąco zachęcam do zapoznania się z notką! 
 
-W analogiczny sposób, na rynku międzynarodowym do celu sourcingu wykorzystać <b>Amazon</b> i znajdujące się tam recenzje książek. Pomocnym jest fakt, że recenzje zazwyczaj wystawiane są z wykorzystaniem pełnego imienia i nazwiska.
+W analogiczny sposób, na rynku międzynarodowym do celu sourcingu wykorzystać można <b>Amazon</b> i znajdujące się tam recenzje książek. Pomocnym jest fakt, że recenzje zazwyczaj wystawiane są z wykorzystaniem pełnego imienia i nazwiska.
 
 <a href="https://www.amazon.co.uk/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653/ref=sr_1_3?ie=UTF8&qid=1523137700&sr=8-3&keywords=scala+book" target="_blank">Tutaj</a> przykładowe recenzje książki o programowaniu w Scali. Kilkadziesiąt recenzji daje nam możliwość dotarcia do kandydatów rozwijających swoje umiejętności w Scali. 
 
