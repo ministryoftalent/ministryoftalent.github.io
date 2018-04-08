@@ -40,20 +40,20 @@ O wyszukiwaniu kandydatów poprzez recenzje książek na Goodreads pisała nie t
 
 W analogiczny sposób, na rynku międzynarodowym do celu sourcingu wykorzystać można <b>Amazon</b> i znajdujące się tam recenzje książek. Pomocnym jest fakt, że recenzje zazwyczaj wystawiane są z wykorzystaniem pełnego imienia i nazwiska.
 
-<a href="https://www.amazon.co.uk/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653/ref=sr_1_3?ie=UTF8&qid=1523137700&sr=8-3&keywords=scala+book" target="_blank">Tutaj</a> przykładowe recenzje książki o programowaniu w Scali. Kilkadziesiąt recenzji daje nam możliwość dotarcia do kandydatów rozwijających swoje umiejętności w Scali. 
+<a href="https://www.amazon.co.uk/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653/ref=sr_1_3?ie=UTF8&qid=1523137700&sr=8-3&keywords=scala+book" target="_blank">Tutaj</a> przykładowe recenzje książki o programowaniu w Scali. Kilkadziesiąt recenzji daje nam możliwość dotarcia do kandydatów rozwijających swoje umiejętności w językach funkcyjnych. 
 
 
 <h3 class="section-heading">Rekrutacyjne Wykopki</h3>
 
 <img src="/images/PFPNV9W5HK.jpg" class="img-responsive" alt="Picture">
 
-Przez Wikipedię i Amazona, docieramy do Wykop.pl. Dla jednych ta społeczność to okrutna loża szyderców skrycie modląca się o #15knamiesiac, dla innych główne źródło informacji o świecie i pole do dyskusji do wartościowej dyskusji. Myślę, że spokojnie można by stworzyć doktorat na podstawie zachowań społecznych na tym portalu. Cóż, takiego mamy polskiego Reditta na jakiego sobie zasłużyliśmy. Nie mniej jednak, wielu z użytkowników Wykopu mniej lub bardziej zakorzeniona jest w branży IT. 
+Przez Wikipedię i Amazona, docieramy do Wykop.pl. Dla jednych ta społeczność to okrutna loża szyderców skrycie modląca się o #15knamiesiac, dla innych główne źródło informacji o świecie i pole do wartościowej dyskusji. Myślę, że spokojnie można by stworzyć doktorat na podstawie zachowań społecznych na tym portalu. Cóż, takiego mamy polskiego Reditta na jakiego sobie zasłużyliśmy. Nie mniej jednak, wielu użytkowników Wykopu mniej lub bardziej zakorzeniona jest w branży IT. 
 
 Jak szukać programistów na Wykopie?
 
 *Wyszukiwarka na Wykopie jest co najmniej nieprecyzyjna, ale jeśli ktoś ma dużo cierpliwości, można korzystać. Bardziej pomocny może okazać się dobrze skonstruowany xray search przez Googla.
 
-*Na portalu warto <b>śledzić interesujące nas tagi</b> (np. #java #frontend) lub poszukiwać wykopów o tematyce programistycznej. Komentatorzy mogą być dla nas źródłem potencjalnych kandydatów. Klikamy na profil danego wykopowicza. Komentarze zostawione przy innych wykopach i śledzone tagi pozwolą nam ocenić czy warto inwestować więcej czasu w poszukiwania personalii Wykopka. Imię/nazwisko czy odnośnik do zewnętrznej strony to rzadkość. Mamy jeszcze do wykorzystania nick. W środowisku programistycznym przywiązanie do ksywek jest bardzo silne, więc w 90% możliwości po wrzuceniu nicka do internetu odnajdziemy tego samego użytkownika na innych portalach np. Twitter czy Github. Jeśli odnajdziemy już owe dane zazwyczaj niedługa droga do zweryfikowania adresu email czy imienia i nazwiska. 
+*Na portalu warto <b>śledzić interesujące nas tagi</b> (np. #java #frontend) lub poszukiwać wykopów o tematyce programistycznej. Komentatorzy mogą być dla nas źródłem potencjalnych kandydatów. Klikamy na profil danego wykopowicza. Komentarze zostawione przy innych wykopach i śledzone tagi pozwolą nam ocenić czy warto inwestować więcej czasu w poszukiwania personalii Wykopka. Imię/nazwisko czy odnośnik do zewnętrznej strony to rzadkość. Mamy jeszcze do wykorzystania nick. W środowisku programistycznym przywiązanie do ksywek jest bardzo silne, więc mamy niemal 90% szans, że po wrzuceniu nicka do internetu odnajdziemy tego samego użytkownika na innych portalach np. Twitter czy Github. Jeśli odnajdziemy już owe dane zazwyczaj czeka nas krótka droga do zweryfikowania adresu email czy imienia i nazwiska. 
 
 *Wykop potencjalnie powinien być dobrym źródłem do poszukiwań zdywersyfikowanych (więcej o diversity sourcing <a href="http://ministryoftalent.co.uk/2018/02/05/mity-o-diversity-rekrutacja/" target="_blank">tutaj</a>). Wszak “Różowe paski” dzielące się swoimi opiniami się w dyskusjach branżowych to panie programistki.  Poglądy Wykopowiczów na wszelkie akcje <b>diversity recruitment</b> wolę przemilczeć.
 
