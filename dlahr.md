@@ -23,6 +23,8 @@ permalink: /dlahr/
 
 [Diversity sourcing - fakty i mity](http://ministryoftalent.co.uk/2018/02/05/mity-o-diversity-rekrutacja/) 
 
+[Sourcing na Wykopie, Wikipedii i Amazonie](http://ministryoftalent.co.uk/2018/04/07/programista-na-wykopie/)
+
 
 
 <b>Recruitment lifestyle!</b>
