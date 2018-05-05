@@ -9,10 +9,10 @@ categories: praca, github, sourcing
 index: true
 ---
 
-<b>Podcasty towarzyszą mi od dobrych kilku lat. Lubię je za to, że czynności, które do tej pory uważałam za przykrą konieczność, takie jak wkładanie naczyń do zmywarki czy dreptanie po bieżni na siłowni, stają się motorem do rozwoju jeśli tylko w tle słuchasz wartościowej audycji. 
+<b>Podcasty towarzyszą mi od dobrych kilku lat. Lubię je za to, że czynności, które do tej pory uważałam za przykrą konieczność, takie jak wkładanie naczyń do zmywarki czy dreptanie po bieżni na siłowni, stają się motorem do rozwoju jeśli tylko w uszach dźwięczy wartościowa audycja. 
 </b>
  
-Przed wami lista polecanych podcastów dla rekrutera i HRowców dość swobodnie inspirowania tematyką branżową.
+Przed wami lista polecanych podcastów dla rekruterów i HRowców, dość swobodnie inspirowana tematyką branżową.
 
 <h3 class="section-heading">1) <u>Mała Wielka Firma</u></h3>
 
