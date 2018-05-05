@@ -9,15 +9,15 @@ categories: praca, github, sourcing
 index: true
 ---
 
-<b>Podkasty towarzyszą mi od dobrych kilku lat. Lubię je za to, że czynności, które do tej pory uważałam za przykrą konieczność, takie jak wkładanie naczyń do zmywarki czy dreptanie po bieżni na siłowni, stają się motorem do rozwoju jeśli tylko w tle słuchasz wartościowej audycji. 
+<b>Podcasty towarzyszą mi od dobrych kilku lat. Lubię je za to, że czynności, które do tej pory uważałam za przykrą konieczność, takie jak wkładanie naczyń do zmywarki czy dreptanie po bieżni na siłowni, stają się motorem do rozwoju jeśli tylko w tle słuchasz wartościowej audycji. 
 </b>
  
-Przed wami lista polecanych podkastów dla rekrutera i HRowców dość swobodnie inspirowania tematyką branżową.
+Przed wami lista polecanych podcastów dla rekrutera i HRowców dość swobodnie inspirowania tematyką branżową.
 
 <h3 class="section-heading">1) <u>Mała Wielka Firma</u></h3>
 
 <br>
-<a href="https://malawielkafirma.pl/" target="_blank">Mała Wielka Firma</a>  to podkast biznesowy Marka Jankowskiego. 
+<a href="https://malawielkafirma.pl/" target="_blank">Mała Wielka Firma</a>  to podcast biznesowy Marka Jankowskiego. 
 <img src="/images/mwf.png" class="img-responsive" alt="Picture">
 
 <b>Dlaczego warto słuchać?</b> 
@@ -83,7 +83,7 @@ Tego <a href="https://jakoszczedzacpieniadze.pl/podcast" target="_blank">podcast
 
 <b>Dlaczego warto słuchać?</b> 
 
-Podkasty Michała Szafrańskiego lubię za oferowanie szerokiej perspektywy nie tylko zrozumienie tematyki finansowej, ale przede wszystkim na przemyślany rozwój i dobre życie. Jego podkasty zawsze dają mi pozytywnego kopniaka i inspirację czy do zmian czy to w sposobie zarządzania moim czasem/budżetem czy to do nowych przedsięwzięć. 
+Podcasty Michała Szafrańskiego lubię za oferowanie szerokiej perspektywy nie tylko zrozumienie tematyki finansowej, ale przede wszystkim na przemyślany rozwój i dobre życie. Jego podcasty zawsze dają mi pozytywnego kopniaka i inspirację czy do zmian czy to w sposobie zarządzania moim czasem/budżetem czy to do nowych przedsięwzięć. 
 
 <b>Polecane odcinki:</b>
 
@@ -105,7 +105,7 @@ Podkasty Michała Szafrańskiego lubię za oferowanie szerokiej perspektywy nie 
 
 <b>Dlaczego warto słuchać?</b> 
 
-Adam Grant jest psychologiem organizacji, a jego podkasty traktują o środowisku pracy, wypaleniu zawodowym, kreatywności i relacja w życiu zawodowym. Podkasty dostępne są na <a href="https://www.ted.com/series/worklife-with-adam-grant" target="_blank"> stronie TED</a>, a ja słucham ich na Spotify.
+Adam Grant jest psychologiem organizacji, a jego podcasty traktują o środowisku pracy, wypaleniu zawodowym, kreatywności i relacja w życiu zawodowym. Podkasty dostępne są na <a href="https://www.ted.com/series/worklife-with-adam-grant" target="_blank"> stronie TED</a>, a ja słucham ich na Spotify.
 
 <b>Polecane odcinki:</b>
 
@@ -120,7 +120,7 @@ Mniej regularnie słucham także:
 
 - Rozmów o employer brandingu na <a href="http://potkanski.pl/" target="_blank"> stronie Marcina Potkańskiego</a>.  
 
-- Podkastu <a href="https://player.fm/series/podcast-lepiej-teraz-1837728" target="_blank"> "Lepiej Teraz"</a> Radka Budnickiego. Tematyka to głównie rozwój osobisty i zawodowy w połączeniu z filozofią stoicyzmu. 
+- Podcastu <a href="https://player.fm/series/podcast-lepiej-teraz-1837728" target="_blank"> "Lepiej Teraz"</a> Radka Budnickiego. Tematyka to głównie rozwój osobisty i zawodowy w połączeniu z filozofią stoicyzmu. 
 
 
 Miłego słuchania! 
