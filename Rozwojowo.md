@@ -35,3 +35,6 @@ Szukasz pracy, a może po prostu chcesz nauczyć się czegoś nowego? Poniżej z
 [Przychodzi narcyz na rozmowę kwalifikacyjną. Czy powinniśmy zatrudniać narcyzów?](http://ministryoftalent.co.uk/2017/07/30/narcyz/)
 
 
+<b>Rozwój</b>
+
+[Lista polecanych podkastów dla rekrutera i HRowców](http://ministryoftalent.co.uk/2018/05/05/dobre-podcasty-dla-rekrutera-i-HR/)
