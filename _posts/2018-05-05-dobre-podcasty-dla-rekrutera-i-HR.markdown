@@ -105,7 +105,7 @@ Podcasty Michała Szafrańskiego lubię za oferowanie szerokiej perspektywy nie 
 
 <b>Dlaczego warto słuchać?</b> 
 
-Adam Grant jest psychologiem organizacji, a jego podcasty traktują o środowisku pracy, wypaleniu zawodowym, kreatywności i relacja w życiu zawodowym. Podcasty dostępne są na <a href="https://www.ted.com/series/worklife-with-adam-grant" target="_blank"> stronie TED</a>, a ja słucham ich na Spotify.
+Adam Grant jest psychologiem organizacji, a jego podcasty traktują o środowisku pracy, wypaleniu zawodowym, kreatywności i relacjach w życiu zawodowym. Podcasty dostępne są na <a href="https://www.ted.com/series/worklife-with-adam-grant" target="_blank"> stronie TED</a>, a ja słucham ich na Spotify.
 
 <b>Polecane odcinki:</b>
 
