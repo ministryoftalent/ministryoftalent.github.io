@@ -116,11 +116,15 @@ Odcinków jest na razie tylko osiem, a ja polecam każdy z nich!
 
 Mniej regularnie słucham także: 
 
+- Podcastu o wymownej nazwie <a href="https://nozbe.com/blog/thepodcast/" target="_blank"> "The Podcast"</a> traktującego o produktywności. Dwugłos twórcy Nozbe i jednego z programistów pracujących nad ową aplikacją. Wiele rozmów dotyczy koncepcji "no office" i pracy zdalnej. Podcast zdecydowanie dla fanów produktów Apple. 
+
 - Wywiadów z polskimi programistami rozsianymi po świecie. <a href="https://www.youtube.com/channel/UCYG1Pkg1jbnYxfJvM-1K5yg" target="_blank"> "Just Join IT"</a> to kanał na youtube, ostatni film wrzucony został do sieci pod koniec 2017 roku. 
 
 - Rozmów o employer brandingu na <a href="http://potkanski.pl/" target="_blank"> stronie Marcina Potkańskiego</a>.  
 
 - Podcastu <a href="https://player.fm/series/podcast-lepiej-teraz-1837728" target="_blank"> "Lepiej Teraz"</a> Radka Budnickiego. Tematyka to głównie rozwój osobisty i zawodowy w połączeniu z filozofią stoicyzmu. 
+
+
 
 
 Miłego słuchania! 
