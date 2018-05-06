@@ -90,7 +90,7 @@ Podcasty Michała Szafrańskiego lubię za oferowanie szerokiej perspektywy nie 
 
 <a href="https://jakoszczedzacpieniadze.pl/jak-odnalezc-swoja-pasje-i-prace-marzen" target="_blank"> Jak odnaleźć swoją pasję i pracę marzeń </a>
 
-<a href="https://jakoszczedzacpieniadze.pl/20-porad-jak-byc-dobrym-szefem 20 porad" target="_blank"> Jak być dobrym szefem? </a>
+<a href="https://jakoszczedzacpieniadze.pl/20-porad-jak-byc-dobrym-szefem" target="_blank"> Jak być dobrym szefem? </a>
 
 <a href="https://jakoszczedzacpieniadze.pl/jak-pokierowac-finansami-i-zyciem-w-wieku-20-lat" target="_blank"> Jak pokierować swoimi finansami i życiem, gdy jestem 20-latkiem </a>
 
