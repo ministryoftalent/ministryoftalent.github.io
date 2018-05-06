@@ -83,7 +83,7 @@ Tego <a href="https://jakoszczedzacpieniadze.pl/podcast" target="_blank">podcast
 
 <b>Dlaczego warto słuchać?</b> 
 
-Podcasty Michała Szafrańskiego lubię za oferowanie szerokiej perspektywy nie tylko zrozumienie tematyki finansowej, ale przede wszystkim na przemyślany rozwój i dobre życie. Jego podcasty zawsze dają mi pozytywnego kopniaka i inspirację czy do zmian czy to w sposobie zarządzania moim czasem/budżetem czy to do nowych przedsięwzięć. 
+Podcasty Michała Szafrańskiego lubię za oferowanie szerokiej perspektywy nie tylko zrozumienie tematyki finansowej, ale przede wszystkim na przemyślany rozwój i dobre życie. Jego podcasty zawsze dają mi pozytywnego kopniaka i inspirację do zmian w sposobie zarządzania moim czasem/budżetem czy to do nowych przedsięwzięć. 
 
 <b>Polecane odcinki:</b>
 
