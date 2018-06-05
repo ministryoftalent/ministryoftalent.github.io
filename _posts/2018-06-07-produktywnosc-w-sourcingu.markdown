@@ -66,6 +66,7 @@ Znajdź kogoś z kim możesz podyskutować, wymienić spostrzeżenia na temat da
 Zawsze jeszcze możesz spróbować podpytać o po albo nawet podpytać o pomysły na forum branżowym takim jak 
 <a href="https://www.facebook.com/groups/polandsourcingcommunity/ target="_blank" >Poland Sourcing Community</a>.
 
+
 Możesz też spróbować <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank" >metody gumowej kaczki</a> ! :)
 
 <h3 class="section-heading"> 8. Rozwijaj się poza sourcingiem </h3>
@@ -89,5 +90,5 @@ Wiem z autopsji, jak trudno wyłączyć outlooka czy inny program pocztowy pracu
 
 <h3 class="section-heading">11. Bądź menadżerem samego siebie i kontroluj swoje metryki. </h3>
 
-Na podstawie dotychczasowych danych ustal ile kandydatów powinnaś skontaktować w ciągu tygodnia, aby móc ustawić x rozmów i w konsekwencji oczekiwać daną liczbę ofert. Zwróć uwagę na konwersję kandydatów przez ciebie rekomendowanych w stosunku do liczby złożonych ofert. Dzięki nim możesz kontrolować efektywność swoje wyniki w skali tygodnia, miesiąca, półrocza. Pod koniec dnia “only data wins arguments”. 
+Na podstawie dotychczasowych danych ustal ile kandydatów powinnaś skontaktować w ciągu tygodnia, aby móc ustawić x rozmów i w konsekwencji oczekiwać daną liczbę ofert. Zwróć uwagę na konwersję kandydatów przez ciebie rekomendowanych w stosunku do liczby złożonych ofert. Dzięki nim możesz kontrolować efektywność i wyniki w skali tygodnia, miesiąca, półrocza. Pod koniec dnia “only data wins arguments”. 
 
