@@ -17,6 +17,7 @@ Zapewne planowaliście spędzić co najmniej kilka godzin na poszukiwaniu i anga
 Aby uciec z błędnego koła rekruterskiego chaosu potrzeba odrobiny samodyscypliny i kilku dobrych nawyków. 
 
 <br>
+<h2 class="section-heading">12 zasad produktywności w sourcingu i rekrutacji</h2>
 
 
 <h3 class="section-heading">1. Pracuj w blokach czasowych. </h3> 
