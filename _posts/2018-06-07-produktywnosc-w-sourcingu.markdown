@@ -64,7 +64,7 @@ No, i wysypiaj się!
 <h3 class="section-heading"> 7. Dyskutuj </h3>
 Znajdź kogoś z kim możesz podyskutować, wymienić spostrzeżenia na temat danego problemu, spojrzeć na rekrutowane przez ciebie stanowisko z innej perspektywy. Jeśli nie jesteś częścią większego zespołu rekrutacyjnego, a pracujesz inhouse, spróbuj jeszcze raz porozmawiać z hiring managarem lub osobą już zatrudnioną na podobym stanowisku. 
 Zawsze jeszcze możesz spróbować podpytać o po albo nawet podpytać o pomysły na forum branżowym takim jak 
-<a href="https://www.facebook.com/groups/polandsourcingcommunity/ target="_blank" >Poland Sourcing Community</a>.
+<a href="https://www.facebook.com/groups/polandsourcingcommunity/" target="_blank" >Poland Sourcing Community</a>.
 
 
 Możesz też spróbować <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank" >metody gumowej kaczki</a> ! :)
@@ -88,7 +88,11 @@ Buduj podręczną listę boolean stringów i trzymaj ją w jednym miejscu. Używ
 Zrób jedną rzecz a porządnie. Wedle najnowszych badań multitasking nie wcale nie sprawia, że jesteśmy produktywniejsi.
 Wiem z autopsji, jak trudno wyłączyć outlooka czy inny program pocztowy pracując z kandydatami. Próbuj tak sterować swoją pracą, aby skupiać się tylko na jednej czynności w danym czasie. W utrzymaniu takkego rygoru pomocne może być także rozbicie procesu na mniejsze zadania i kolejne odhaczanie wykonanych tasków.
 
-<h3 class="section-heading">11. Bądź menadżerem samego siebie i kontroluj swoje metryki. </h3>
+<h3 class="section-heading">11. Always follow up!</h3>
+
+Zarezerwuj kilka godzin w tygodniu na przejrzenie wiadomości wysłanych do kandydatów w poprzednich tygodniach (zobacz jak wygląda mój piątek w kalendarzu powyżej). Z uporem maniaka szukaj alternatywnego sposobu dotarcia do kandydata (inny email, konto na w mediach społecznościowych czy osobisty mail wysłany przez hiring managera). Dla mnie złotą zasadą jest do trzech razy sztuka. 
+
+<h3 class="section-heading">12. Bądź menadżerem samego siebie i kontroluj swoje metryki. </h3>
 
 Na podstawie dotychczasowych danych ustal ile kandydatów powinnaś skontaktować w ciągu tygodnia, aby móc ustawić x rozmów i w konsekwencji oczekiwać daną liczbę ofert. Zwróć uwagę na konwersję kandydatów przez ciebie rekomendowanych w stosunku do liczby złożonych ofert. Dzięki nim możesz kontrolować efektywność i wyniki w skali tygodnia, miesiąca, półrocza. Pod koniec dnia “only data wins arguments”. 
 
