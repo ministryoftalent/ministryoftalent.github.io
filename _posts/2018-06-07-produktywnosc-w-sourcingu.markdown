@@ -24,9 +24,9 @@ Aby uciec z błędnego koła rekruterskiego chaosu potrzeba odrobiny samodyscypl
 
 Wrzuć do swojego kalendarza powtarzające się bloki.
 
-Zanalizuj, która pora dnia sprzyja twojej produktywności. Dla mnie to poranki, dlatego wtedy staram się wykonywać zadania wymagające najwięcej kreatywności. Popołudnia stanowią dla mnie wyzwanie, dlatego staram się pracować na zadaniami nieco bardziej powtarzalnymi.
+Zanalizuj, która pora dnia sprzyja twojej produktywności. Dla mnie to poranki, dlatego wtedy staram się wykonywać zadania wymagające najwięcej kreatywności. Popołudnia stanowią dla mnie wyzwanie, dlatego staram się wówczas pracować na zadaniami nieco bardziej powtarzalnymi.
 
-Wrzucając bloki czasowe do kalendarza z wyprzedzeniem, nikt nie powinien zakłócić ci dnia niespodziewanym spotkaniem. 
+Wrzucając bloki czasowe do kalendarza z wyprzedzeniem nikt nie powinien zakłócić ci dnia niespodziewanym spotkaniem. 
 
 Jeśli nie działa na ciebie praca z blokami czasowymi, znajdź <b>jeden dzień w tygodniu</b> kiedy skupiasz się tylko na sourcingu. Żadnych rozmów z kandydatami, pracy nad pobocznych projektach czy spotkań z hiring managerem. Twoją pracą jest znalezienie odpowiedniego kandydata, więc jak możesz tego dokonać, nie priorytetyzując sourcingu?
 
@@ -52,12 +52,11 @@ Od czasu do czasu, zamiast muzyki lubię posłuchać podcastów (<a href="http:/
 <h3 class="section-heading">4. Dbaj o rutynę</h3>
 Niech twoi współpracownicy znają i szanują twoją rutynę. 
 
-Daj znać kolegom dookoła, że jesteś w trybie głębokiej koncentracji i nikt powinien zakłócać twojej pracy. Nie musisz od razu wywieszać transparentu "leave me alone"! Na przykład postaw na monitorze gumową kaczuszkę sygnalizującą, że nie wolno ci przeszkadzać, lub wymyśl inny znak czytelny dla twojego otoczenia. Równocześnie zachwouj się asertywnie i odrzucaj zaproszenia na spotkania, na których masz być jedynie biernym uczestnikiem. Blokując wcześniej swój kalendarz, twoi współpracownicy przemyślą dwa razy o ile czasu mogą cię poprosić. 
+Daj znać kolegom dookoła, że jesteś w trybie głębokiej koncentracji i nikt powinien zakłócać twojej pracy. Nie musisz od razu wywieszać transparentu "leave me alone"! Na przykład postaw na monitorze gumową kaczuszkę sygnalizującą, że nie wolno ci przeszkadzać, lub wymyśl inny znak czytelny dla twojego otoczenia. Równocześnie zachowuj się asertywnie i odrzucaj zaproszenia na spotkania, na których masz być jedynie biernym uczestnikiem. Blokując wcześniej swój kalendarz, twoi współpracownicy pomyślą dwa razy zanim poproszą cię o twój czas.
 
 
 <h3 class="section-heading">5. Rób przerwy</h3>
-Jeśli poczujesz sourcingową blokadę daj sobie czas na przetrawienie problemu. Nic nie oczyszcza głowy i daje nowe spojrzenie na problem jak aktywność fizyczna. Nie każdy cieszy się możliwością wyskoczenia na siłownię  ub na bieg w parku w czasie pracy, ale koniecznie zadbaj o dawkę ruchu przed lub po pracy. Zainstaluj apkę do liczenia kroków i ustaw swój cel na powyżej 10000 kroków dziennie. Dużo łatwiej będzie ci przejść jeden przystanek na piechotę i zamiast windy wybrać schody.
-Codzienna dawka endorfin pomoże w produktywnej pracy i skupieniu na rzeczach najważniejszych. 
+Jeśli poczujesz sourcingową blokadę daj sobie czas na przetrawienie problemu. Nic nie oczyszcza głowy i daje nowe spojrzenie na problem jak aktywność fizyczna. Nie każdy cieszy się możliwością wyskoczenia na siłownię lub na bieg w parku w czasie pracy, ale koniecznie zadbaj o dawkę ruchu przed lub po pracy. Zainstaluj apkę do liczenia kroków i ustaw swój cel na powyżej 10000 kroków dziennie. Z taką motywacją dużo łatwiej będzie ci przejść jeden przystanek na piechotę i zamiast windy wybrać schody. Codzienna dawka endorfin pomoże w produktywnej pracy i skupieniu na rzeczach najważniejszych. 
 
 No, i wysypiaj się!
 
@@ -82,9 +81,9 @@ Zapisuj sourcingowe pomysły, ponieważ ich życie jest bardzo krótkie.
 W zależności od preferencji pomysły spisuj w Excelu, Evernote, dokumencie Word czy w tradycyjnym notatniku. 
 W momencie blokady twórczej rzuć okiem na listę pomysłów i sprawdź, czego dawno nie próbowałeś w sourcingu. 
 
-Buduj podręczną listę boolean stringów i trzymaj ją w jednym miejscu. Używaj programów typu Text Expander do automatyzacji wrzucania booleanowych stringów, ale i wiadomości do kandydatów.
+Buduj podręczną listę boolean stringów i trzymaj ją w jednym miejscu. Używaj programów typu Text Expander do automatyzacji wrzucania booleanowych stringów, ale i wiadomości do kandydatów. A <a href="http://ministryoftalent.co.uk/2016/08/18/narzedzia-nie-tylko-dla-rekrutera/" target="_blank">tutaj</a> przeczytasz więcej o moich ulubionych narzędziach do pracy. 
 
-<h3 class="section-heading">9. Bądź esencjonalistą </h3>
+<h3 class="section-heading">9. Bądź esencjalistą </h3>
 
 Zrób jedną rzecz a porządnie. Wedle najnowszych badań multitasking nie wcale nie sprawia, że jesteśmy produktywniejsi.
 Wiem z autopsji, jak trudno wyłączyć outlooka czy inny program pocztowy pracując z kandydatami. Próbuj tak sterować swoją pracą, aby skupiać się tylko na jednej czynności w danym czasie. W utrzymaniu takkego rygoru pomocne może być także rozbicie procesu na mniejsze zadania i kolejne odhaczanie wykonanych tasków.
