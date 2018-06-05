@@ -45,7 +45,7 @@ Na niektórych doskonale działa muzyka, inni wręcz przeciwnie, aby wejść w t
 
 Zamiast codziennie marnować energię i czas na poszukiwaniu nowych muzycznych kawałków do pracy, stwórz sobie playlistę do sourcingu (ja wykorzystuję do tego Spotify). Z czasem muzyka z owej playlisty będzie ci się bezwiednie kojarzyć z produktywnym sourcingiem i pomoże ci  wejść w tryb głebokiej pracy. 
 
-Od czasu do czasu, zamiast muzyki lubię posłuchać podcastów. Ze względu na to, że są dużo bardziej angażujące niż zwykłe audio, słucham ich zazwyczaj wykonując pracę bardziej administracyjną jak ustawianie rozmów kandydatów czy wypełnianie raportów.
+Od czasu do czasu, zamiast muzyki lubię posłuchać podcastów (<a href="http://ministryoftalent.co.uk/2018/05/05/dobre-podcasty-dla-rekrutera-i-HR/" target="_blank">tutaj</a> znajdziesz listę moich ulubionych). Ze względu na to, że są dużo bardziej angażujące niż zwykłe audio, słucham ich zazwyczaj wykonując pracę bardziej administracyjną jak ustawianie rozmów kandydatów czy wypełnianie raportów.
 
 
 <h3 class="section-heading">4. Dbaj o rutynę</h3>
@@ -62,9 +62,11 @@ No, i wysypiaj się!
 
 
 <h3 class="section-heading"> 7. Dyskutuj </h3>
-Znajdź kogoś z kim możesz podyskutować, wymienić spostrzeżenia na temat danego problemu, spojrzeć na rekrutowane przez ciebie stanowisko z innej perspektywy. Jeśli nie jesteś częścią większego zespołu rekrutacyjnego, a pracujesz inhouse, spróbuj jeszcze raz porozmawiać z hiring managarem lub osobą już zatrudnioną na podobym stanowisku. Zawsze jeszcze możesz spróbować podpytać o po albo nawet podpytać o pomysły na forum branżowym takim jak <a href="https://www.facebook.com/groups/polandsourcingcommunity/ target="_blank" > Poland Sourcing Community</a>
+Znajdź kogoś z kim możesz podyskutować, wymienić spostrzeżenia na temat danego problemu, spojrzeć na rekrutowane przez ciebie stanowisko z innej perspektywy. Jeśli nie jesteś częścią większego zespołu rekrutacyjnego, a pracujesz inhouse, spróbuj jeszcze raz porozmawiać z hiring managarem lub osobą już zatrudnioną na podobym stanowisku. 
+Zawsze jeszcze możesz spróbować podpytać o po albo nawet podpytać o pomysły na forum branżowym takim jak 
+<a href="https://www.facebook.com/groups/polandsourcingcommunity/ target="_blank" >Poland Sourcing Community</a>.
 
-Możesz też zawsze spróbować <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank" >metody gumowej kaczki</a> ! :)
+Możesz też spróbować <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank" >metody gumowej kaczki</a> ! :)
 
 <h3 class="section-heading"> 8. Rozwijaj się poza sourcingiem </h3>
 Pracuj nad projektami, które nie są związane bezpośrednio z sourcingiem. Osobiście uważam, że nie można być wydajnych skupiając się tylko i jedynie na sourcingu. Poboczny projekt da możliwość wykorzystania 
