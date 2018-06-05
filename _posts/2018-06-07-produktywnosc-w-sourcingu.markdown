@@ -62,26 +62,30 @@ No, i wysypiaj się!
 
 
 <h3 class="section-heading"> 7. Dyskutuj </h3>
-Znajdź kogoś z kim możesz podyskutować, wymienić spostrzeżenia na temat danego problemu. Jeśli nie jesteś częścią większego zespołu rekrutacyjnego, a pracujesz inhouse, spróbuj jeszcze raz porozmawiać z hiring managarem lub osobą zatrudnioną na podobym stanowisku. Zawsze jeszcze możesz spróbować podpytać o po albo nawet podpytać o pomysły na forum branżowym takim jak ….
+Znajdź kogoś z kim możesz podyskutować, wymienić spostrzeżenia na temat danego problemu, spojrzeć na rekrutowane przez ciebie stanowisko z innej perspektywy. Jeśli nie jesteś częścią większego zespołu rekrutacyjnego, a pracujesz inhouse, spróbuj jeszcze raz porozmawiać z hiring managarem lub osobą już zatrudnioną na podobym stanowisku. Zawsze jeszcze możesz spróbować podpytać o po albo nawet podpytać o pomysły na forum branżowym takim jak <a href="https://www.facebook.com/groups/polandsourcingcommunity/ target="_blank" > Poland Sourcing Community</a>
 
-Możesz też spróbować <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank" >metody gumowej kaczki</a> ! :)
-
-<img src="/images/duck_method.jpg " class="img-responsive" alt="Picture">
-
+Możesz też zawsze spróbować <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank" >metody gumowej kaczki</a> ! :)
 
 <h3 class="section-heading"> 8. Rozwijaj się poza sourcingiem </h3>
 Pracuj nad projektami, które nie są związane bezpośrednio z sourcingiem. Osobiście uważam, że nie można być wydajnych skupiając się tylko i jedynie na sourcingu. Poboczny projekt da możliwość wykorzystania 
 Dla mnie takimi projektami było stworzenie pierwszego firmowego programu rekrutacji stażystów na stanowisko programistów, zbudowanie wewnętrzengo kompendium wiedzy na temat metod sourcingu dla rekruterów z europejskich oddziałów firmy, a ostatnio zaprojektowanie bota na Facebookowy messanger służący do kontaktu z kandydatami.
 
-Powiesz, że wszystko zależy od tego w jakiej pracujesz firmie i jakie oferuje ci możliwości. Prawda jest taka, że jeśli to ty nie wykażesz proaktywności
+Powiesz, że wszystko zależy od tego w jakiej pracujesz firmie i jakie oferuje ci możliwości. Prawda jest taka, że jeśli to ty nie wykażesz proaktywności, nie oczekuj, że ktoś zaproponuje ci pracę nad rozwojowym projektem zpoza obszaru twoich kluczowych obowiązków. 
 
 <h3 class="section-heading">9. Notuj pomysły </h3>
 Zapisuj sourcingowe pomysły, ponieważ ich życie jest bardzo krótkie.
 
-W zależności od preferencji pomysły spisuj w Excelu, Evernote, dokumencie Word czy w tradycyjnym notatniku. W momencie blokady sourcingowej rzuć okiem na listę pomysłów i sprawdź, czego dawno nie próbowałeś. 
-Stwórz dokument z boolena searchem
-Wykorzystaj text expandera do szybkiego wrzucania boolean searchów w pracy.
+W zależności od preferencji pomysły spisuj w Excelu, Evernote, dokumencie Word czy w tradycyjnym notatniku. 
+W momencie blokady twórczej rzuć okiem na listę pomysłów i sprawdź, czego dawno nie próbowałeś w sourcingu. 
 
-<h3 class="section-heading">10. Nie rozdrabniaj się </h3>
+Buduj podręczną listę boolean stringów i trzymaj ją w jednym miejscu. Używaj programów typu Text Expander do automatyzacji wrzucania booleanowych stringów, ale i wiadomości do kandydatów.
 
-Multitasking wcale nie popłaca! Bądź esencjonalistką!
+<h3 class="section-heading">10. Bądź esencjonalistą </h3>
+
+Zrób jedną rzecz a porządnie. Wedle najnowszych badań multitasking nie wcale nie sprawia, że jesteśmy produktywniejsi.
+Wiem z autopsji, jak trudno wyłączyć outlooka czy inny program pocztowy pracując z kandydatami. Próbuj tak sterować swoją pracą, aby skupiać się tylko na jednej czynności w danym czasie. W utrzymaniu takkego rygoru pomocne może być także rozbicie procesu na mniejsze zadania i kolejne odhaczanie wykonanych tasków.
+
+<h3 class="section-heading">11. Bądź menadżerem samego siebie i kontroluj swoje metryki. </h3>
+
+Na podstawie dotychczasowych danych ustal ile kandydatów powinnaś skontaktować w ciągu tygodnia, aby móc ustawić x rozmów i w konsekwencji oczekiwać daną liczbę ofert. Zwróć uwagę na konwersję kandydatów przez ciebie rekomendowanych w stosunku do liczby złożonych ofert. Dzięki nim możesz kontrolować efektywność swoje wyniki w skali tygodnia, miesiąca, półrocza. Pod koniec dnia “only data wins arguments”. 
+
