@@ -9,8 +9,11 @@ categories: praca, github, sourcing
 index: true
 ---
 
-<b>Podcasty towarzyszą mi od dobrych kilku lat. Lubię je za to, że czynności, które do tej pory uważałam za przykrą konieczność, takie jak wkładanie naczyń do zmywarki czy monotonne dreptanie po bieżni na siłowni, stają się motorem do rozwoju jeśli tylko w uszach zadźwięczy wartościowa audycja. 
-</b>
+<b>Podcasty towarzyszą mi od dobrych kilku lat. Lubię je za to, że prozaiczne czynności, które do tej pory uważałam za przykrą konieczność, takie jak wkładanie naczyń do zmywarki czy monotonne dreptanie po bieżni na siłowni, stają się motorem do rozwoju jeśli tylko w uszach zadźwięczy wartościowa audycja.</b> 
+
+
+
+ <img src="/images/podcasty_dla_rekrutera.jpg" class="img-responsive" alt="Picture">
  
 Przed wami lista polecanych podcastów dla rekruterów i HRowców, dość swobodnie inspirowana tematyką branżową.
 
@@ -83,14 +86,14 @@ Tego <a href="https://jakoszczedzacpieniadze.pl/podcast" target="_blank">podcast
 
 <b>Dlaczego warto słuchać?</b> 
 
-Podcasty Michała Szafrańskiego lubię za oferowanie szerokiej perspektywy nie tylko zrozumienie tematyki finansowej, ale przede wszystkim na przemyślany rozwój i dobre życie. Jego podcasty zawsze dają mi pozytywnego kopniaka i inspirację czy do zmian czy to w sposobie zarządzania moim czasem/budżetem czy to do nowych przedsięwzięć. 
+Podcasty Michała Szafrańskiego lubię za oferowanie szerokiej perspektywy nie tylko zrozumienie tematyki finansowej, ale przede wszystkim na przemyślany rozwój i dobre życie. Jego podcasty zawsze dają mi pozytywnego kopniaka i inspirację do zmian w sposobie zarządzania moim czasem/budżetem czy to do nowych przedsięwzięć. 
 
 <b>Polecane odcinki:</b>
 
 
 <a href="https://jakoszczedzacpieniadze.pl/jak-odnalezc-swoja-pasje-i-prace-marzen" target="_blank"> Jak odnaleźć swoją pasję i pracę marzeń </a>
 
-<a href="https://jakoszczedzacpieniadze.pl/20-porad-jak-byc-dobrym-szefem 20 porad" target="_blank"> Jak być dobrym szefem? </a>
+<a href="https://jakoszczedzacpieniadze.pl/20-porad-jak-byc-dobrym-szefem" target="_blank"> Jak być dobrym szefem? </a>
 
 <a href="https://jakoszczedzacpieniadze.pl/jak-pokierowac-finansami-i-zyciem-w-wieku-20-lat" target="_blank"> Jak pokierować swoimi finansami i życiem, gdy jestem 20-latkiem </a>
 
@@ -105,7 +108,7 @@ Podcasty Michała Szafrańskiego lubię za oferowanie szerokiej perspektywy nie 
 
 <b>Dlaczego warto słuchać?</b> 
 
-Adam Grant jest psychologiem organizacji, a jego podcasty traktują o środowisku pracy, wypaleniu zawodowym, kreatywności i relacja w życiu zawodowym. Podkasty dostępne są na <a href="https://www.ted.com/series/worklife-with-adam-grant" target="_blank"> stronie TED</a>, a ja słucham ich na Spotify.
+Adam Grant jest psychologiem organizacji, a jego podcasty traktują o środowisku pracy, wypaleniu zawodowym, kreatywności i relacjach w życiu zawodowym. Podcasty dostępne są na <a href="https://www.ted.com/series/worklife-with-adam-grant" target="_blank"> stronie TED</a>, a ja słucham ich na Spotify.
 
 <b>Polecane odcinki:</b>
 
@@ -116,11 +119,15 @@ Odcinków jest na razie tylko osiem, a ja polecam każdy z nich!
 
 Mniej regularnie słucham także: 
 
+- Podcastu o wymownej nazwie <a href="https://nozbe.com/blog/thepodcast/" target="_blank"> "The Podcast"</a> skupiającego się na produktywności. Dwugłos twórcy Nozbe i jednego z programistów pracujących nad ową aplikacją. Wiele rozmów dotyczy koncepcji "no office" i pracy zdalnej. Podcast zdecydowanie dla fanów produktów Apple. 
+
 - Wywiadów z polskimi programistami rozsianymi po świecie. <a href="https://www.youtube.com/channel/UCYG1Pkg1jbnYxfJvM-1K5yg" target="_blank"> "Just Join IT"</a> to kanał na youtube, ostatni film wrzucony został do sieci pod koniec 2017 roku. 
 
 - Rozmów o employer brandingu na <a href="http://potkanski.pl/" target="_blank"> stronie Marcina Potkańskiego</a>.  
 
-- Podcastu <a href="https://player.fm/series/podcast-lepiej-teraz-1837728" target="_blank"> "Lepiej Teraz"</a> Radka Budnickiego. Tematyka to głównie rozwój osobisty i zawodowy w połączeniu z filozofią stoicyzmu. 
+- Podcastu <a href="https://player.fm/series/podcast-lepiej-teraz-1837728" target="_blank"> "Lepiej Teraz"</a> Radka Budnickiego. Głównie rozwój osobisty i zawodowy w połączeniu z filozofią stoicyzmu. 
+
+
 
 
 Miłego słuchania! 
