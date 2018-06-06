@@ -70,10 +70,17 @@ Zawsze jeszcze możesz spróbować podpytać o po albo nawet podpytać o pomysł
 Możesz też spróbować <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank" >metody gumowej kaczki</a> ! :)
 
 <h3 class="section-heading"> 7. Rozwijaj się poza sourcingiem </h3>
+<<<<<<< HEAD:_posts/2018-06-05-produktywnosc-w-sourcingu.markdown
 Pracuj nad projektami, które nie są związane bezpośrednio z sourcingiem. Osobiście uważam, że nie można być wydajnych skupiając się tylko i jedynie na sourcingu. 
 Dla mnie takimi projektami było stworzenie pierwszego firmowego programu rekrutacji stażystów na stanowisko programistów, zbudowanie wewnętrzengo kompendium wiedzy na temat metod sourcingu dla rekruterów z europejskich oddziałów firmy, a ostatnio zaprojektowanie bota na Facebookowy messanger służący do kontaktu z kandydatami.
 
 Powiesz, że wszystko zależy od tego w jakiej pracujesz firmie i jakie oferuje ci możliwości. Prawda jest taka, że jeśli to ty nie wykażesz proaktywności, nie oczekuj, że ktoś zaproponuje ci pracę nad rozwojowym projektem spoza obszaru twoich kluczowych obowiązków. 
+=======
+Pracuj nad projektami, które nie są związane bezpośrednio z sourcingiem. Osobiście uważam, że nie można być wydajnych skupiając się tylko i jedynie na sourcingu. Poboczny projekt da możliwość wykorzystania 
+Dla mnie takimi projektami było stworzenie pierwszego firmowego programu rekrutacji stażystów na stanowisko programistów, zbudowanie wewnętrzengo kompendium wiedzy na temat metod sourcingu dla rekruterów z europejskich oddziałów firmy, a ostatnio zaprojektowanie bota na Facebookowy messanger służący do kontaktu z kandydatami.
+
+Powiesz, że wszystko zależy od tego w jakiej pracujesz firmie i jakie oferuje ci możliwości. Prawda jest taka, że jeśli to ty nie wykażesz proaktywności, nie oczekuj, że ktoś zaproponuje ci pracę nad rozwojowym projektem zpoza obszaru twoich kluczowych obowiązków. 
+>>>>>>> origin/master:_posts/2018-06-07-produktywnosc-w-sourcingu.markdown
 
 <h3 class="section-heading">8. Notuj pomysły </h3>
 Zapisuj sourcingowe pomysły, ponieważ ich życie jest bardzo krótkie.
@@ -88,8 +95,11 @@ Buduj podręczną listę boolean stringów i trzymaj ją w jednym miejscu. Używ
 Zrób jedną rzecz a porządnie. Wedle najnowszych badań multitasking nie wcale nie sprawia, że jesteśmy produktywniejsi.
 Wiem z autopsji, jak trudno wyłączyć outlooka czy inny program pocztowy pracując z kandydatami. Próbuj tak sterować swoją pracą, aby skupiać się tylko na jednej czynności w danym czasie. W utrzymaniu takkego rygoru pomocne może być także rozbicie procesu na mniejsze zadania i kolejne odhaczanie wykonanych tasków.
 
+<<<<<<< HEAD:_posts/2018-06-05-produktywnosc-w-sourcingu.markdown
 I koniecznie przeczytaj <a target="_blank" href="https://www.amazon.co.uk/gp/product/0753555166/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0753555166&linkCode=as2&tag=ministryoftal-21&linkId=1885f8cc435d27c1a2528eaa03ed264c" target="_blank">Essentialism: The Disciplined Pursuit of Less</a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=ministryoftal-21&l=am2&o=2&a=0753555166" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
 
+=======
+>>>>>>> origin/master:_posts/2018-06-07-produktywnosc-w-sourcingu.markdown
 <h3 class="section-heading">10. Always follow up!</h3>
 
 Zarezerwuj kilka godzin w tygodniu na przejrzenie wiadomości wysłanych do kandydatów w poprzednich tygodniach (zobacz jak wygląda mój piątek w kalendarzu powyżej). Z uporem maniaka szukaj alternatywnego sposobu dotarcia do kandydata (inny email, konto na w mediach społecznościowych czy osobisty mail wysłany przez hiring managera). Dla mnie złotą zasadą jest do trzech razy sztuka. 
