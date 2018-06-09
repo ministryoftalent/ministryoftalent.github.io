@@ -40,13 +40,19 @@ A tak pewnie wyglądałby mój idealny tydzień pracy.
 
 Stwórz środowisko, które pozwoli ci się w pełni skupić. Wejdź w tryb "deep work" (polecam książkę <a href="https://www.amazon.co.uk/gp/product/0349411905/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=ministryoftal-21&creative=6738&linkCode=as2&creativeASIN=0349411905&linkId=c1f636ad9bcf4574901b173d16fda342" target="_blank" >Deep Work: Rules for Focused Success in a Distracted World</a> jako źródło inspiracji).
 
-Na niektórych doskonale działa muzyka, inni wręcz przeciwnie, aby wejść w tryb głębokiej pracy i skupienia, potrzebują absolutnej ciszy. Jesli jesteś w drugiej grupie zakup słuchawki wyciszające, i w miarę możliwości znajdź miejsce ograniczające liczbę bodźców np. zarezerwuj salkę konferencyjną w której będziesz samotnie pracować przez kilka godzin lub pracuj raz na jakiś czas z domu. 
+Na niektórych doskonale działa muzyka, inni wręcz przeciwnie, aby wejść w tryb głębokiej pracy i skupienia, potrzebują absolutnej ciszy. 
+  
+Jesli jesteś w drugiej grupie zakup słuchawki wyciszające, i w miarę możliwości znajdź miejsce ograniczające liczbę bodźców np. zarezerwuj salkę konferencyjną w której będziesz samotnie pracować przez kilka godzin lub pracuj raz na jakiś czas z domu. 
+
+
 
 <h3 class="section-heading">3. Twoja muzyka do sourcingu</h3>
 
 Zamiast codziennie marnować energię i czas na poszukiwaniu nowych muzycznych kawałków do pracy, stwórz sobie playlistę do sourcingu (ja wykorzystuję do tego Spotify). Z czasem muzyka z owej playlisty będzie ci się bezwiednie kojarzyć z produktywnym sourcingiem i pomoże ci  wejść w tryb głebokiej pracy. 
 
 Od czasu do czasu, zamiast muzyki lubię posłuchać podcastów (<a href="http://ministryoftalent.co.uk/2018/05/05/dobre-podcasty-dla-rekrutera-i-HR/" target="_blank">tutaj</a> znajdziesz listę moich ulubionych). Ze względu na to, że są dużo bardziej angażujące niż zwykłe audio, słucham ich zazwyczaj wykonując pracę bardziej administracyjną jak ustawianie rozmów kandydatów czy wypełnianie raportów.
+
+Ciekawym rozwiązaniem jest aplikacja oparta na badaniach naukowców z UCLA nad produktywnością. Wykazali oni bowiem, że większość ludzi nie jest wstanie skoncentrować więcej niż 20-30 minut w jednym ciagu czasowum. Stworzyli więc aplikację Focus@will  <a href="https://www.focusatwill.com/app/pages/referrals?utm_source=invite&utm_medium=link&utm_campaign=saasquatch&rsCode=LUKASZTYMOSZCZU&rsShareMedium=DIRECT&rsEngagementMedium=MOBILE" target="_blank" >(tutaj link) </a> oferującą muzykę wspierającą funkcjowanie mózgu w trybie wysokiej produktywności nawet do 100 minut. Aplikacja jest płatna, ale warto z ciekawości sprawdzić jak ich muzyka oddziałuje na twoje fale mózgowe. 
 
 
 <h3 class="section-heading">4. Dbaj o rutynę</h3>
