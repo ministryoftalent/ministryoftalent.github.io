@@ -80,7 +80,7 @@ Możesz też spróbować <a href="https://en.wikipedia.org/wiki/Rubber_duck_debu
 <h3 class="section-heading"> 7. Rozwijaj się poza sourcingiem </h3>
 
 Pracuj nad projektami, które nie są związane bezpośrednio z sourcingiem. Osobiście uważam, że nie można być wydajnych skupiając się tylko i jedynie na sourcingu. 
-Dla mnie takimi projektami było stworzenie pierwszego firmowego programu rekrutacji stażystów na stanowisko programistów, zbudowanie wewnętrzengo kompendium wiedzy na temat metod sourcingu dla rekruterów z europejskich oddziałów firmy, a ostatnio zaprojektowanie bota na Facebookowy messanger służący do kontaktu z kandydatami.
+Dla mnie takimi projektami było stworzenie pierwszego firmowego programu rekrutacji stażystów na stanowisko programistów, zbudowanie wewnętrzengo kompendium wiedzy na temat metod sourcingu dla rekruterów z europejskich oddziałów firmy, a ostatnio zaprojektowanie  <a href="https://www.facebook.com/messages/t/facebooklondon" target="_blank" > bota na Facebookowy messenger</a> służący do kontaktu z kandydatami.
 
 Powiesz, że wszystko zależy od tego w jakiej pracujesz firmie i jakie oferuje ci możliwości. Prawda jest taka, że jeśli to ty nie wykażesz proaktywności, nie oczekuj, że ktoś zaproponuje ci pracę nad rozwojowym projektem spoza obszaru twoich kluczowych obowiązków. 
 
