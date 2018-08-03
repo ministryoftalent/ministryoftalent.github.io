@@ -28,7 +28,7 @@ Planujesz kupno nowego wozu. Uroczy sprzedawca samochodów jednym tchem wymienia
 Ręka do góry kto nie zna takiego sprzedawcy-rekrutera? Skrajnie niekompetentni, nie mający pojęcia o technologii, niemerytoryczni. To tylko kilka epitetów, tych łagodniejszych, określających technicznych rekruterów zasłyszanych od programistów. Czy naprawdę jest aż tak źle ze stanem wiedzy zatrudniających na stanowiska techniczne?
 
 
-Próg wejścia do branży rekrutacyjnej jest niezwykle niski. Wymagania na wstępie są niewielkie, a kwalifikacje, a właściwie umiejętność nauki bycia efektywnym rekruterem weryfikowana jest w ciągu pierwszych kilku miesięcy pracy. Pokuszę się na szacunek, że nawet do 40% adeptów sztuki rekrutacji wypada z branży w ciągu pierwszego roku pracy. Rynek wciąż potrzebuje nowego narybku, a młodzi rekruterzy IT trenują na żywym kandydacie, coraz mniej wyrozumiałym programiście. Java mylona z JavaScript
+Próg wejścia do branży rekrutacyjnej jest niezwykle niski. Wymagania na wstępie są niewielkie, a kwalifikacje, a właściwie umiejętność nauki bycia efektywnym rekruterem weryfikowana jest w ciągu pierwszych kilku miesięcy pracy. Pokuszę się na szacunek, że nawet do 40% adeptów sztuki rekrutacji wypada z branży w ciągu pierwszego roku pracy. Rynek wciąż potrzebuje nowego narybku, a młodzi rekruterzy IT trenują na żywym kandydacie, coraz mniej wyrozumiałym programiście. 
 
 <br>
 <h2 class="section-heading">Gdzie i jak się uczyć technologii?</h2>
