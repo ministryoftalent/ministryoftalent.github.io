@@ -35,7 +35,9 @@ Co zrobić żeby żadna ze stron nie miała poczucia zmarnowanego czasu? Czy nap
 
 Próg wejścia do branży rekrutacyjnej jest niezwykle niski. Wymagania na wstępie są niewielkie, a kwalifikacje, a właściwie umiejętność nauki bycia efektywnym rekruterem weryfikowana jest w ciągu pierwszych kilku miesięcy pracy. <b>Pokuszę się na szacunek, że nawet do 40% adeptów sztuki rekrutacji wypada z branży w ciągu pierwszego roku pracy.</b> 
 
-Rynek wciąż potrzebuje nowego narybku, a młodzi rekruterzy IT nieustannie trenują na żywym kandydacie to jest coraz mniej wyrozumiałym, a coraz bardziej sfrustrowanym programiście. I znowuż nasuwają się porównania motoryzacyjne. Z początkami rekrutacji jest nieco podobnie jak z nauką jazdy samochodem. Każdy kiedyś musiał jeździć L-ką i testować swoje umiejętności w starciu z dynamiką ruchu ulicznego, a nie tylko makietą skrzyżowania. A część z kursantów niestety (stety?) nigdy nie zda egzaminu na prawo jazdy. 
+Rynek rekrutacyjny wciąż potrzebuje nowego narybku, zatem młodzi rekruterzy nieustannie trenują na żywym kandydacie czyli coraz mniej wyrozumiałym, a coraz bardziej sfrustrowanym programiście. 
+
+I znowu nasuwają się porównania motoryzacyjne. Z początkami rekrutacji jest nieco podobnie jak z nauką jazdy samochodem. Każdy kiedyś musiał jeździć L-ką i testować swoje umiejętności w starciu z dynamiką ruchu ulicznego, a nie tylko makietą skrzyżowania. A część z kursantów niestety (stety?) nigdy nie zda egzaminu na prawo jazdy. 
 
 <img src="/images/cross.jpg" class="img-responsive" alt="Picture">
 
