@@ -48,7 +48,7 @@ Rozpoczęłam moją drogę od przyswojenia suchych faktów ze zwykłej wikipedii
 
 <h2 class="section-heading">Mniej znaczy więcej </h2>
 
-Tak jak nikt (no, prawie nikt!) nie będzie ekspertem zarówno w Javie, Ruby i .Net, tak i aptekarska znajomość 30 projektów (bo i tyle równoległych procesów nieraz przychodzi prowadzić) rekrutacyjnych, których wymagania zmieniają się częściej niż ekipa rządzących we włoskim parlamencie, <b>jest wyzwaniem nie tyle ambitnym, co praktycznie niewykonalnym</b>. Pozostaje apelować do rozsądniejszego podzialu pracy w zespołach rekrutacyjnych. Mniej zazwyczaj znaczy więcej i lepiej.
+Tak jak nikt (no, prawie nikt!) nie będzie ekspertem zarówno w Javie, Ruby i C#, tak i aptekarska znajomość 30 projektów (bo i tyle równoległych procesów nieraz przychodzi prowadzić) rekrutacyjnych, których wymagania zmieniają się częściej niż ekipa rządzących we włoskim parlamencie, <b>jest wyzwaniem nie tyle ambitnym, co praktycznie niewykonalnym</b>. Pozostaje apelować do rozsądniejszego podzialu pracy w zespołach rekrutacyjnych. Mniej zazwyczaj znaczy więcej i lepiej.
 
 <h2 class="section-heading">Wspólny mianownik</h2>
 
