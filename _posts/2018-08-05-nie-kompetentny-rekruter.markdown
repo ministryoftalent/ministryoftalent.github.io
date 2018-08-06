@@ -21,7 +21,7 @@ Ręka do góry kto nie zna takiego sprzedawcy-rekrutera? Skrajnie niekompetentni
 
 Pomijam <b>grzech ciężki rekruterów, godny najdalszych kręgów piekła Dantego</b>, czyli notoryczne zapominanie o zadzwonieniu do kandydata pomimo wcześniejszego umówienia się na rozmowę. Ale to co boli naszych kandydatów najbardziej to brak rzetelnej informacji na temat projektów na które aplikuje.
 
-<h2 class="section-heading">Wiedza eskpercka - pięta achillesowa rekruterów</h2>
+<h2 class="section-heading">Wiedza ekspercka - pięta achillesowa rekruterów</h2>
 
 Jako rekruterzy w branży IT inwestujemy ocean energii w zdobycie uwagi kandydata. Ta ekscytacja i poczucie dobrze zrobionej roboty, kiedy wiesz, że wśród setek wiadomości od innych rekruterów, kandydat wybrał właśnie ciebie! 
 
