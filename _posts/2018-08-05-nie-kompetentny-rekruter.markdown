@@ -27,7 +27,7 @@ Jako rekruterzy w branży IT inwestujemy ocean energii w zdobycie uwagi kandydat
 
 <img src="/images/phones.jpg" class="img-responsive" alt="Picture">
 
-Brutalne zderzenie z rzeczywistością następuje podczas pierwszej rozmowy z kandydatem. <b>Rekruter plącze się w zeznaniach, a kandydat przeklina moment, w którym zdecydował się podzielić swoim numerem telefonu</b>. Nad znajomością słownictwa, terminologii można popracować. Mniej wpływu mamy na to ile informacji otrzymujemy od hiring managera i klienta. 
+Brutalne zderzenie z rzeczywistością następuje podczas pierwszej rozmowy z kandydatem. <b>Rekruter plącze się w zeznaniach, i kandydat przeklina moment, w którym zdecydował się podzielić swoim numerem telefonu</b>. Nad znajomością słownictwa, terminologii można popracować. Mniej wpływu mamy na to ile informacji otrzymujemy od hiring managera i klienta. 
 
 Co zrobić żeby żadna ze stron nie miała poczucia zmarnowanego czasu? Czy naprawdę jest aż tak źle ze stanem wiedzy zatrudniających na stanowiska techniczne?
 
