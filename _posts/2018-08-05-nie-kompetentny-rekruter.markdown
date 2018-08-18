@@ -54,7 +54,7 @@ Tak jak nikt (no, prawie nikt!) nie będzie ekspertem zarówno w Javie, Ruby i C
 
 <h2 class="section-heading">Wspólny mianownik</h2>
 
-Technologie w branży zmieniają się z prędkością świetlną. Wspólnym mianownikiem dobrego rekrutera i programisty winna być ciekawość i ciągły rozwój. To czego uczyłam od 2011 roku w dużej części zdążyło się zdezaktualizować, dlatego w miarę możliwości staram się odświeżać moją wiedzę na bieżąco. O tym jak pielęgnuję i zdobywam wiedzę techniczną opowiem w następnym artykule z serii.
+Technologie w branży zmieniają się z prędkością świetlną. Wspólnym mianownikiem dobrego rekrutera i programisty winna być ciekawość i ciągły rozwój. To czego uczyłam od 2011 roku w dużej części zdążyło się zdezaktualizować, dlatego w miarę możliwości staram się odświeżać moją wiedzę na bieżąco. O tym jak pielęgnuję i zdobywam wiedzę techniczną opowiem w następnym artykule: <a href="http://ministryoftalent.co.uk/2018/08/18/poradnik-przetrwania-dla-tech-rekrutera/"> Z poradnika przetrwania dla rekrutera IT</a> .
 
 
 
