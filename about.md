@@ -8,6 +8,8 @@ permalink: /about/
 <div class="mt50"></div>
 <b>Uwaga!!
 Blog został przeniesiony na platformę wordpressa: https://agadeszczka.wordpress.com/ 
+    
+    
 Zapraszam na najnowsze posty. </b>
 
 --------------------------------
