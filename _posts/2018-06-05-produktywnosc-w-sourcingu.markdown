@@ -9,6 +9,11 @@ categories: praca, github, sourcing
 index: true
 ---
 
+W październiku 2018 blog został przeniesony na platformę blogger. Na najnowsza wersję artykułu i nowości zapraszam tutaj: https://agadeszczka.blogspot.com/2018/10/produktywny-rekruter.html
+
+-----------
+
+
 <b>Najpierw zgaś kilka pożarów, potem przebrnij przez setkę maili i załatw sprawy niecierpiące zwłoki, zamelduj się na trzech “bardzo ważnych” spotkaniach, po to by pod koniec dnia, w stanie absolutnego zmęczenia materiału spędzić pół godziny na tym co powinno stanowić priorytet pracy rekrutera. 
 Pół godziny na sourcing? Ze złości zaciskasz zęby, bo doskonale wiesz, że kolejny taki dzień odbije się na twoich wynikach. Najwyższa pora zapanować nad twoim czasem. 
 </b>
