@@ -75,7 +75,7 @@ Dość często sugeruje się rozpocząć przygodę z programowaniem od poznania 
 
 <img src="/images/coding.jpg" class="img-responsive" alt="Picture">
 
-A jeśli złapiesz bakcyla i przejdzie ci przez myśl pomysł przebranżowienia, przeczytaj <a href="http://ministryoftalent.co.uk/2017/01/22/odkodowac-pasje/" target="_blank" > historię zmiany zawodowej Sandry (od rekrutera do programisty)</a>.
+A jeśli złapiesz bakcyla i przejdzie ci przez myśl pomysł przebranżowienia, przeczytaj <a href="hhttps://agadeszczka.blogspot.com/2017/01/odkodowac-pasje.html" target="_blank" > historię zmiany zawodowej Sandry (od rekrutera do programisty)</a>.
 
 
 Przy okazji polecam grupę zrzeszającą rekruterów zainteresowanych rozwojem swoich umiejętności technicznych: <a href="https://www.facebook.com/groups/SourcersWhoCode/" target="_blank" > Sourcers who Code</a>.
