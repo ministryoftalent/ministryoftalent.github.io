@@ -8,6 +8,9 @@ img:  car_1.jpg
 categories: praca, github, sourcing
 index: true
 ---
+W październiku 2018 blog został przeniesony na platformę blogger. Na najnowsza wersję artykułu i nowości zapraszam tutaj: https://agadeszczka.blogspot.com/2018/07/niekompetentny-rekruter.html
+
+------------------------------
 
 <b>Planujesz kupno nowego wozu. Uroczy sprzedawca samochodów jednym tchem wymienia parametry wozu, z pasją opisuje wszelkie jego zalety, a ty oczami wyobraźni już siadasz za jego kółkiem i mkniesz szeroką autostradą. Ale mija chwila i pojawia się pierwsza rysa w procesie kupna-sprzedaży.</b>  
 
