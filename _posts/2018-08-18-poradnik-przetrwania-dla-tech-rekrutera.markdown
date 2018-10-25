@@ -37,11 +37,11 @@ A o wykorzystaniu Githuba do celów rekrutacyjnych popełniłam niegdyś mini pr
 
 <img src="/images/git2017.png" class="img-responsive" alt="Picture">
 
-- <a href="http://ministryoftalent.co.uk/2017/08/08/sourcing-na-githubie/" target="_blank"> Sourcing na Githubie - podstawy (część 1) </a>
+- <a href="https://agadeszczka.blogspot.com/2018/02/sourcing-na-githubie-podstawy-czesc-1.html" target="_blank"> Sourcing na Githubie - podstawy (część 1) </a>
 
-- <a href="http://ministryoftalent.co.uk/2017/09/01/super-programisci-github-czesc-2/" target="_blank"> Super-programiści czyli rzecz o trendach na GitHubie (część 2)</a>
+- <a href="https://agadeszczka.blogspot.com/2018/03/jak-znalezc-dobrego-pogramiste-gdy.html" target="_blank"> Super-programiści czyli rzecz o trendach na GitHubie (część 2)</a>
 
-- <a href="http://ministryoftalent.co.uk/2017/10/02/github-open-source-czesc-3/" target="_blank"> Open source czyli rzecz o otwartym oprogramowaniu (część 3)</a>
+- <a href="https://agadeszczka.blogspot.com/2018/03/github-open-source.html" target="_blank"> Open source czyli rzecz o otwartym oprogramowaniu (część 3)</a>
 
 
 
@@ -82,5 +82,5 @@ Przy okazji polecam grupę zrzeszającą rekruterów zainteresowanych rozwojem s
 
 A jaka jest Twoja stategia przetrwania w świecie IT?
 
-<iframe src="https://giphy.com/embed/cCvWHbfVdn2bm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shark-sharks-week-cCvWHbfVdn2bm"></a></p>
+
 
