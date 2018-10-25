@@ -9,6 +9,10 @@ categories: praca, github, sourcing
 index: true
 ---
 
+W pażdzierniku 2018 blog został przeniesony na platformę blogger. Na najnowsza wersję artykułu i nowości zapraszam tutaj: https://agadeszczka.blogspot.com/2018/08/Z-poradnika-przetrwania-rekrutera-IT.html
+
+----------------------------------------------------------------------------------------------------
+
 <b>Truizmem jest stwierdzenie, że znakomita większość rekruterów nie ma zaplecza technicznego, a w branży znalazła się zupełnie przez przypadek. Kolejny zbieg okoliczności rzucił nas na głębokie wody rekrutacji technicznej. I to tylko od ciebie będzie zależeć w jakim stylu okiełznasz wzburzone fale świata IT.
 </b>
 
