@@ -9,6 +9,11 @@ categories: praca, github, sourcing
 index: true
 ---
 
+W październiku 2018 blog został przeniesony na platformę blogger. Na najnowsza wersję artykułu i nowości zapraszam tutaj: https://agadeszczka.blogspot.com/2018/05/czlowiek-z-hru.html
+
+---------------------
+
+
 <b>Jak wielu w tej branży, swoją karierę rozpoczął dość przypadkowo. Nieprzypadkowe są jednak jego inicjatywy w polskim świecie HR i rekrutacji. Maciek Stęga nie tylko prowadzi własny, prężnie działający rekrutacyjny biznes, jeździ po całym kraju ewangelizując z idei networkingu, ale rozpoczął także pionierski cykl spotkań eksperckich pod szyldem Webski HR. Dziś rozmawiam z Maćkiem o wyzwaniach w pracy freelancera w branży rekrutacyjnej.</b>
 
 <img src="/images/maciek_stega1.jpg" class="img-responsive" alt="Picture">
