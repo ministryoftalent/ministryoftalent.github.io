@@ -8,6 +8,10 @@ img:  pexels-photo-296881.jpeg
 categories: praca, github, sourcing
 index: true
 ---
+W październiku 2018 blog został przeniesony na platformę blogger. Na najnowsza wersję artykułu i nowości zapraszam tutaj:
+https://agadeszczka.blogspot.com/2018/05/prawdy-i-mity-o-diversity.html
+
+-----------------------
 
 <b>Zagadnienie zarządzania różnorodnością budzi skrajne emocje, od zachwytu nad ideą wyrównania szans, po przekleństwa nad tym przebrzydłym "genderem". Na pewno za tym terminem kryje się dużo niezrozumienia i nadinterpretacji.  Czy w takim razie jest diversity & inclusion w rekrutacji?
 </b>
