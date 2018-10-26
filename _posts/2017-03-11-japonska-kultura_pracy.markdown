@@ -8,6 +8,10 @@ img: rsz_hanami.png
 categories: [praca, podróże]
 index: true
 ---
+W październiku 2018 blog został przeniesony na platformę blogger. Na najnowsza wersję artykułu i nowości zapraszam tutaj:
+https://agadeszczka.blogspot.com/2017/03/japonia-kultura-pracy.html
+
+
 <b>Rok temu, dokładnie w piątą rocznicę katastrofy elektrowni atomowej w Fukushimie, wylądowaliśmy w Japoniii. 
 W paszportach przybito nam wizę pokrytą nic niemówiącymi nam krzaczkami i przez najbliższe dwa tygodnie mogliśmy się cieszyć pobytem w kraju kwitnącej wiśni.
 Nie wiedzieliśmy wtedy jeszcze, że największym szokiem z którym przyjdzie się nam zmierzyć, to nie kosmiczne toalety czy uwielbienie kawaii, ale zwyczaje związane z kulturą pracy.</b> 
