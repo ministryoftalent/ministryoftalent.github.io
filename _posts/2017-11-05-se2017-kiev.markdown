@@ -9,6 +9,11 @@ categories: praca, github, sourcing
 index: true
 ---
 
+
+W październiku 2018 blog został przeniesony na platformę blogger. Na najnowsza wersję artykułu i nowości zapraszam tutaj: https://agadeszczka.blogspot.com/2017/11/se2017-conference-kiev.html
+
+--------------
+
 <b>I have visited Kiev a couple years ago just for a business trip. Due to long working hours, I did not have an opportunity to do a proper sightseeing. When departing it felt like it's definitely not a "goodbye", but "see you later" Kiev! And finally, last month, I had a chance to pay another visit to Kiev by dropping by to a technology conference SE2017.</b>
 
   
