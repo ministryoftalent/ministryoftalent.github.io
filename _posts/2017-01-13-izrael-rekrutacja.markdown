@@ -8,6 +8,11 @@ img: rsz_masada.png
 categories: [praca, podróże]
 index: true
 ---
+W październiku 2018 blog został przeniesony na platformę blogger. Na najnowsza wersję artykułu i nowości zapraszam tutaj:
+https://agadeszczka.blogspot.com/2017/01/misja-rekrutacja-jak-to-sie-robi-w-izraelu.html
+
+-------------------------------------------
+
 <b>Propozycja pracy nad projektem dla globalnej marki budującej swój oddział inżynieryjny w Tel-Avivie brzmiała egzotycznie, a zarazem ekscytująco. Kiedy to wgłębiałam się w tajniki projektu dotarło do mnie jak skomplikowany to rynek. Uzmysłowiłam sobie, że sposoby rekrutacji znane mi z rynku europejskiego, tutaj się nie sprawdzą. 
 </b> 
 
