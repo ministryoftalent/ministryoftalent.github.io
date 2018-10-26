@@ -12,6 +12,8 @@ index: true
 W październiku 2018 blog został przeniesony na platformę blogger. Na najnowsza wersję artykułu i nowości zapraszam tutaj: 
 https://agadeszczka.blogspot.com/2017/12/sourcingowy-rocnroll-w-krakowie.html
 
+-----------------------
+
 
 <b>Wstyd się przyznać, ale to podsumowanie miało powstać dobrych kilka tygodni temu. 
 Listopad zamienił się niepostrzeżenie w grudzień, w końcu dotarliśmy do świąt, a ja wciąż nie napisałam notki z ROCday z Krakowa. 
