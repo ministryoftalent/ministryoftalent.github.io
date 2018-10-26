@@ -8,6 +8,9 @@ img:  BCCA37B5F2.jpg
 categories: praca, github, sourcing
 index: true
 ---
+W październiku 2018 blog został przeniesony na platformę blogger. Na najnowsza wersję artykułu i nowości zapraszam tutaj:
+https://agadeszczka.blogspot.com/2018/05/Programista-w-srodowisku-naturalnym.html
+
 
 <b>Nie od dziś wiadomo, że programistów najlepiej szukać w ich środowisku naturalnym. Kiedyś można było wejść do pierwszego lepszego budynku na Mordorze, rozdawać darmowe kanapki i na pewno na horyzoncie zaraz pojawił się jakiś programista. Tempora mutantur! Ale kiedy próżno szukać nowych CV w skrzynce pocztowej, a LinkedIn co rusz zawodzi, dobry rekruter choć na chwilę powinien spróbować wejść w skórę swojego kandydata i poszukać u źródła.</b>
 
@@ -25,7 +28,7 @@ Hasła Wikipedii tworzą pasjonaci. I oczywiście wśród nich nie brakuje zapal
 
 Szukasz programistów Python? Wejdźmy na hasło "Python" w polskiej wersji językowej Wikipedii, i od razu przejdźmy do zakładki <a href="https://pl.wikipedia.org/w/index.php?title=Python&action=history" target="_blank"> Historia i autorzy</a>.
 
-Przechodząc przez historię zobaczysz, kto i kiedy edytował wpis. Właściwie musisz wejść w każdy Nick wikipedysty i sprawdzić, czy nie ma tam więcej informacji. Na takim profilu często znajdzie informację na temat ich zainteresowań, czasem odnośnik do strony domowej, niekiedy kontakt emailowy. Jeśli mamy tylko nick i dużo sygnałów z profilu wikipedysty, że potencjalnie zajmuje się tym, czego poszukujemy, możemy już w niemal tradycyjny sposób zweryfikować tożsamość za pomocą Googla czy Githuba (tutaj więcej o <a href="http://ministryoftalent.co.uk/2017/08/08/sourcing-na-githubie/" target="_blank">sourcingu na Githubie</a>). 
+Przechodząc przez historię zobaczysz, kto i kiedy edytował wpis. Właściwie musisz wejść w każdy Nick wikipedysty i sprawdzić, czy nie ma tam więcej informacji. Na takim profilu często znajdzie informację na temat ich zainteresowań, czasem odnośnik do strony domowej, niekiedy kontakt emailowy. Jeśli mamy tylko nick i dużo sygnałów z profilu wikipedysty, że potencjalnie zajmuje się tym, czego poszukujemy, możemy już w niemal tradycyjny sposób zweryfikować tożsamość za pomocą Googla czy Githuba (tutaj więcej o <a href="https://agadeszczka.blogspot.com/search/label/github" target="_blank">sourcingu na Githubie</a>). 
 
 Przeszukiwanie bazy wikipedystów może być dla nas niezwykle pomocne jeśli szukamy osób z silnym zapleczem akademickich, bo właśnie z tego środowiska wywodzi się gro jego twórców. Wadą jest żmudność procesu wyszukiwania i to, że można się zatracić w przeskakiwaniu z jednego hasła do kolejnego, przeglądaniu kategorii wikipedystów (tutaj w <a href="https://pl.wikipedia.org/wiki/Kategoria:User_inf" target="_blank">dziale informatyka</a>) i przeklikiwanie dalszych odnośników. 
  
