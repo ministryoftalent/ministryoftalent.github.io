@@ -8,6 +8,11 @@ img: referencje2.png
 categories: praca, referencje
 index: true
 ---
+W październiku 2018 blog został przeniesony na platformę blogger. Na najnowsza wersję artykułu i nowości zapraszam tutaj: 
+https://agadeszczka.blogspot.com/2017/05/referencje.html
+ 
+ ______
+ 
  <b>Ręka do góry, kto kiedykolwiek w swoim CV, gdzieś tam małym druczkiem na dole strony, nie pozostawił wpisu “Referencje na życzenie”? Założe się, że większość z nas traktowała referencje  tak samo poważnie jak obowiązek meldunkowy.</b> 
  
  Kiedy aplikowałam do moich pierwszych prac w Polsce, nikt nie pytał mnie o referencje. Odkąd jednak przeprowadziłam się do Anglii, owa kwestia zmieniła się diametralnie. O rekomendacje pytają wszyscy i wszędzie. Od małej kawiarni po międzynarodową korporację. Tutaj wiara w opinię drugiego człowieka wydaje się być niepodważalna, kiedy w Polsce podchodzimy do niej się z dużą dawką podejrzliwości. W moim przypadku, tuż przed ofertą, w pełni zaskoczona obrotem sprawy, musiałam wyczarować jak magik królika z kapelusza, trzy solidne referencje. 
