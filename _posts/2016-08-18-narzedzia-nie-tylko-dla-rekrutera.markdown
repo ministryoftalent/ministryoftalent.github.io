@@ -8,6 +8,11 @@ img: rsz_id-100380115.jpg
 tags: praca, rozmowa rekrutacyjna, rozwój, UK
 index: true
 ---
+
+W październiku 2018 blog Ministry of Talent (blog o rekrutacji i sourcingu) został przeniesony na platformę blogger. Na najnowsza wersję artykułu i nowości zapraszam tutaj: https://agadeszczka.blogspot.com/2018/10/narzedziownik-rekrutera-2018.html
+
+-------------------------
+
 O produktywności napisano już wiele. Pewnie dlatego, że nie ma też jednego przepisu na wbicie się na wyżyny wydajności. 
 Dzisiaj przedstawiam kilka wtyczek i narzędzi, który czynią moją pracę trochę bardziej uporządkowaną, a przy okazji dają szansę na oddech mojemu wykeksploatowanemu laptopowi (i ulgę moim skołatanym nerwom).
 
